@@ -1,7 +1,7 @@
-baseurl = "/"
+baseurl = "https://www.interdimensionalvortex.com/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Homepage"
+title = "The Vortex"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
