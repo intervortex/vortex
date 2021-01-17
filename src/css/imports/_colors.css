@@ -4,6 +4,10 @@
   color: var(--primary);
 }
 
+.primary-dark {
+  color: var(--primary-dark);
+}
+
 .highlight {
   color: var(--highlight);
 }
@@ -38,6 +42,10 @@
 
 .bg-primary {
   background-color: var(--primary);
+}
+
+.bg-primary-dark {
+  background-color: var(--primary-dark);
 }
 
 .bg-highlight {
