@@ -15,18 +15,41 @@
 	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
 
 	<!-- Favicons -->
-	<link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
-	<link rel="icon" type="image/png" href="/img/favicon-32x32.png" sizes="32x32">
-	<link rel="icon" type="image/png" href="/img/favicon-16x16.png" sizes="16x16">
-	<link rel="manifest" href="/manifest.json">
-	<link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#ff4400">
+	<link rel="apple-touch-icon" sizes="57x57" href="/img/icons/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/img/icons/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/img/icons/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/img/icons/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/img/icons/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/img/icons/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/img/icons/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/img/icons/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/img/icons/apple-icon-180x180.png">
+	<link rel="mask-icon" href="/img/icons/safari-pinned-tab.svg" color="#ff4400">
+	<link rel="icon" type="image/png" sizes="192x192"  href="/img/icons/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/img/icons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/img/icons/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/img/icons/favicon-16x16.png">
+	<link rel="manifest" href="/icons/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/img/icons/ms-icon-144x144.png">
 	<meta name="theme-color" content="#fff">
 
 	<!-- Open Graph -->
-	<meta property="og:type" content="business.business">
-	<meta property="og:title" content="Kaldi | Great coffee with a conscience">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="The Vortex | we are suicide, without brain">
+	<meta property="og:description"
+	      content="The Interdimensional Vortex of Conspiratorial Tastemaking, where good taste comes to die." />
 	<meta property="og:url" content="/">
 	<meta property="og:image" content="/img/og-image.jpg">
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-7FE0NVM2J2"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-7FE0NVM2J2');
+	</script>
 
   {{ if .IsHome }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
