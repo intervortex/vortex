@@ -2,12 +2,13 @@
 
 	<!-- Logo -->
 	<a href="/" class="di mr6 h-100 w3 flex items-center no-underline">
-		<img src="/img/icons/logolight.svg" alt="Vortex logo" class="br0 di mb0 mr2 off-white"/>
+		<img src="/img/icons/logolight.svg" alt="Vortex logo" class="light--hidden br0 di mb0 mr2"/>
+		<img src="/img/icons/logodark.svg" alt="Vortex logo" class="dark--hidden br0 di mb0 mr2"/>
 		<span class="avenir f3 off-white b">The Vortex</span>
 	</a>
 
 	<!-- Primary Nav -->
-	<ul class="flex b off-white">
+	<ul class="flex b off-white items-center">
 		<li><a href="/news" class="pa3 no-underline db">News</a></li>
 
 		<li><a href="/post" class="pa3 no-underline db">Reviews</a></li>
@@ -17,6 +18,15 @@
 		<li><a href="/vortexplorer" class="pa3 no-underline db">Vortexplorer™</a></li>
 
 		<li><a href="/whomst" class="pa3 no-underline db">Whomst?</a></li>
+
+		<li>
+			<button class="ph2 color-mode__btn light--hidden off-white" style="background-color: transparent;">
+			<svg width="16px" height="16px"><use xlink:href="#svg-sun"></use></svg>
+			</button>
+			<button class="ph2 color-mode__btn dark--hidden" style="background-color: transparent;">
+			<svg width="16px" height="16px"><use xlink:href="#svg-moon"></use></svg>
+			</button>
+		</li>
 	</ul>
 
 </nav>

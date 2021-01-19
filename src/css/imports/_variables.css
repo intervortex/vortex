@@ -1,16 +1,4 @@
 :root {
-	/* Colors */
-	--primary: rgb(166, 99, 204) ;
-	--highlight: rgba(254, 213, 198, 1);
-	--primary-dark: rgb(221, 223, 224);
-	--white: rgba(255, 255, 255, 1);
-	--off-white: rgba(255, 253, 252, 1);
-	--grey-1: rgba(245, 243, 242, 1);
-	--grey-2: hsl(196, 43%, 28%);
-	--grey-3: rgb(44, 66, 74);
-	--grey-4: rgb(0, 48, 61);
-	--black: rgb(0, 32, 41);
-
 	/* Typography */
 	--font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
 	--line-height: 1.5;
@@ -35,4 +23,40 @@
 	/* Miscelaneous */
 	--border-radius: .25rem;
 	--hover-transition: all 150ms ease;
+}
+
+:root[color-mode="dark"] {
+	/* Colors */
+	--primary: rgb(166, 99, 204) ;
+	--highlight: rgba(254, 213, 198, 1);
+	--primary-dark: rgb(221, 223, 224);
+	--white: rgba(255, 255, 255, 1);
+	--off-white: rgba(255, 253, 252, 1);
+	--grey-1: rgba(245, 243, 242, 1);
+	--grey-2: hsl(196, 43%, 28%);
+	--grey-3: rgb(44, 66, 74);
+	--grey-4: rgb(0, 48, 61);
+	--black: rgb(0, 32, 41);
+}
+
+:root[color-mode="light"] {
+	/* Colors */
+	--primary: rgb(166, 99, 204) ;
+	--highlight: rgba(254, 213, 198, 1);
+	--primary-dark: rgb(221, 223, 224);
+	--white: rgb(22, 21, 21);
+	--off-white: rgb(34, 20, 12);
+	--grey-1: rgb(82, 77, 74);
+	--grey-2: hsl(197, 30%, 51%);
+	--grey-3: rgb(166, 194, 204);
+	--grey-4: rgb(232, 245, 231);
+	--black: rgb(55, 197, 236);
+}
+
+:root[color-mode="light"] .light--hidden{
+	display: none;
+}
+
+:root[color-mode="dark"] .dark--hidden{
+	display: none;
 }
