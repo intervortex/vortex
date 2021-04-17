@@ -1,6 +1,14 @@
+@font-face {
+	font-family: 'ParkLane';
+	font-style: normal;
+	font-weight: normal;
+	src:
+	  url('../fonts/ParkLaneNF.woff') format('woff');
+  }
+
 :root {
 	/* Typography */
-	--font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+	--font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'ParkLane' 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
 	--line-height: 1.5;
 
 	--font-size: 18px;
@@ -27,30 +35,30 @@
 
 :root[color-mode="dark"] {
 	/* Colors */
-	--primary: rgb(166, 99, 204) ;
+	--primary: rgb(255, 162, 0) ;
 	--highlight: rgba(254, 213, 198, 1);
 	--primary-dark: rgb(221, 223, 224);
 	--white: rgba(255, 255, 255, 1);
-	--off-white: rgba(255, 253, 252, 1);
-	--grey-1: rgba(245, 243, 242, 1);
-	--grey-2: hsl(196, 43%, 28%);
-	--grey-3: rgb(44, 66, 74);
-	--grey-4: rgb(0, 48, 61);
-	--black: rgb(0, 32, 41);
+	--off-white: rgb(248, 255, 244);
+	--grey-1: rgb(177, 182, 166);
+	--grey-2: rgb(130, 151, 151);
+	--grey-3: rgb(105, 103, 115);
+	--grey-4: rgb(54, 57, 70);
+	--black: rgb(27, 29, 35);
 }
 
 :root[color-mode="light"] {
 	/* Colors */
-	--primary: rgb(166, 99, 204) ;
+	--primary: rgb(255, 162, 0) ;
 	--highlight: rgba(254, 213, 198, 1);
 	--primary-dark: rgb(221, 223, 224);
-	--white: rgb(22, 21, 21);
+	--white: rgb(27, 29, 35);
 	--off-white: rgb(34, 20, 12);
-	--grey-1: rgb(82, 77, 74);
-	--grey-2: hsl(197, 30%, 51%);
-	--grey-3: rgb(166, 194, 204);
-	--grey-4: rgb(232, 245, 231);
-	--black: rgb(55, 197, 236);
+	--grey-1: rgb(54, 57, 70);
+	--grey-2: rgb(105, 103, 115);
+	--grey-3: rgb(130, 151, 151);
+	--grey-4: rgb(177, 182, 166);
+	--black: rgb(248, 255, 244);
 }
 
 :root[color-mode="light"] .light--hidden{
