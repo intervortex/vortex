@@ -19,7 +19,7 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.((png)|(eot)|(woff)|(woff2)|(ttf)|(svg)|(gif))(\?v=\d+\.\d+\.\d+)?$/,
+        test: /\.((png)|(svg)|(gif))(\?v=\d+\.\d+\.\d+)?$/,
         loader: "file-loader?name=/[hash].[ext]"
       },
       {
@@ -34,7 +34,7 @@ module.exports = {
         use: ["style-loader", MiniCssExtractPlugin.loader, "css-loader", "postcss-loader", "sass-loader"]
       },
       { 
-        test: /\.(png|woff|woff2|eot|ttf|svg)$/, 
+        test: /\.(woff|woff2|eot|ttf)$/, 
         loader: 'url-loader?limit=100000'
       }
     ]
