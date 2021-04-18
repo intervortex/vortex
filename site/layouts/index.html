@@ -4,8 +4,8 @@
 
 {{ partial "blog" . }}
 
-{{ partial "2-up" .Params }}
+{{ partial "text-and-2col-list" .Params.intro }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+{{ partial "text-and-image" .Params.values }}
 
 {{ end }}

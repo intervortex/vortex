@@ -2,8 +2,7 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
-{{ partial "4-up" .Params.intro }}
-
+{{ partial "text-and-2col-list" .Params.intro }}
 
 {{ with .Params.main }}
 <div class="mw7 center">
@@ -26,6 +25,6 @@
 <!-- Full-width image -->
 <img src="{{ .Params.full_image }}" alt="" class="db w-100">
 
-{{ partial "table" .Params.pricing }}
+{{ partial "table" (dict "heading" .Params.pricing.heading "text" .Params.pricing.description "list" .Params.pricing.plans) }}
 
 {{ end }}

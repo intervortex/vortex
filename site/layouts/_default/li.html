@@ -1,6 +1,20 @@
-<a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-3 br1 mb2 db raise w-100">
-	<h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
-	<p class="mid-gray lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-	<p class="mb0">{{ .Description }}</p>
-	<p class="link b dib grey-1 mb0">Read more →</p>
-</a>
+<div class="flex flex-column flex-row-ns justify-center items-center w-100">
+  {{ if .Params.image }}
+  <div class="pr1-ns w-100 w-30-ns">
+    <img class="db center" src="{{ .Params.image }}" alt="{{ .Title }}" />
+  </div>
+  {{ end }}
+
+  <a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-4 br1 ma2 db raise flex-auto">
+    <h2 class="f4 b lh-title mb1 primary">{{ .Title }}</h2>
+    <p class="f6 highlight lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+    <p class="f6 highlight mb0">{{ .Description }}</p>
+    <p class="f6 lh-copy measure-wide">{{ .Summary }}</p>
+
+    {{ if .Truncated }}
+    <!-- This <div> includes a read more link, but only if the summary is truncated... -->
+    <p class="link b dib grey-1 mb0">Read more →</p>
+    {{ end }}
+  </a>
+
+</div>

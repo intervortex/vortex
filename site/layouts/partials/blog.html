@@ -1,19 +1,21 @@
-<div class="bg-black off-white pv4">
-	<div class="ph3 mw7 center">
+<section class="bg-black pv4">
+  <div class="ph1 mw7 center">
 
-		<h2 class="f2 b lh-title mb3">Latest opinions</h2>
+    {{ partial "section-title" (dict "heading" "Hottest takes") }}
 
-		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
-			{{ range first 4 (where .Data.Pages "Type" "post") }}
-				<div class="ph1-ns w-50-ns flex">
-					{{ .Render "li" }}
-				</div>
-			{{ end }}
-		</div>
+    <div class="flex justify-center items-center w-100 mb3 ba bw1 b--primary">
+      <div class="flex-ns mhn1-ns flex-wrap w-100 ph3 ma1 ba bw1 b--primary">
+        {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
+        <article class="pa2-ns w-100 bb b--primary flex">
+          {{ .Render "li" }}
+        </article>
+        {{ end }}
+      </div>
+    </div>
 
-		<div class="tc">
-			<a href="/post" class="btn raise">Read more</a>
-		</div>
+    <div class="tc">
+      <a href="/post" class="btn raise">Read more</a>
+    </div>
 
-	</div>
-</div>
+  </div>
+</section>

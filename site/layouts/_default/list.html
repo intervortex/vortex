@@ -3,13 +3,13 @@
 {{ partial "jumbotron" (dict "imageUrl" "/img/blog-index.jpg" "title" "Latest stories") }}
 
 <div class="mw7 center">
-  <ul class="flex-ns flex-wrap mhn1-ns pa3">
+  <div class="mhn1-ns pa3">
       {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
-          <div class="w-50-ns ph1-ns flex">
+          <article class="pa2-ns w-100 bb b--primary flex">
             {{ .Render "li"}}
-          </div>
+          </article>
       {{ end }}
-  </ul>
+  </div>
   {{ partial "pagination" . }}
 </div>
 

@@ -1,8 +1,8 @@
 {{ define "main" }}
 
-  <div class="mw7 center ph3 pv4">
-    <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
-    <div class="flex justify-between bg-black off-white">
+  <div class="mw7 center ph3 pv4 off-white">
+    <h1 class="f2 lh-title b mb3 primary">{{.Title}}</h1>
+    <div class="flex justify-between bg-black highlight">
       <p>{{ .Date.Format "Mon, 2 Jan 2006" }}</p>
       <p>Read in {{ .ReadingTime }} minutes</p>
     </div>
