@@ -1,32 +1,36 @@
-<nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-grey-4 divider-grey relative">
+<nav class="h4 pv3 bg-grey-4 divider-grey">
 
-	<!-- Logo -->
-	<a href="/" class="di mr6 h-100 w3 flex items-center no-underline">
-		<img src="/img/icons/logolight.svg" alt="Vortex logo" class="light--hidden br0 di mb0 mr2"/>
-		<img src="/img/icons/logodark.svg" alt="Vortex logo" class="dark--hidden br0 di mb0 mr2"/>
-		<span class="avenir f3 off-white b">The Vortex</span>
-	</a>
+	<div class="flex h-100 justify-between mh3 no-underline">
+		<!-- Logo -->
+		<a class="flex justify-center w-20 mw4" href="/">
+			<img src="/img/icons/logo.svg" alt="Vortex logo" class="w4 light--hidden"/>
+			<img src="/img/icons/logo.svg" alt="Vortex logo" class="w4 dark--hidden"/>
+		</a>
 
-	<!-- Primary Nav -->
-	<ul class="flex b off-white items-center">
-		<li><a href="/news" class="pa3 no-underline db">News</a></li>
+		<!-- Title -->
+		<div class="flex flex-column items-center justify-center tc off-white">
+			<span class="artdeco f3 b">INTERDIMENSIONAL VORTEX OF CONSPIRATORIAL TASTEMAKING</span>
+			<span class="artdeco f4">Where good taste comes to die</span>
+		</div>
 
-		<li><a href="/post" class="pa3 no-underline db">Reviews</a></li>
-
-		<li><a href="/views" class="pa3 no-underline db">Ramblings</a></li>
-		
-		<li><a href="/vortexplorer" class="pa3 no-underline db">Vortexplorer™</a></li>
-
-		<li><a href="/whomst" class="pa3 no-underline db">Whomst?</a></li>
-
-		<li class="color-mode__header">
+		<!-- Light switch -->
+		<div class="w-10 mw2 color-mode__header">
 			<button class="ph2 color-mode__btn light--hidden off-white" style="background-color: transparent;">
 			<svg width="16px" height="16px"><use xlink:href="#svg-sun"></use></svg>
 			</button>
 			<button class="ph2 color-mode__btn dark--hidden" style="background-color: transparent;">
 			<svg width="16px" height="16px"><use xlink:href="#svg-moon"></use></svg>
 			</button>
-		</li>
+		</div>
+	</div>
+
+	<!-- Primary Nav -->
+	<ul class="flex relative shift-50 mh7 justify-center ba br-pill b--grey-2 bw1 bg-grey-4 off-white b">
+		<li><a href="/news" class="pa2 no-underline db">News</a></li>
+		<li><a href="/post" class="pa2 no-underline db">Reviews</a></li>
+		<li><a href="/views" class="pa2 no-underline db">Ramblings</a></li>
+		<li><a href="/vortexplorer" class="pa2 no-underline db">Vortexplorer™</a></li>
+		<li><a href="/whomst" class="pa2 no-underline db">Whomst?</a></li>
 	</ul>
 
 </nav>
