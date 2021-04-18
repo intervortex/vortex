@@ -1,6 +1,6 @@
 ---
 title: "Whomst"
-logo: "/img/icons/logo.svg"
+tagline: "We are all suicide, without brain."
 contact_entries:
   - heading: Location
     text: "3153 Lynn Avenue, South San Francisco, California 94080"
