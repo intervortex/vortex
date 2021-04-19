@@ -3,7 +3,7 @@ title: "The Vortex"
 subtitle: Interdimensional Vortex of Conspiratorial Tastemaking
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why this draft
+    heading: Drafttex
     text: "The Vortex will be the place where all your dreams come true, and it is slowly getting there."
 intro:
     heading: "What we offer"
