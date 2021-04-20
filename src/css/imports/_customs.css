@@ -3,3 +3,24 @@
 .artdeco { font-family: 'ParkLane'; }
 .h-mirror { transform: scale(-1, 1); }
 .v-mirror { transform: scale(1, -1); }
+
+
+/* Mobile menu button and trigger */
+
+nav-trigger {
+  /* critical styles - hide the checkbox input */
+  position: absolute;
+  clip: rect(0, 0, 0, 0);
+}
+label[for="nav-trigger"] {
+  position: static;
+  height: 3em;
+  width: 3em;
+  cursor: auto;
+}
+.nav-trigger:checked ~ .navbar {
+  position: absolute;
+  top:4em;
+  display: flex;
+  flex-direction: column;
+}
