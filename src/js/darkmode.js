@@ -3,7 +3,7 @@ if (
   (window.matchMedia('(prefers-color-scheme: light').matches &&
     !localStorage.getItem('color-mode'))
 ) {
-  document.documentElement.setAttribute("color-mode", "light")
+  document.documentElement.setAttribute("color-mode", "dark")
 }
 
 if (window.CSS && CSS.supports("color", "var(--primary)")) {
