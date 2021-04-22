@@ -7,7 +7,7 @@
 
 :root {
   /* Typography */
-  --font-family: B612, Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+  --font-family: B612, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
   --line-height: 1.5;
   --font-size: 16px;
   --font-size-m: 18px;
@@ -31,8 +31,8 @@
 :root[color-mode="dark"] {
   /* Colors */
   /* --primary: rgb(235, 166, 45); */
-  --primary: rgb(195, 183, 111);
-  --highlight: rgba(254, 213, 198, 1);
+  --primary: rgb(212, 175, 55);
+  --highlight: rgb(238, 232, 170);
   --primary-dark: rgb(221, 223, 224);
   --white: rgba(255, 255, 255, 1);
   --off-white: rgb(248, 255, 244);
