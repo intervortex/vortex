@@ -15,7 +15,7 @@ nav-trigger {
 label[for="nav-trigger"] {
   position: static;
   height: 3em;
-  width: 3em;
+  width: 6em;
   cursor: auto;
 }
 .nav-trigger:checked ~ .navbar {
