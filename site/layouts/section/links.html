@@ -1,15 +1,20 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+{{ partial "short-text" .Params.blurb}}
 
 <div class="mw7 center ph3 pt4 bg-grey-4">
 
-  {{ range $index, $element := .Params.values }}
-  {{ if modBool $index 2 }}
-  {{ partial "media-block" $element }}
-  {{ else }}
-  {{ partial "media-block-reverse" $element }}
-  {{ end }}
+  {{ range .Params.links }}
+    <div class="pv4">
+      <div class="flex-l mhn1-l ph3 center mw7">
+        <h2 class="mb2 w-50-l f2 b lh-title primary">{{.heading}}</h2>
+        <ul class="w-50-l mb0">
+          {{ range .list }}
+            <li><a href={{ .link }}> {{.text}} </a></li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
   {{ end }}
 
 </div>

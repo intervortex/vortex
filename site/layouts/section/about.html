@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<div class="ph3 bg-grey-3">
+  <div class="center mw6 pv3">
+
+    <div class="db w4 center pv4">
+      <svg><use xlink:href="#vortexlogo"></use></svg>
+      <div class="primary">{{ .Params.tagline }}</div>
+    </div>
+
+    {{ .Content }}
+
+    <div class="flex-ns justify-center mb3">
+      {{ range .Params.contact_entries }}
+      <div class="ph4">
+        <h4 class="mb2 f4 b lh-title primary">{{ .heading }}</h4>
+        <p><a href="{{ .link }}">{{ .text }}</a></p>
+      </div>
+      {{ end }}
+    </div>
+
+    <!-- {{ partial "contact-form" . }} -->
+
+  </div>
+</div>
+
+{{ end }}

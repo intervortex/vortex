@@ -1,45 +1,48 @@
 ---
 title: "News"
 image: /img/about-jumbotron.jpg
-values:
-  - heading: "Shade-grown coffee"
-    text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
-    text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+blurb:
+  heading: Useful Links
+  text: >
+    A collection of links to yearly and project Google Sheets
+links:
+  - heading: "Main Sheets"
+    list:
+      - text: "2021 Vortex"
+        link: "https://docs.google.com/spreadsheets/d/1I9OAFHol_LMXua0rmSl2yFiOkHDrgMHETrgL7NXYCsA"
+      - text: "Interdimensional Reliquary"
+        link: "https://docs.google.com/spreadsheets/d/13T9MFuhDTuQe_21s58KcX6KiiT2w_HvfiQ9AjEbuzYM"
+  - heading: "Project Sheets"
+    list:
+      - text: "Discog Runs"
+        link: "https://docs.google.com/spreadsheets/d/14A73Nsl1YgugMDblXHlumqhlleHjq02VvBipms9lFcw"
+      - text: "GUTS"
+        link: "https://docs.google.com/spreadsheets/d/18se3f36hUJsTLLoXnYrxKaH_YowWk5HvzqX1jugs72w"
+      - text: "GOAT"
+        link: "https://docs.google.com/spreadsheets/d/1F_7q1tP7zoy3sJKIAJa2XJ5NbyAGASvmiglSJSneh2U"
+  - heading: "Others"
+    list:
+      - text: "Cinetex"
+        link: "https://docs.google.com/spreadsheets/d/1a2tRdrIGaICLQ4WUUUqwleEaIdkHyw7LXG7WubADQl4"
+  - heading: "Legacy Sheets"
+    list:
+      - text: "Weekly Whirlpool"
+        link: "https://docs.google.com/spreadsheets/d/12mdRYg--aNWyxfOflI2WABgqp_nLsurXSvKL7JvVwGw"
+      - text: "Mastering Vortex"
+        link: "https://docs.google.com/spreadsheets/d/1N74RdSAzoA5Wjz12b1XG1jeJiA0V0DHR0B9VK7D0jcg"
+      - text: "Vartex"
+        link: "https://docs.google.com/spreadsheets/d/1DYbHidNZ4KP37jwiBcUKb9Op9NeXc7_sHkCO5t6fW3Q"
+      - text: "2020 Vortex"
+        link: "https://docs.google.com/spreadsheets/d/1XRWlCGM4QRetcN_PBZAG30MZbzrUzq968Fs2Q38OBXU/"
+      - text: "2019 Vortex"
+        link: "https://docs.google.com/spreadsheets/d/1EaKDK7P16_TGfZmlFSzgalQrOo8vT2YAlcMxxk9PmQ4/"
+      - text: "2019/Decade Listianity"
+        link: "https://docs.google.com/spreadsheets/d/1msLH2p7pjFflcBpwra26nIxXwz35kAWDhU6AsYI7hH0"
+      - text: "2018 Vortex"
+        link: "https://docs.google.com/spreadsheets/d/18SjPH_m9oO49TR-hfJKbpCCN4XKDNQv-MJREPA7rqbE/"
+      - text: "2018 Listianity"
+        link: "https://docs.google.com/spreadsheets/d/1rE3-xfIY2i2K6eGSZbl1QS1oPSxYLBCI0xoOoA5iA60"
+      - text: "2017 Listianity"
+        link: "https://docs.google.com/spreadsheets/d/1uvtQ0eu0vxIE2FZDhtvzu8UzlSYaf5ieioBIV816Fqs"
+
 ---
