@@ -1,7 +1,7 @@
 ---
 title: IMPERIAL TRIUMPHANT - Alphaville
 date: 2021-04-12T21:39:12.926Z
-description: This is going to be the best ever band, and I'll tell you all about it.
+description: Enter the lush sounds of the future.
 image: /img/posts/alphaville.jpg
 ---
 
