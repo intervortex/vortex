@@ -4,11 +4,12 @@
     {{ partial "section-title" (dict "heading" "Hottest takes") }}
 
     <div class="flex justify-center items-center w-100 mb3 ba bw1 b--primary">
-      <div class="flex-ns mhn1-ns flex-wrap w-100 ph3 ma1 ba bw1 b--primary">
+      <div class="flex flex-wrap justify-center w-100 ph3 mhn1-ns ma1 ba bw1 b--primary">
         {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
-        <article class="pa2-ns w-100 bb b--primary flex">
+        <article class="flex pa2-ns w-100">
           {{ .Render "li" }}
         </article>
+        <object class="w-80" type="image/svg+xml" data="/img/components/divider_deco.svg"></object>
         {{ end }}
       </div>
     </div>

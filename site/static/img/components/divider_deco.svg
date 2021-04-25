@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="59.12mm" height="3.091mm" version="1.1" viewBox="0 0 59.12 3.091" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <clipPath id="clipPath7004">
+   <path d="m794.3 1978h467l42.74 42.75h-560.7c3.075-1.96 6.102-3.99 9.082-6.08 15.22-10.66 29.26-22.98 41.8-36.67zm905 0h467c12.54 13.69 26.59 26.01 41.8 36.67 2.99 2.09 6.01 4.12 9.08 6.08h-560.7zm476.9-21.99h-486l-64.74 64.74h-290.3l-64.74-64.74h-486l-3.281 3.72c-12.23 13.88-26.11 26.31-41.27 36.93-14.22 9.96-29.57 18.34-45.64 24.9l-51.84 21.18h683.7l55.78 55.79 15.56-15.55-40.22-40.24h246.3l-40.23 40.24 15.56 15.55 55.78-55.79h683.7l-51.84-21.18c-16.07-6.56-31.42-14.94-45.64-24.9-15.16-10.62-29.05-23.05-41.27-36.93z"/>
+  </clipPath>
+  <linearGradient id="linearGradient7018" x2="1" gradientTransform="matrix(1312 -43.66 -43.66 -1312 786.5 2040)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fceeae" offset="0"/>
+   <stop stop-color="#e09e5b" offset=".3597"/>
+   <stop stop-color="#bb7239" offset=".5286"/>
+   <stop stop-color="#d08a4a" offset=".6429"/>
+   <stop stop-color="#e5b775" offset=".8167"/>
+   <stop stop-color="#fce9a4" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath7028">
+   <path d="m1640 1955h-17l-142.7 142.7-142.8-142.7h-17l159.8 159.7z"/>
+  </clipPath>
+  <linearGradient id="linearGradient7044" x2="1" gradientTransform="matrix(173.3 -298.3 -298.3 -173.3 1360 2163)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e6c486" offset="0"/>
+   <stop stop-color="#bb7239" offset=".1495"/>
+   <stop stop-color="#f7e4a4" offset=".2991"/>
+   <stop stop-color="#e09e5b" offset=".5881"/>
+   <stop stop-color="#fce9a4" offset=".7142"/>
+   <stop stop-color="#d08a4a" offset=".8762"/>
+   <stop stop-color="#e1bd7c" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath7054">
+   <path d="m1562 1955h-16.9l-64.8 64.8-64.79-64.8h-17l81.79 81.7z"/>
+  </clipPath>
+  <linearGradient id="linearGradient7068" x2="1" gradientTransform="matrix(-2.5 -177.5 -177.5 2.5 1482 2050)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fceeae" offset="0"/>
+   <stop stop-color="#e09e5b" offset=".3216"/>
+   <stop stop-color="#d08a4a" offset=".5286"/>
+   <stop stop-color="#d69857" offset=".6976"/>
+   <stop stop-color="#fce9a4" offset=".972"/>
+   <stop stop-color="#fce9a4" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-56.62 -250.7)">
+  <g transform="matrix(1 0 0 .5486 62.55 271.7)">
+   <g transform="matrix(.03528 0 0 -.03528 -28.6 36.29)">
+    <g clip-path="url(#clipPath7004)">
+     <path d="m794.3 1978h467l42.74 42.75h-560.7c3.075-1.96 6.102-3.99 9.082-6.08 15.22-10.66 29.26-22.98 41.8-36.67zm905 0h467c12.54 13.69 26.59 26.01 41.8 36.67 2.99 2.09 6.01 4.12 9.08 6.08h-560.7zm476.9-21.99h-486l-64.74 64.74h-290.3l-64.74-64.74h-486l-3.281 3.72c-12.23 13.88-26.11 26.31-41.27 36.93-14.22 9.96-29.57 18.34-45.64 24.9l-51.84 21.18h683.7l55.78 55.79 15.56-15.55-40.22-40.24h246.3l-40.23 40.24 15.56 15.55 55.78-55.79h683.7l-51.84-21.18c-16.07-6.56-31.42-14.94-45.64-24.9-15.16-10.62-29.05-23.05-41.27-36.93l-3.29-3.72" fill="url(#linearGradient7018)"/>
+    </g>
+    <g clip-path="url(#clipPath7028)">
+     <path d="m1640 1955h-17l-142.7 142.7-142.8-142.7h-17l159.8 159.7 159.7-159.7" fill="url(#linearGradient7044)"/>
+    </g>
+    <g clip-path="url(#clipPath7054)">
+     <path d="m1562 1955h-16.9l-64.8 64.8-64.79-64.8h-17l81.79 81.7 81.7-81.7" fill="url(#linearGradient7068)"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
