@@ -87,4 +87,9 @@
       margin: 0;
     }
   }
+  /* Highlights */
+  & strong {
+    color: var(--primary);
+    font-weight: 700;
+  }
 }

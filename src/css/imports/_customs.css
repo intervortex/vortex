@@ -24,3 +24,31 @@ label[for="nav-trigger"] {
   display: flex;
   flex-direction: column;
 }
+
+::selection {
+  background-color: var(--highlight);
+}
+
+/* Used in the navbar */
+
+.divider-grey {
+  box-shadow: inset 0 -4px 0 var(--grey-2);
+  /* Link hover states */
+  & a {
+    transition: var(--hover-transition);
+  }
+  & ul a:hover, & ul a:focus {
+    box-shadow: inset 0 -4px 0 var(--primary);
+  }
+}
+
+.divider-primary {
+  box-shadow: inset 0 -4px 0 var(--primary);
+  /* Link hover states */
+  & a {
+    transition: var(--hover-transition);
+  }
+  & ul a:hover, & ul a:focus {
+    box-shadow: inset 0 -4px 0 var(--primary);
+  }
+}
