@@ -1,15 +1,18 @@
-<footer class="ph3 pv2 bg-black white bt bw1 b--primary">
+<footer class="ph3 pv3 bg-black white bt bw1 b--primary" style="background: url(img/components/background.svg);">
 
-  <div class="mw7 center pt3">
+  <div class="mw7 center">
 
     <div class="flex-ns justify-center">
 
-      <div>
-        <h3 class="artdeco f4 b lh-title mb2 primary">The Vortex social experience</h3>
-        <ul class="flex justify-center mhn2">
-          {{ partial "social-icon" (dict "link" "https://discord.gg/pAUrUT7" "svg" "icons-discord") }}
-          {{ partial "social-icon" (dict "link" "https://www.reddit.com/r/IVoCT" "svg" "icons-reddit") }}
-        </ul>
+      <div class="relative w-60-ns pa2 ba bw1 b--primary bg-black">
+        <img class="w-100" src="/img/components/footer_frame.svg" alt="footer frame" />
+        <div class="absolute top-0 pr2 h-100 w-100 flex flex-column justify-center items-center">
+          <h3 class="artdeco f4 tc b lh-title mb2 primary">The Vortex social experience</h3>
+          <ul class="flex justify-center mhn2">
+            {{ partial "social-icon" (dict "link" "https://discord.gg/pAUrUT7" "svg" "icons-discord") }}
+            {{ partial "social-icon" (dict "link" "https://www.reddit.com/r/IVoCT" "svg" "icons-reddit") }}
+          </ul>
+        </div>
       </div>
 
     </div>

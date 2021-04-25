@@ -3,6 +3,12 @@ title: IMPERIAL TRIUMPHANT - Alphaville
 date: 2021-04-12T21:39:12.926Z
 description: Enter the lush sounds of the future.
 image: /img/posts/alphaville.jpg
+categories:
+- reviews
+tags:
+- alphaville
+- decadence
+- turbotarbs
 ---
 
 During a year of grey, music - like days - mushed into a fatberg of formless

@@ -16,31 +16,31 @@ another, "what have you been enjoying this year?", followed by a clumsy exchange
 of releases and grasping attempts at qualifying taste. At the end of the year,
 everyone everywhere laments what they missed.
 
-The Vortex puts an end to all of that.
+> The Vortex puts an end to all of that.
 
 The Vortex is a community spreadsheet, telling you at a glance what the
 aggregate popular albums are, at with the click of a button what each individual
 has been enjoying (or not enjoying). No more wondering if they've heard your
 favourite, or if you've missed theirs, now you have only to check.
 
-The Vortex accomplishes this with a scoring system known as *V.A.R.G.*, or Vortex
-Approved Rating Grade. *V.A.R.G.* scores albums out of a possible 10, representing
+The Vortex accomplishes this with a scoring system known as **V.A.R.G.**, or Vortex
+Approved Rating Grade. **V.A.R.G.** scores albums out of a possible 10, representing
 the best of the best, down to the lowly 0, representing unmitigated garbage. It
 furthermore arbitrates 5 as the perfectly average album, something bereft of
 both negatives and positives. This allows people to read, at a glance, how an
 album was received and what it offers. The full scale is roughly:
 
-- Unmitigated Garbage
-- Garbage
-- Terrible
-- Bad
-- Below Average
-- Average
-- Above Average
-- Good
-- Great
--  Excellent
--  Best of the Best
+- *0* - Unmitigated Garbage
+- *1* - Garbage
+- *2* - Terrible
+- *3* - Bad
+- *4* - Below Average
+- *5* - Average
+- *6* - Above Average
+- *7* - Good
+- *8* - Great
+- *9* - Excellent
+- *10* - Best of the Best
 
 The Vortex and V.A.R.G. can be seen in glorious action on the 2018 Vortex, and
 soon participate yourself in the 2019 Vortex.

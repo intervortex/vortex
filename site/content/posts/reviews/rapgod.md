@@ -4,6 +4,12 @@ date: 2021-03-04T15:04:10.000Z
 description: >-
   He's back baby.
 image: /img/posts/rapgod.png
+categories:
+- reviews
+tags:
+- hollande
+- pure art
+- turbotarbs
 ---
 
 My first exposure with Hollande was his various hits on the radio such which

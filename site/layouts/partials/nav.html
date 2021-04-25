@@ -44,13 +44,13 @@
       </svg>
     </label>
     <ul class="navbar dn flex-ns justify-center ph3 ba br1 br-pill-ns b--primary bw1 bg-grey-2">
-      <li><a href="/" class="pa2 no-underline db">All</a></li>
-      <li><a href="/reviews" class="pa2 no-underline db">Reviews</a></li>
-      <li><a href="/blurbs" class="pa2 no-underline db">Blurbs</a></li>
-      <li><a href="/community" class="pa2 no-underline db">Community</a></li>
-      <li><a href="/vortexplorer" class="pa2 no-underline db">Vortexplorer™</a></li>
-      <li><a href="/links" class="pa2 no-underline db">Links</a></li>
-      <li><a href="/about" class="pa2 no-underline db">About</a></li>
+      <li><a href="{{ "posts" | relURL }}" class="pa2 no-underline db">All</a></li>
+      <li><a href="{{ "categories/reviews" | relURL }}" class="pa2 no-underline db">Reviews</a></li>
+      <li><a href="{{ "categories/blurbs" | relURL }}" class="pa2 no-underline db">Blurbs</a></li>
+      <li><a href="{{ "categories/community" | relURL }}" class="pa2 no-underline db">Community</a></li>
+      <li><a href="{{ "vortexplorer" | relURL }}" class="pa2 no-underline db">Vortexplorer™</a></li>
+      <li><a href="{{ "links" | relURL }}" class="pa2 no-underline db">Links</a></li>
+      <li><a href="{{ "about" | relURL }}" class="pa2 no-underline db">About</a></li>
     </ul>
   </div>
 

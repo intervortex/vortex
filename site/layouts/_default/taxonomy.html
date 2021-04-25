@@ -3,7 +3,7 @@
 <section class="pv4 bg-grey-4">
   <div class="ph1 mw7 center">
 
-    {{ partial "section-title" (dict "heading" "Hottest takes") }}
+    {{ partial "section-title" (dict "heading" .Title) }}
 
     <div class="flex justify-center items-center w-100 mb3 ba bw1 b--primary">
       <div class="flex flex-wrap justify-center w-100 ph3 mhn1-ns ma1 ba bw1 b--primary">
@@ -13,7 +13,6 @@
         <article class="flex pa2-ns w-100">
           {{ .Render "li"}}
         </article>
-
         {{ if eq (add $ind 1) $len }} {{ else }}
         <object class="w-80" type="image/svg+xml" data="/img/components/divider_deco.svg"></object>
         {{ end }}
