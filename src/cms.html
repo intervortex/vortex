@@ -3,10 +3,12 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
   <title>Content Manager</title>
-
   <script src="https://identity-js.netlify.com/v1/netlify-identity-widget.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.27/darkreader.min.js"></script>
+  <script>
+    DarkReader.enable();
+  </script>
 </head>
 <body>
   <script src="<%= htmlWebpackPlugin.files.chunks.cms.entry %>"></script>
