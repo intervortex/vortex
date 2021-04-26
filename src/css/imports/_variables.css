@@ -26,11 +26,21 @@
   /* Miscelaneous */
   --border-radius: .25rem;
   --hover-transition: all 150ms ease;
+  /* Default Colors */
+  --primary: rgb(213, 152, 87);
+  --highlight: rgb(250, 231, 167);
+  --primary-dark: rgb(221, 223, 224);
+  --white: rgba(255, 255, 255, 1);
+  --off-white: rgb(248, 255, 244);
+  --grey-1: rgb(177, 182, 166);
+  --grey-2: rgb(96, 130, 130);
+  --grey-3: rgb(105, 103, 115);
+  --grey-4: rgb(54, 57, 70);
+  --black: rgb(27, 29, 35);
 }
 
 :root[color-mode="dark"] {
-  /* Colors */
-  /* --primary: rgb(235, 166, 45); */
+  /* Dark Colors */
   --primary: rgb(213, 152, 87);
   --highlight: rgb(250, 231, 167);
   --primary-dark: rgb(221, 223, 224);
@@ -44,7 +54,7 @@
 }
 
 :root[color-mode="light"] {
-  /* Colors */
+  /* Light Colors */
   --primary: rgb(213, 152, 87);
   --highlight: rgb(91, 33, 33);
   --primary-dark: rgb(221, 223, 224);
