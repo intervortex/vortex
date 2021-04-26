@@ -7,5 +7,8 @@ import styles from "!to-string-loader!css-loader!postcss-loader!sass-loader!../c
 import PostPreview from "./cms-preview-templates/posts";
 
 CMS.registerPreviewStyle(styles, { raw: true });
-CMS.registerPreviewTemplate("posts", PostPreview);
+CMS.registerPreviewTemplate("reviews", PostPreview);
+CMS.registerPreviewTemplate("community", PostPreview);
+CMS.registerPreviewTemplate("blurbs", PostPreview);
+CMS.registerPreviewTemplate("announcements", PostPreview);
 CMS.init();
