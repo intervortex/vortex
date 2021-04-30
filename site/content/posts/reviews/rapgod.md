@@ -1,15 +1,15 @@
 ---
-title: 'Hollande - Merci pour ce moment'
+title: Hollande - Merci pour ce moment
 date: 2021-03-04T15:04:10.000Z
-description: >-
-  He's back baby.
+description: He's back baby.
 image: /img/posts/rapgod.png
 categories:
-- reviews
+  - reviews
 tags:
-- hollande
-- pure art
-- turbotarbs
+  - hollande
+  - pure art
+  - turbotarbs
+rating: 10
 ---
 
 My first exposure with Hollande was his various hits on the radio such which
