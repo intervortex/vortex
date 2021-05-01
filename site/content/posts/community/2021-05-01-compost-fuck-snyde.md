@@ -5,3 +5,5 @@ description: We can all agree that Snyde needs to be fucked.
 image: img/posts/aaaaaaaaaaaaaaaaaaaa.jpg
 ---
 Fuck Snyde.
+
+![](img/posts/amongus.jpg)
