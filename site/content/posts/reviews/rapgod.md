@@ -1,7 +1,7 @@
 ---
 title: Hollande - Merci pour ce moment
 date: 2021-03-04T15:04:10.000Z
-description: He's back baby.
+description: He's back baby. No he is not
 image: /img/posts/rapgod.png
 categories:
   - reviews
