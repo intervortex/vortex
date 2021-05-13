@@ -16,8 +16,6 @@ summaryLength = 50
 
 googleAnalytics = "G-7FE0NVM2J2"
 
-disqusShortname = "yourdiscussshortname"
-
 [taxonomies]
   category = "categories"
   series = "series"
