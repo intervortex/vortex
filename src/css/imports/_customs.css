@@ -27,6 +27,7 @@ label[for="nav-trigger"] {
 
 ::selection {
   background-color: var(--highlight);
+  color: var(--grey-4);
 }
 
 /* Used in the navbar */
