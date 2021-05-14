@@ -1,6 +1,5 @@
 ---
 title: "Whomst"
-tagline: "We are suicide, without brain."
 contact_entries:
   - heading: Discord
     text: "Join us"
