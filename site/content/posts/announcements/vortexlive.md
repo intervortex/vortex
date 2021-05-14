@@ -1,6 +1,7 @@
 ---
 title: The vortex is now live
 date: 2021-04-25T22:14:12.652Z
+author: Vortechs
 description: A paradigm shift in music enjoyment
 categories:
 - announcements

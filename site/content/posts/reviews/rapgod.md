@@ -1,6 +1,7 @@
 ---
 title: 'Hollande - Merci pour ce moment'
 date: 2021-03-04T15:04:10.000Z
+author: Turbotarbs
 description: >-
   He's back baby.
 image: /img/posts/rapgod.png

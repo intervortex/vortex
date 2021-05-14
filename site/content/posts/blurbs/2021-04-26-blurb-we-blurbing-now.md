@@ -1,6 +1,7 @@
 ---
 title: We blurbing now
 date: 2021-04-26T00:02:54.576Z
+author: blurbingfuture
 description: I don't even, but ok
 image: img/posts/1280px-blurbing.jpg
 ---

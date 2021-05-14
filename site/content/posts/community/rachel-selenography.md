@@ -1,6 +1,7 @@
 ---
 title: Rachel's Selenography
 date: 2021-01-12T22:14:12.652Z
+author: AkerMaybe?
 description: 1999 [Quarterstick QS55CD]
 categories:
 - community

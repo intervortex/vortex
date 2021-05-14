@@ -4,11 +4,13 @@
     <h1 class="f2 lh-title b mb3 primary">{{.Title}}</h1>
     <div class="flex justify-between highlight">
       <p>{{ .Date.Format "Mon, 2 Jan 2006" }}</p>
+      {{ if .Params.author }}
+      <p class="f4 f5-ns primary b">by {{ .Params.author }}</p>
+      {{ end }}
       <p>Read in {{ .ReadingTime }} minutes</p>
     </div>
     <div class="cms mw6">
       <p>{{ .Description }}</p>
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
     </div>
   </div>
