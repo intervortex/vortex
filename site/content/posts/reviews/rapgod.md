@@ -11,6 +11,7 @@ tags:
 - hollande
 - pure art
 - turbotarbs
+rating: 10
 ---
 
 My first exposure with Hollande was his various hits on the radio such which

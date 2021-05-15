@@ -10,6 +10,7 @@ tags:
 - alphaville
 - decadence
 - turbotarbs
+rating: 6
 ---
 
 During a year of grey, music - like days - mushed into a fatberg of formless

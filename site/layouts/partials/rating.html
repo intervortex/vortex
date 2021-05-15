@@ -1,0 +1,17 @@
+{{ if .Params.rating }}
+<div class="rating mv2 artdeco">
+  <div class="flex justify-center pt4 pb2 primary">
+    <object class="mh3 w-20 mw4 h-mirror" type="image/svg+xml" data="/img/components/side_deco2.svg"></object>
+    <div class="w-30-ns w-40 mhn1-l mw5 tc">
+      <h2 class="f2-ns f3 b lh-title">Verdict</h2>
+    </div>
+    <object class="mh3 w-20 mw4" type="image/svg+xml" data="/img/components/side_deco2.svg"></object>
+  </div>
+  <div class="flex justify-center ">
+    {{ range $num := (seq .Params.rating) }}
+    <object class="w-8 mh1" type="image/svg+xml" data="/img/components/star_deco.svg"></object>
+    {{ end }}
+  </div>
+  <div class="f1 tc"> {{ .Params.rating }} / 10 </div>
+</div>
+{{ end }}
