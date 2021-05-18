@@ -1,15 +1,15 @@
 ---
 title: IMPERIAL TRIUMPHANT - Alphaville
 date: 2021-04-12T21:39:12.926Z
-author: Turbotarbs
-description: Enter the lush sounds of the future.
+author: Aker
+tags:
+  - alphaville
+  - decadence
+  - turbotarbs
 image: /img/posts/alphaville.jpg
 categories:
-- reviews
-tags:
-- alphaville
-- decadence
-- turbotarbs
+  - reviews
+description: Enter the lush sounds of the future.
 rating: 6
 ---
 
