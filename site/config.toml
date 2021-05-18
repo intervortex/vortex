@@ -7,6 +7,11 @@ languageCode = "en-us"
 languageLang = "en"
 title = "The Vortex"
 
+[params]
+  description = "The Interdimensional Vortex of Conspiratorial Tastemaking, where good taste comes to die."
+  tagline = "Interdimensional Vortex"
+  metaimage = "https://www.interdimensionalvortex.com/img/og-image.png"
+
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details:
 # https://gohugo.io/getting-started/configuration/#toml-configuration

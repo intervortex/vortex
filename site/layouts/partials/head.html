@@ -1,6 +1,7 @@
 <head>
 
   <title>{{ .Title }} | {{ $.Site.Title }}</title>
+  <meta name="description" content="{{ $.Site.Params.description }}">
 
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}
@@ -37,15 +38,21 @@
 
   <!-- Open Graph -->
   <meta property="og:type" content="website">
-  <meta property="og:title" content="The Vortex | we are suicide, without brain">
-  <meta property="og:description"
-    content="The Interdimensional Vortex of Conspiratorial Tastemaking, where good taste comes to die." />
+  <meta property="og:title" content="{{ $.Site.Params.tagline }}"">
+  <meta property="og:description" content="{{ $.Site.Params.description }}" />
   <meta property="og:url" content="https://www.interdimensionalvortex.com/">
-  <meta property="og:image" content="https://www.interdimensionalvortex.com/img/og-image.png">
+  <meta property="og:image" content="{{ $.Site.Params.metaimage }}">
   <meta property="og:image:type" content="image/png" />
   <meta property="og:image:width" content="1200"/>
   <meta property="og:image:height" content="630"/>
 
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="twitter:domain" content="interdimensionalvortex.com">
+  <meta property="twitter:url" content="https://www.interdimensionalvortex.com/">
+  <meta name="twitter:title" content="{{ $.Site.Params.tagline }}">
+  <meta name="twitter:description" content="{{ $.Site.Params.description }}">
+  <meta name="twitter:image" content="{{ $.Site.Params.metaimage }}">
   <!-- Global site tag (gtag.js) - Google Analytics -->
   {{ template "_internal/google_analytics.html" . }}
 
