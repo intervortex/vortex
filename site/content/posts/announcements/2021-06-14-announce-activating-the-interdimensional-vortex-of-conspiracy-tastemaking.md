@@ -7,7 +7,8 @@ image: img/posts/imag2.jpg
 ---
 <!--StartFragment-->
 
-Since the dawn of time, humanity has argued about the goodness of what we know as music.Artists, critics, and casual listeners define a cultural landscape reflecting society as we move through the ages, stirring fiery, controversial debate and pushing new boundaries. But as those discussions continued, it was inevitable that arbitrary posture, gatekeeping, idolization and many other factors would obstruct  constructive debate. \
+Since the dawn of time, humanity has argued about the goodness of what we know as music. Artists, critics, and casual listeners define a cultural landscape reflecting society as we move through the ages, stirring fiery, controversial debate and pushing new boundaries. But as those discussions continued, it was inevitable that arbitrary posture, gatekeeping, idolization and many other factors would obstruct  constructive debate. \
+<!--EndFragment-->\
 \
 When analyzing art, and especially music, the goal is not to reach objectivity, as so many people assume, but rather to admit our own subjectivity. Analyzing our tastes, biases, and weaknesses to understand them and bring to light how we come to like and dislike things, and what can bind people across different genres, instruments, artists, or albums. This is a clear and attainable goal. 
 
@@ -18,5 +19,3 @@ It is with all this in mind that the Interdimensional Vortex of Conspiratorial T
 Now we enter a new era. With this website, we want to talk about music in other ways, far away from the usual “promotional blurb hiding as an independent critic” or the pressure that writers face from fans and labels alike. You can help us with that. The first step is to join our discord and participate by rating albums and discussing music with us. Then, if you want to share an article with us to be published on the website you will be able to do so, as long it is related to music (not only albums), carefully written, and interesting. We will not have a clear editorial line, or a strict number of articles to be written following a tight schedule. We are a community-based project with a strong passion for all things music and a disdain for the unjustifiable blowing of smoke up every musical project’s ass.
 
 We hope you’ll find something of your interest here. Welcome to the Vortex.
-
-<!--EndFragment-->
