@@ -3,7 +3,7 @@ title: Activating the Interdimensional Vortex of Conspiracy Tastemaking
 date: 2021-06-14T12:10:00.264Z
 author: Vortex management
 description: Through the chaos, a new paradigm appears
-image: img/posts/good-image-2.jpg
+image: ""
 ---
 <!--StartFragment--> \Since the dawn of time, humanity has argued about the goodness of what we know as music. Artists, critics, and casual listeners define a cultural landscape reflecting society as we move through the ages, stirring fiery, controversial debate and pushing new boundaries. But as those discussions continued, it was inevitable that arbitrary posture, gatekeeping, idolization and many other factors would obstruct  constructive debate.<!--EndFragment-->\
 
