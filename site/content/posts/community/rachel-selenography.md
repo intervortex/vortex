@@ -4,11 +4,12 @@ date: 2021-01-12T22:14:12.652Z
 author: AkerMaybe?
 description: 1999 [Quarterstick QS55CD]
 categories:
-- community
+  - community
 tags:
-- vortexcontrib
-- othertag
-- Selenography
+  - vortexcontrib
+  - othertag
+  - Selenography
+image: img/posts/rachel.jpg
 ---
 
 Rachel's formed in 1991 by Jason Noble (guitarist for hardcore band Rodan) who
