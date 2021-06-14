@@ -7,13 +7,11 @@ image: img/posts/good-image-2.jpg
 ---
 <!--StartFragment-->
 
-Since the dawn of time, humanity has argued about the goodness of what we know as music. Artists, critics, and casual listeners define a cultural landscape reflecting society as we move through the ages, stirring fiery, controversial debate and pushing new boundaries. But as those discussions continued, it was inevitable that arbitrary posture, gatekeeping, idolization and many other factors would obstruct  constructive debate. 
+Since the dawn of time, humanity has argued about the goodness of what we know as music. Artists, critics, and casual listeners define a cultural landscape reflecting society as we move through the ages, stirring fiery, controversial debate and pushing new boundaries. But as those discussions continued, it was inevitable that arbitrary posture, gatekeeping, idolization and many other factors would obstruct  constructive debate. <!--more-->
 
 <!--EndFragment-->
 
 When analyzing art, and especially music, the goal is not to reach objectivity, as so many people assume, but rather to admit our own subjectivity. Analyzing our tastes, biases, and weaknesses to understand them and bring to light how we come to like and dislike things, and what can bind people across different genres, instruments, artists, or albums. This is a clear and attainable goal. 
-
-
 
 Instead, objectivity should be pursued by means of a rating scale. By having a common scale between different people, you can compare each other's subjectivity. It is true that some people will not judge music on the same criteria, or weigh them equally; that’s why explaining and discussing the music, between more or less civilized people, is an interesting and important activity. By knowing how you and other people judge music, more accurate recommendations can be made. When stepping into unknown territory trying to discover a new genre, it is always better when others can guide and motivate you to expand your horizons.\
 \
