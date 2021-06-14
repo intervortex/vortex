@@ -8,12 +8,12 @@ tags:
   - sweden
   - "2013"
   - invictus productions
-  - ""
 description: '"Downwards I turn..."'
 image: img/posts/a3107549341_10.jpg
 rating: 9
 ---
-Metal is old. Black Sabbath's golden anniversary was *last year*. It's safe to say we have reached the limits of what you can do with a distorted guitar and an HM-2 pedal. Whatever old school death metal you come up with might be enjoyable but it won't be more enjoyable than Left Hand Path, Like an Ever Flowing Stream or Leprosy. Smart bands figure that out pretty quickly. Even Chuck Schuldiner stopped making traditional death metal after two albums. You need a gimmick. Without a gimmick, it's damnatio ad simile. You're good, but "not as good as". So you make death metal with robots (Artificial Brain), aliens (Blood Incantation) or eldritch abominations (Sulphur Aeon). Or eldritch alien robot abominations (Nocturnus). 
+
+Metal is old. Black Sabbath's golden anniversary was *last year*. It's safe to say we have reached the limits of what you can do with a distorted guitar and an HM-2 pedal. Whatever old school death metal you come up with might be enjoyable but it won't be more enjoyable than Left Hand Path, Like an Ever Flowing Stream or Leprosy. Smart bands figure that out pretty quickly. Even Chuck Schuldiner stopped making traditional death metal after two albums. You need a gimmick. Without a gimmick, it's damnatio ad simile. You're good, but "not as good as". So you make death metal with robots (Artificial Brain), aliens (Blood Incantation) or eldritch abominations (Sulphur Aeon). Or eldritch alien robot abominations (Nocturnus).
 
 I was blessed enough to get into metal during its new millennium renaissance. By the time I jumped on the scene, nu metal was dead and gone, metalcore was giving way to deathcore as the "genre to hate" du jour, progressive djent noodlers were on the horizon and the only example of dissonant death metal was still Obscura. It took metal bands a while to figure that one out... Metal was in a state of flux. Between all the revival movements, the post-metal boom and a million other things that have since faded, there was a small number of bands bringing classic death metal to places it hadn't been before.
 

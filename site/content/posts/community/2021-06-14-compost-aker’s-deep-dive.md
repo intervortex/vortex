@@ -5,11 +5,8 @@ author: Aker
 description: "The Week in Review: Aker’s Deep Dive (31/5 - 6/6)"
 image: img/posts/aker-s-deep-dive.png
 ---
-<!--StartFragment-->
 
 The Interdimensional Vortex is a bottomless pit. Diving deep into the murky depths is a risky game. Gems can be unearthed from the thick mire of releases beneath the tasty-if-safe pickings from the surface. There’s a reason, though, why many releases float the deeper depths. Some are niche - too extreme, too experimental, poorly publicised - and some are just bad. We embrace all at the Vortex. We know gems are rare and rarely we find them. But there are always interesting if flawed releases floating about in the deep aether. So, join me - Aker - for a weekly review of a week’s deep diving. <!--more-->
-
-\---
 
 There is usually a mid year release slump, at least with big name releases. Bands prepare for a summer of festival fun and record labels spend their time reclined on the roofs of their warehouses, firing unsold patches and tapes into sunset. What better time, then, to scour the pits of various musical databases for the next best thing? A word of warning: the mini release reflections here are consistently different. The cosmos of music is a wide one, and it’s expanding. These are, in my mind, interesting releases - some flawed, some solid. You, dear reader, might find a lot more to sing about. Hopefully soon, dear reader, you’ll be able to contribute to the deepest of dives. So, let’s dive in. 
 
@@ -54,5 +51,3 @@ In another galaxy completely, Genesis 1:27 opens with a lounge-jazz smoothness a
 {{< embed "https://bandcamp.com/EmbeddedPlayer/album=3618502469/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 Overally, an enjoyable and diverse week spent deep diving. Nothing special emerged, but the time spent with these records will stay with me until the day I die. It’s been a pleasure. Until next time.
-
-<!--EndFragment-->
