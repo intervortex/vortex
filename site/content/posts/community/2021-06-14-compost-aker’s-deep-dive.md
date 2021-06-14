@@ -17,23 +17,17 @@ If you’ve been yearning for a genre bending clusterfuck of extreme metal, indu
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3093230943/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://circleofsighs.bandcamp.com/album/narci">Narci by Circle of Sighs</a></iframe>
 
+Talking about rabbit holes, Code re-emerged after a six-year soul search with the twisted fairytale extremism of Flyblown Prince. Whereas previous release Mut murmured in softer territories, leaving much of the extremity behind, Flyblown Prince harkens back to extreme past days. Code has always intrigued and Flyblown Prince is an intensely wacky warp through realms of avant-garde metal and rock. For some the cleans are too sickly, for others the cleans are perfectly fragile. Code wrap their metal core in a gothic, sentimental shell that is drenched in emotional depth. Worth a listen.
 
-
-Talking about rabbit holes, Code re-emerged after a six year soul search with the twisted fairytale extremism of Flyblown Prince. Whereas previous release Mut murmured in softer territories, leaving much of the extremity behind, Flyblown Prince harkens back to extreme past days. Code has always intrigued and Flyblown Prince is an intensely wacky warp through realms of avant-garde metal and rock. For some the cleans are too sickly, for others the cleans are perfectly fragile. Code wrap their metal core in a gothic, sentimental shell that is drenched in emotional depth. Worth a listen.
-
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2148741333/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://fieldkitmusic.bandcamp.com/album/field-kit-2">Field Kit by Field Kit</a></iframe>
-
-
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=6171174/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://codeblackmetal.bandcamp.com/album/flyblown-prince">Flyblown Prince by Code</a></iframe>
 
 Wacky in a restrained and subtler manner, The German duo (Hannah von Hubbenet and John Gurtler) behind Field Kit’s self titled release merges scratching, unstable moments electronica and classical in a tight thirty minute flutter. The short tracks are brief interjections into pensive worlds of organic and manufactured clicks, twists, grinds, twangs, breaths and builds. Like Narci, Field Kit is a taster menu of indulgent samples that perhaps fails to root itself in the brain. Despite this, Field Kit’s cinematic textural picnic is intriguing.
 
-(Too cool for Bandcamp and Facebook it seems)
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2148741333/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://fieldkitmusic.bandcamp.com/album/field-kit-2">Field Kit by Field Kit</a></iframe>
 
 Much to my surprise, Common Grackle re-emerged with the follow up to 2010’s The Great Depression. Singer-songwriter Gregory Pepper re-unites with producer Factor in a peculiarly brief and melancholic nineteen minutes of middle-aged malaise and crisis. The Great Depression’s smooth indie-hop swagger has made way for a greater spoken word solemnity that evokes the confessional sadness of Mount Eerie and mopiness of Sufjan Stevens. There still remains, thankfully, a bass heavy instrumental swagger to tracks like “I Seriously Think I’m Going To Die” that provides an odd counter to vocals that focus on being a new dada and living a directionless, dead-end middle-aged life. The depression is present and sincere. A barrel of laughs.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3091337092/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://fakefour.bandcamp.com/album/old-dog-new-tricks-who-this">Old Dog New Tricks Who This by Common Grackle</a></iframe>
-
-
 
 There’s a self referential dark comedy to Common Grackle. The same can’t be said for Pan Daijing’s Jade. The album artwork perfectly reflects the music: a zombie-like siren haunts murky waters. Jade is throbbing, cold and uneasy, a 37-minute dive into hazy electronica and field noises. Female spoken word incantations permeate the nauseating terrain, as do the operatic echoes, mechanical chugs, wooden scratchings, industrial toolbox sounds and suffocating stringed overlays. “Metal” is a standout for the interplay of brash thickness and silky female led malevolence. Jade is a late night record for sure and though it doesn’t imprint its malevolence exceptionally well, there’s something alluring about the collision of subtlety and brashness.
 
