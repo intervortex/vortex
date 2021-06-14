@@ -9,7 +9,7 @@ tags:
   - vortexcontrib
   - othertag
   - Selenography
-image: img/posts/rachel.jpg
+image: img/posts/rachelgood.jpg
 ---
 
 Rachel's formed in 1991 by Jason Noble (guitarist for hardcore band Rodan) who
