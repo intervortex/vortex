@@ -5,10 +5,8 @@ author: Vortex management
 description: Through the chaos, a new paradigm appears
 image: img/posts/imag2.jpg
 ---
-<!--StartFragment-->
+<!--StartFragment--> \Since the dawn of time, humanity has argued about the goodness of what we know as music. Artists, critics, and casual listeners define a cultural landscape reflecting society as we move through the ages, stirring fiery, controversial debate and pushing new boundaries. But as those discussions continued, it was inevitable that arbitrary posture, gatekeeping, idolization and many other factors would obstruct  constructive debate.<!--EndFragment-->\
 
-Since the dawn of time, humanity has argued about the goodness of what we know as music. Artists, critics, and casual listeners define a cultural landscape reflecting society as we move through the ages, stirring fiery, controversial debate and pushing new boundaries. But as those discussions continued, it was inevitable that arbitrary posture, gatekeeping, idolization and many other factors would obstruct  constructive debate. \
-<!--EndFragment-->\
 \
 When analyzing art, and especially music, the goal is not to reach objectivity, as so many people assume, but rather to admit our own subjectivity. Analyzing our tastes, biases, and weaknesses to understand them and bring to light how we come to like and dislike things, and what can bind people across different genres, instruments, artists, or albums. This is a clear and attainable goal. 
 
