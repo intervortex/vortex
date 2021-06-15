@@ -55,9 +55,9 @@
   <meta name="twitter:image" content="{{ $.Site.Params.metaimage }}">
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <!-- {{ if and (hugo.IsProduction) (.Site.Params.googleAnalyticsID) }} -->
+  {{ if .Site.Params.googleAnalyticsID }}
   {{ partial "google-analytics.html" . }}
-  <!-- {{ end }} -->
+  {{ end }}
 
   {{ if .IsHome }}
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
