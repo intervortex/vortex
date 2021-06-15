@@ -1,23 +1,21 @@
 {{ define "main" }}
 
-<style type="text/css" media="screen">
-  .iframe-container iframe {
-    border: 0;
-    height: 100%;
-    width: 100%;
-    left: 0;
-    top: 0;
-  }
-</style>
-
 <div class="iframe-container">
+  <style>
+    iframe {
+      width: 1px;
+      min-width: 100%;
+    }
+  </style>
   <iframe
   id="Vortexplorer"
   title="Embed for the Vortexplorer"
-  src="https://vortexplorer.herokuapp.com/"
-  sandbox="allow-modals allow-same-origin allow-popups allow-scripts"
-  onload="this.style.height=(this.contentWindow.document.body.scrollHeight+20)+'px';">
+  src="https://vortexplorer.herokuapp.com/">
   </iframe>
+  <script>
+    iFrameResize({ log: true }, '#Vortexplorer')
+  </script>
+  <script src="js/iframeSizer.min.js"></script>
 </div>
 
 {{ end }}
