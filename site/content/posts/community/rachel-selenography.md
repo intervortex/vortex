@@ -6,9 +6,8 @@ description: 1999 [Quarterstick QS55CD]
 categories:
   - community
 tags:
-  - vortexcontrib
-  - othertag
   - Selenography
+  - community
 image: img/posts/rachelgood.jpg
 ---
 
@@ -21,7 +20,7 @@ instruments. Through the 90's they released a string of experimental and
 sometimes spotty albums, with the number of guest musos and the density of
 instrumentation getting higher each release.
 
-a not-so-young-anymore ferday was just getting in to the post rock scene in the
+A not-so-young-anymore Ferday was just getting in to the post rock scene in the
 late 90's after a few years of uni had really jacked up my pretension, and
 *Selenography* was the first Rachel's release i heard, from a friend at the
 local college radio station that i did some stuff with. for this one, they
@@ -32,7 +31,7 @@ it never overreaches and always maintains the dreamy atmosphere. overall this is
 the most cohesive vision Rachel's ever achieved and by extension, the best album
 of the sub-niche.
 
-when i first heard it i liked it but didn't immediately fall in love. i just
+When i first heard it i liked it but didn't immediately fall in love. i just
 listened to the record so many times it has become part of my personal canon,
 rather than the album having been defined by any external event or other such
 flights of youthful fancy, and listening to a record a hundred+ times in two
@@ -41,4 +40,4 @@ justification. more boring than cool anecdotes for sure, but also easier to
 write about and much easier to be honest about, so yes i took the safe route but
 you made me go first.
 
-and it's a truly great album so listen to it!
+And it's a truly great album so listen to it!

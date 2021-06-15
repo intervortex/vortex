@@ -3,6 +3,8 @@ title: Activating the Interdimensional Vortex of Conspiracy Tastemaking
 date: 2021-06-14T12:46:05.602Z
 author: Vortex management
 description: "Through the chaos, a new paradigm appears "
+categories:
+  - announcements
 image: img/posts/good-image-2.jpg
 ---
 

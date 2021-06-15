@@ -3,6 +3,11 @@ title: "Aker’s Deep Dive #1"
 date: 2021-06-14T16:15:59.116Z
 author: Aker
 description: "The Week in Review: Aker’s Deep Dive (31/5 - 6/6)"
+categories:
+  - community
+tags:
+  - Aker's deep dive
+  - community
 image: img/posts/aker-s-deep-dive.png
 ---
 

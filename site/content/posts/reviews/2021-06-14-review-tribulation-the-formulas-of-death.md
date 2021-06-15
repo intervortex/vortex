@@ -3,6 +3,8 @@ layout: blog
 title: Tribulation - The Formulas of Death
 date: 2021-06-14T15:56:06.658Z
 author: Snyde
+categories:
+  - reviews
 tags:
   - death metal
   - sweden
