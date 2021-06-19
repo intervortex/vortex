@@ -19,7 +19,7 @@ disableKinds = ["RSS"]
 
 summaryLength = 50
 
-googleAnalytics = "G-7FE0NVM2J2"
+googleAnalyticsID = "G-7FE0NVM2J2"
 
 [taxonomies]
   category = "categories"
