@@ -21,6 +21,11 @@
   & h5 {
     font-size: .875rem;
   }
+  /* Text */
+  & p {
+    text-align: justify;
+    max-width: fit-content;
+  }
   /* Images */
   & img {
     display: block;
