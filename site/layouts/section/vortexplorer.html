@@ -1,21 +1,17 @@
 {{ define "main" }}
 
 <div class="iframe-container">
-  <style>
-    iframe {
-      width: 1px;
-      min-width: 100%;
-    }
-  </style>
   <iframe
   id="Vortexplorer"
   title="Embed for the Vortexplorer"
-  crossorigin="anonymous"
+  style="width: 1px; min-width: 100%;"
   src="https://vortexplorer.herokuapp.com/">
   </iframe>
   <script src="js/iframeSizer.min.js"></script>
   <script>
-    iFrameResize({ log: true }, '#Vortexplorer')
+    document.addEventListener("DOMContentLoaded", function(event) {
+        iFrameResize({ log: true }, '#Vortexplorer')
+    });
   </script>
 </div>
 
