@@ -13,7 +13,7 @@
         <span> on {{ .Date.Format "Mon, Jan 2, 2006" }}</span>
       </p>
       <p class="f6 highlight lh-copy mb0">{{ .Description }}</p>
-      <p class="f6 lh-copy measure-wide">{{ .Summary | plainify | chomp }}</p>
+      <p class="f6 lh-copy measure-wide">{{ .Summary | plainify | chomp | safeHTML }}</p>
     </a>
 
     {{ partial "tags" . }}
