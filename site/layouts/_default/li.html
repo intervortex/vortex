@@ -20,7 +20,7 @@
 
     {{ if .Truncated }}
     <!-- This <div> includes a read more link, but only if the summary is truncated... -->
-    <p class="link b dib grey-1 mb0">Read more →</p>
+    <a href="{{ .RelPermalink }}" class="link b dib grey-1 mb0">Read more →</a>
     {{ end }}
   </div>
 
