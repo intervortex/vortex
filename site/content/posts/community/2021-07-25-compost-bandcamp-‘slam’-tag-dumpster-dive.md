@@ -12,6 +12,7 @@ description: >
   representation of true death metal in our new enlightened age. They’re ugly.
   They’re brutal. They’re stupid. They came up when I searched Bandcamp for
   ‘Slam’ and sorted by newest releases. Most of all, they’re terrible.
+image: img/posts/slam.jpg
 ---
 <!--StartFragment-->
 
