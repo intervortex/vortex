@@ -5,15 +5,12 @@ author: Planex
 categories: community
 tags:
   - slam-bandcamp-bad
-description: >
-  Death metal was meant to be ugly and horrifying. These days everyone seems to
-  get excited about death metal that’s “forward-thinking” or “innovative”. You
-  won’t find any of that here. The bands and demos featured here may be the best
-  representation of true death metal in our new enlightened age. They’re ugly.
-  They’re brutal. They’re stupid. They came up when I searched Bandcamp for
-  ‘Slam’ and sorted by newest releases. Most of all, they’re terrible.
+description: |
+  Planex reaches new level of masochism exploring bandcamp  
 image: img/posts/slam.jpg
 ---
+Death metal was meant to be ugly and horrifying. These days everyone seems to get excited about death metal that’s “forward-thinking” or “innovative”. You won’t find any of that here. The bands and demos featured here may be the best representation of true death metal in our new enlightened age. They’re ugly. They’re brutal. They’re stupid. They came up when I searched Bandcamp for ‘Slam’ and sorted by newest releases. Most of all, they’re terrible.
+
 <!--StartFragment-->
 
 Racism – Racism: The TV Show
@@ -118,8 +115,6 @@ Serrated – Eradication EP
 
  {{< embed "https://bandcamp.com/EmbeddedPlayer/album=2285277195/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
-
-
 Serrated play hardcore-leaning, tough guy breakdown slam with impressive production value. Serrated do a good job of creating a violent atmosphere with a melodic, almost synth-like guitar in the background. Again, there isn’t much to say about this one. It’s brutal, it’s macho, it’s fine.
 
 Retarded Snare Score:
@@ -133,8 +128,6 @@ Score:
 Foreskin Decapitation – Volume Whore
 
  {{< embed "https://bandcamp.com/EmbeddedPlayer/album=3616646553/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
-
-
 
 I really didn’t want to listen to something with hentai girls murdering Hitler on the cover, but it wouldn’t be fair to the dumpster dive if I ignored it. It’s yet another 10 minutes of ‘edgy memelord slam’. The cartoon samples of choice are Aqua Teen Hunger Force and Rick and Morty. I’ll give them credit for having a live drummer, but otherwise Foreskin Decapitation play exactly what you’d expect: BREE BREE, generic BDM riffs, breakdowns, and quirky ‘fun’ sections that are as enjoyable as the namesake would be.
 
