@@ -3,7 +3,7 @@ title: "Whomst"
 contact_entries:
   - heading: Discord
     text: "Join us"
-    link: "https://discord.gg/pAUrUT7"
+    link: "https://discord.gg/NGHRRWW"
   - heading: Reddit
     text: "Join us"
     link: "https://www.reddit.com/r/IVoCT"
