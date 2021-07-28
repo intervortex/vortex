@@ -5,7 +5,7 @@ author: Scuttlegoat
 categories: reviews
 tags:
   - grindcore-RelapseRecords-2001
-description: 20 years after, Scuttlegoat go back on a mythic grind album
+description: 20 years after, Scuttlegoat goes back on a mythic grind album
 image: img/posts/prowler.jpg
 rating: 8
 ---
