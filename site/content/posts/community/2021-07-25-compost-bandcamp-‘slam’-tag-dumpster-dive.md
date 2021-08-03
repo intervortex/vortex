@@ -61,7 +61,7 @@ Bible Man Slam – Biblemarmageddon
 
 Of the crap I selected for this dumpster dive, I was most excited for this one. Bibleman is here to save the day. The description proudly states that this was recorded all on one microphone bought from Amazon for $29.99, and it delivers on the low-fi charm. Sure, they’re not playing perfectly in time. Yeah, the mic is crackling a lot. Biblemanslam don’t let that stop them from having a ton of fun. It even got a laugh out of me on the track “I PURCHASED THE RIGHTS TO BIBLICALMEN” which starts with a clean rock intro that ends with the line “I am being sued.”
 
-Retarded Scare Score:
+Retarded Snare Score:
 
 7/10
 
