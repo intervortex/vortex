@@ -28,7 +28,11 @@ There aren't many negatives about the album. The song "Teo's Day" features a mem
 
 *Man with Telltale Scars* is Golden Fang's longest (just) and best release yet, growing on me with every listen and surpassing the much enjoyed *Here. Now Here*. "Polymers are Forever" is ear-worm worthy and the album breezes by with each listen. The experiment of including longer songs has paid off with the two 7+ minute songs being the best on the album. Old fans will find more of what they like on the album, with every song being more measured, considered, and tighter than ever before. *Man with Telltale Scars* releases independently on November 12, 2021, and can be purchased on Bandcamp here: <https://goldenfang.bandcamp.com>. Their single “Don’t be that Way” can be streamed below.
 
-<https://youtu.be/u93lGHN_TJA>
+
+
+{{ embed <iframe width="560" height="315" src="https://www.youtube.com/embed/u93lGHN_TJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> }}
+
+
 
 \*Noting that difficulties with COVID-19 meant that Donna could not record with the band, instead having to work collaboratively online, a process that took several months to manage.
 
