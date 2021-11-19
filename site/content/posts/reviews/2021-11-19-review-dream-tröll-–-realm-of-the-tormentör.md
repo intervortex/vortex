@@ -4,7 +4,7 @@ date: 2021-11-19T14:38:37.809Z
 author: Tarbeaux
 categories: reviews
 tags:
-  - HeavyMetal-RocknTroll
+  - Heavy Metal - Rock n Troll
 description: The subtle art of being seriously unserious
 image: img/posts/dream-troll-tormentor.jpg
 rating: 8
