@@ -24,7 +24,7 @@
   /* Text */
   & p {
     text-align: justify;
-    max-width: fit-content;
+    max-width: inherit;
   }
   /* Images */
   & img {
