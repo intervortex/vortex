@@ -1,5 +1,5 @@
 ---
-title: "Independent Release Showcase: Bloody Cumshot - Nymphomaniac"
+title: "Independent Release Showcase: Bloody Cumshot - Nymphomania"
 date: 2021-12-18T15:25:50.188Z
 author: Aker, ferday, Tarbeaux
 categories: community
@@ -12,14 +12,14 @@ image: img/posts/a0188215794_10.jpg
 ---
 <!--StartFragment-->
 
-
-
 ![](img/posts/a0188215794_10.jpg)
 
 \
 *First review by Tarbeaux*
 
 With a name like this I wouldn’t blame you if you didn’t give a serious shot at this release. You would expect some dumb slam, slimmy vox, D-tune guitars, a large load of chugs and a drums sounding like a tin can. But you couldn’t be more wrong, because instead we got a melodeath banger, full of pummeling riffs, furious drums and technical leads. The use of two distinctive voices, one for the screams and one for the growls reminds their Japanese comparse Intestine Baalism, but with a bit more grindcore focus. Add some Power Metal elements and chiptune for the variety, and you got one of the very few fresh takes on the genre, while avoiding to be too gimmicky. The album is solidly built on a very serious and effective melodeath base, that I think shine the most on the most melodic songs, like the subtly named Hate Fuck or the impressive Slave Humiliation. Although with a length of only 28 minutes, They never make the mistake of running their songs for too long, and manages to pack them with so many riffs that will make you thrust your head back and forth a lot. It’s true the production could be better, but it’s not horrible by any means, and doesn't alter my enjoyment of the album. Straight to the point, effective, familiar but not distinctive, I can only encourage you to try Bloody Cumshot for yourself. 
+
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=1579254016/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 **7/10**
 
