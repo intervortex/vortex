@@ -4,6 +4,7 @@ date: 2022-01-03T00:30:19.293Z
 author: Snyde
 categories: blurbs
 description: On and on it spins.
+image: img/posts/statewrapup2021.png
 ---
 Having seen the end of it, it's hard for me to harbor hatred from 2021 as a year. We got it over and done, and it's not like the upcoming years are looking to be any better so one might as well surrender to the facts and keep going. Here are the vortex's top choices for 2021:
 
