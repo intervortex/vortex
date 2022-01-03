@@ -70,11 +70,11 @@ It seems like Absu's dissolution was nothing but a minor speed bump for what rem
 
 \---
 
-Here are some 2021 spreadsheet statistics (taken July 1st, 2021):
+Here are some 2021 spreadsheet statistics (taken December 31st, 2021):
 
-Albums appraised: 1854 (>5 - 587, <5 - 678)
+Albums appraised: 4441
 
-Album rate average: 4.79 (4.93 weighted for # of votes per album)
+Album rate average: 4.64 (4.85 weighted for # of votes per album)
 
 Individual rates average: 4.98
 
