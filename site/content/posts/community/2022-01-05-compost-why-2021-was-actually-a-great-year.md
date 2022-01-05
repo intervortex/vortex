@@ -135,3 +135,9 @@ An instant 8 upon first listen, Choirs serves as a prime example of how to do ha
 **(1.)** King Diamond - Fatal Portrait/Abigail/"Them"/Conspiracy (1986 - 1989)
 
 I'm obviously 40 years late to the King Diamond train and that bears no repeating but what matters is that I'm here. I finally get it. Much ike Bolt Thrower, it's easy to see the hyperbolic King Diamond zealotry and be put off. In that sense, I'm glad I've waited to indulge with non-contemptuous ears. On the other hand, the super-dedicated zealots have done all the introductions for me so I can get right to the action: the first 4 King Diamond solo albums slap. They're unambigously fucking great in scope and execution and it'd be a disservice to go around nitpicking this or that detail. They're evidence of a golden period. An artist, pouring all the contents of his creative mind over several years for the world to enjoy. All of this culminates in Conspiracy, probably my favorite of the lot and candidate for the rare Snyde 9, it perfectly combines the storytelling elements with varied and complex songwriting and a polished sound, punctuated as always by the King's crispier-than-ever icy shreiks. I can't recommend these 4 albums enough as prime examples of early heavy metal excellence.
+
+\---
+
+I took the liberty of making a youtube playlist with my favorite tracks from these 40-ish albums. Feel free to indulge, and remember: music rules.
+
+https://www.youtube.com/playlist?list=PL7_8nJAaPjZA-zV9MoiXQXVM41tpzxNt1
