@@ -140,4 +140,4 @@ I'm obviously 40 years late to the King Diamond train and that bears no repeatin
 
 I took the liberty of making a youtube playlist with my favorite tracks from these 40-ish albums. Feel free to indulge, and remember: music rules.
 
-https://www.youtube.com/playlist?list=PL7_8nJAaPjZA-zV9MoiXQXVM41tpzxNt1
+<https://www.youtube.com/playlist?list=PL7_8nJAaPjZA-zV9MoiXQXVM41tpzxNt1>
