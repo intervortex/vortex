@@ -4,15 +4,15 @@ date: 2022-01-05T14:39:55.945Z
 author: Snyde
 categories: community
 description: As long as you avoided music released in 2021
-image: null
+image: img/posts/untitled.png
 ---
-The State of the Vortex 2021 wrap-up post made things look pretty dire. All but heralding the death of music, we whined and complained about the state of *current* music and how it's been going downhill for a while. This, however, presents us, dedicated listeners, with a choice. Shall we continue to trudge through the seemingly endless mire of current releases or should we pause and reflect on whether this is a truly a useful and rewarding way to spend our listening time.
+The State of the Vortex 2021 wrap-up post made things look pretty dire. All but heralding the death of music, we whined and complained about the state of *current* music and how it's been going downhill for a while. This, however, presents us, dedicated listeners, with a choice: shall we continue to trudge through the seemingly endless mire of current releases or should we pause and reflect on whether this is a truly useful and rewarding way to spend our listening time.
 
-2021 was undoubtedly the best year in recent memory to not pay attention to the unceasing flow of contemporary music. I can only speak for myself but, according to my own stat-keeping, I haven't listened to so few noteworthy records since 2012. For reference, 2012 was the first year I started to take current releases seriously, and even then, I barely surpassed that number this year.
+2021 was undoubtedly the best year in recent memory to \*not\* pay attention to the unceasing flow of contemporary music. I can only speak for myself but, according to my own stat-keeping, I haven't listened to so few noteworthy records since 2012. For reference, 2012 was the first year I started to take current releases seriously, and even then, I barely surpassed that number this year.
 
 On the flipside, I have never listened to as much music in any other year as I did in 2021. It seems the more I listen to, the more there is to listen to. Between evergrowing recommendation lists, discography runs, genre deep-dives and vortex favorites, it's easy to be overwhelmed by the sheer quantity of music that's out there begging to be enjoyed.
 
-And enjoy I did. So much so that the usual top 10 will not suffice. I listened to so much good music, I went all the way up to fourty. 40. One would be tempted to think this is just a poor excuse to include every record I enjoyed but even that is not true as I started the endeavor of making this list with over 100 candidates. Hopefully you can find inspiration to stop masochistically listening to new music and inevitably complaining about its poor quality and actually enjoy listening to music again.
+And enjoy I did. So much so that the usual top 10 will not suffice. I listened to so much good music, I went all the way up to forty. 40. One would be tempted to think this is just a poor excuse to include every record I enjoyed but even that is not true as I started the endeavor of making this list with over 100 candidates. Hopefully you can find inspiration to stop masochistically listening to new music and inevitably complaining about its poor quality and start actually enjoy listening to music again.
 
 **(40.)** The Doors - L.A. Woman (1971)
 
@@ -80,7 +80,7 @@ And enjoy I did. So much so that the usual top 10 will not suffice. I listened t
 
 **(10.)** The Beach Boys - Pet Sounds (1966)
 
-As the list started to take shape, I couldn't help but think how quaint and how cliche. I can't get over how comfy this is, how it reminds me of christmases past and of long car rides, being cramped in the middle seat between my brother and sister.
+As the list started to take shape, I couldn't help but think "how quaint" and "how cliché". I just can't get over how comfy this is, how it reminds me of christmases past and of long car rides, being cramped in the middle seat between my brother and sister.
 
 ![](img/posts/ceremonyofopposites.jpg)
 
@@ -92,7 +92,7 @@ I'm constantly complaining about midpaced metal. I rag on albums where you feel 
 
 **(8.)** Patty Waters - Sings (1966)
 
-It's difficult to discuss Sings without spoiling the grand finale. The oblivious listener (i.e. myself) will not even see the mammoth 13 minute closer and just calmly enjoy the forlorn jazz singing of the first 7 tracks. What hits you in track 8, however, is something else entirely. An alien outburst of virtuosic vocalization. Something that needs to be heard to be believed.
+It's difficult to discuss Sings without spoiling the grand finale. The oblivious listener (i.e. myself) will not even see the mammoth 13 minute closer and will instead just calmly enjoy the forlorn jazz singing of the first 7 tracks. What hits you in track 8, however, is something else entirely. An alien outburst of virtuosic vocalization. Something that needs to be heard to be believed.
 
 ![](img/posts/kioku.jpg)
 
@@ -110,19 +110,19 @@ The pinnacle of Hammers' progressive doom phase, The August Engine never lets it
 
 **(5.)** Watain - Lawless Darkness (2010)
 
-It obviously wouldn't be long before I mentioned riffs somewhere and here it is, the entry most deserving of the honor. How hard must it be to look back at Anthems to the Welkin and realizing that what really made it the best black metal album of all time was the relentless riffing. Watain prolongs the gauntlet to unfortunately unsustainable lengths but it's hard to stop once you've hit Malfeitor and your head involuntarily disengages from your neck.
+It obviously wouldn't be long before I mentioned riffs somewhere and here it is, the entry most deserving of the honor. How hard must it be to look back at Anthems to the Welkin at Dusk and realize that what really made it the best black metal album of all time was the relentless riffing. Watain prolongs the gauntlet to unfortunately unsustainable lengths but it's hard to stop once you've hit Malfeitor and your head involuntarily disengages from your neck.
 
 ![](img/posts/imaginarysonicscape.jpg)
 
 **(4.)** Sigh - Imaginary Sonicscape (2001)
 
-One of the few Sigh albums which are not hampered in one way or another by their own experimentation, Imaginary Sonicscape truly does offer a wide platter of sonic experiences, difficult to categorize outside the all-encompassing "avant-garde" umbrella. Obviously it spreads itself out a bit too much and some puzzling choices preclude full enjoyment but it wouldn't be a Sigh album otherwise, would it?
+One of the few Sigh albums which are not completely undercut in one way or another by their own experimentation, Imaginary Sonicscape truly does offer a wide platter of sonic experiences, difficult to categorize outside the all-encompassing "avant-garde" umbrella. Obviously it spreads itself out a bit too much and some puzzling choices preclude full enjoyment but it wouldn't be a Sigh album otherwise, would it?
 
 ![](img/posts/intoduat.jpg)
 
 **(3.)** Magister Templi - Into Duat (2015)
 
-Complete darkhorse Magister Templi came into my ears on a random list and never let go. Molding the epic doom of Candlemass into a Satan-esque heavy metal package is an absolutely winning formula. Gallops abound drenched in egyptian mythology, delivering on grandiose and hopelessly catchy hooks that will force you to listen over and over and over again and scouring wikipedia for all the nilotic lore you've forgotten since middle school. 
+Complete darkhorse Magister Templi came into my ears on a random list and never let go. Molding the epic doom of Candlemass into a Satan-esque heavy metal package is an absolutely winning formula. Gallops abound drenched in egyptian mythology, delivering on grandiose and hopelessly catchy hooks that will force you to listen over and over and over again. It will have you scouring wikipedia for all the nilotic lore you've forgotten since middle school. 
 
 ![](img/posts/choirsoftheeye.jpg)
 
