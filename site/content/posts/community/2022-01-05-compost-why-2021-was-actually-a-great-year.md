@@ -5,11 +5,13 @@ author: Snyde
 categories: community
 description: As long as you avoided music released  in 2021
 ---
-It's easy to 
+The State of the Vortex 2021 wrap-up post made things look pretty dire. All but heralding the death of music, we whined and complained about the state of *current* music and how it's been going downhill for a while. This, however, presents us, dedicated listeners, with a choice. Shall we continue to trudge through the seemingly endless mire of current releases or should we pause and reflect on whether this is a truly a useful and rewarding way to spend our listening time.
 
+2021 was undoubtedly the best year in recent memory to not pay attention to the unceasing flow of contemporary music. I can only speak for myself but, according to my own stat-keeping, I haven't listened to so few noteworthy records since 2012. For reference, 2012 was the first year I started to take current releases seriously, and even then, I barely surpassed that number this year.
 
+On the flipside, I have never listened to as much music in any other year as I did in 2021. It seems the more I listen to, the more there is to listen to. Between evergrowing recommendation lists, discography runs, genre deep-dives and vortex favorites, it's easy to be overwhelmed by the sheer quantity of music that's out there begging to be enjoyed.
 
-
+And enjoy I did. So much so that the usual top 10 will not suffice. I listened to so much good music, I went all the way up to fourty. 40. One would be tempted to think this is just a poor excuse to include every record I enjoyed but even that is not true as I started the endeavor of making this list with over 100 candidates. Hopefully you can find inspiration to stop masochistically listening to new music and inevitably complaining about its poor quality and actually enjoy listening to music again.
 
 **(40.)** The Doors - L.A. Woman (1971)
 
