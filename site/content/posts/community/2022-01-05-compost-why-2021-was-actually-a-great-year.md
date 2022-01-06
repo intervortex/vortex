@@ -12,7 +12,7 @@ The State of the Vortex 2021 wrap-up post made things look pretty dire. All but 
 
 On the flipside, I have never listened to as much music in any other year as I did in 2021. It seems the more I listen to, the more there is to listen to. Between evergrowing recommendation lists, discography runs, genre deep-dives and vortex favorites, it's easy to be overwhelmed by the sheer quantity of music that's out there begging to be enjoyed.
 
-And enjoy I did. So much so that the usual top 10 will not suffice. I listened to so much good music, I went all the way up to forty. 40. One would be tempted to think this is just a poor excuse to include every record I enjoyed but even that is not true as I started the endeavor of making this list with over 100 candidates. Hopefully you can find inspiration to stop masochistically listening to new music and inevitably complaining about its poor quality and start actually enjoy listening to music again.
+And enjoy I did. So much so that the usual top 10 will not suffice. I listened to so much good music, I went all the way up to forty. 40. One would be tempted to think this is just a poor excuse to include every record I enjoyed but even that is not true as I started the endeavor of making this list with over 100 candidates. Hopefully you can find inspiration to stop masochistically listening to new music and inevitably complaining about its poor quality and start to actually enjoy listening to music again.
 
 **(40.)** The Doors - L.A. Woman (1971)
 
@@ -98,7 +98,7 @@ It's difficult to discuss Sings without spoiling the grand finale. The oblivious
 
 **(7.)** DJ Krush & Toshinori Kondo - Ki-Oku (1998)
 
-The golden child of the velocitopster, Ki-Oku brought a different sound to the ears of the vortexers. As always, it's hard to sell vibe and atmosphere. What's not hard to sell is adding jazz saxophone to the formula of one of the world's prime turntablists. Equal parts smooth, eerie, relaxing and foreboding, it's hard to remain indifferent to this one.
+The golden child of the velocitopster, Ki-Oku brought a different sound to the ears of the vortexers. As always, it's hard to sell vibe and atmosphere. What's not hard to sell is adding jazz trumpet to the formula of one of the world's prime turntablists. Equal parts smooth, eerie, relaxing and foreboding, it's hard to remain indifferent to this one.
 
 ![](img/posts/augustengine.jpg)
 
