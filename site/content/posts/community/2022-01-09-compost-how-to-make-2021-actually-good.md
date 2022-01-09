@@ -102,9 +102,13 @@ After all the hours he wasted, still he needs time’’
 
 Although the best song award has to go to the opener School, that has everything I want from this album. It is very impactful and sets the tone for what will come next. 
 
+![](img/posts/theli.png)
+
 **2: Therion - Theli**
 
 Theli has got some of the songs I listened to the most this year. Honestly I didn’t expect to enjoy some 90’s symphonic metal as much as I have. But it’s not just symphonic metal, it’s death metal as well, which means it got, guess what, riffs! This album is super ambitious and marks the entry of Therion’s symphonic era. And what an entry. You have a male and a female choir, classic music samples, every 90’s synthesizer sound you can think of, all slapped together to make an … oriental/egyptian themed album? Who in their right mind tries something like that? Well it didn’t bother Christofer Johnsson at all, where his tastes for elaborate, operatic grandeur, are completely let wild, helped by Dan Swanö behind the mics and the production (a busy 1996 for him). Funny thing, the classical parts are labeled the "Barmbek Symphony Orchestra" after the subway station next to the studio. At the time, it was the most expensive album recorded by Nuclear Blast (around 30 000 euros, yes…) and it kinda broke the band line up and finance. Johnsson didn’t know if the band would even continue to exist after that, and was certain he would never tour the album, so he threw everything at it. Amazingly almost all of it stuck. One of the things I like is how unrestrained this album is. Opera interludes? Let’s go. Violin doing the main riffs with lead harpsichords? Sure. Alternating Neo-classical guitar leads with melodic death metal ones? Absolutely necessary. This goes in every direction but that makes it balanced, unlike the next Therion albums I have heard. I still have difficulty understanding how this didn’t end up as a messed up block of cheese (which is kinda what Therion is at the moment…) and how everything is so attractive, effective and dynamic. This album is a joy to listen to because of all the ideas they throw at you, and the overall madness; you never know what will happen next. I will admit the long ballad is a bit too much and that it was a good move to not end the album with it. I must say my favorite song (and my most listened to song of the year according to Spotify…) of the album is Desert of Set. The progression of this track from a slow and obscure start to a more upbeat tempo, big riffs and great chorus, to end on an explosion of synth, guitars and violin solos. A good summary of what the album is. 
+
+![](img/posts/aegis.png)
 
 **1: Theatre of Tragedy - Aégis**
 
