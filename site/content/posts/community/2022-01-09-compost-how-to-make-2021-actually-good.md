@@ -10,53 +10,35 @@ image: img/posts/top2021.png
 
 The past year I have intelligently and purposefully avoided 2021 and her wagons of mediocre albums to focus on listening to older albums, finishing discog runs and taking time to discover new genres. Ultimately, I ended up listening to 249 albums, with 31% of them managing to be a 7 or above; compared to the meager 6% of good albums released in 2021, it was bliss. Some discog runs were rewarding, like The Doors, SepticFlesh or Immolation, others were… let’s say, mixed (Josh Homme and Ihsahn). Motorhead managed to be the worst run, not because it’s absolutely horrible, but more because it’s super long, monotonous, with no good albums after Ace of Spades - all in all, it was a huge waste of time. Another disappointment came from the additions in the reliquary, Quillon hit it with a load of swedish punk, with swedish vocals, and Anal with more annoying hardcore. At least meri added Breakfast in America, which led me to discover another album from Supertramp that made it into my top 10 list of the non-2021 albums I listened to this year. Talking about the list, it’s time to get into it. First though, let me address some honorable mentions of good albums which are a bit too flawed to get a higher spot. All of them managed to be rated 7/10, and are shown below without a particular order.
 
-
-
 **Kyuss - Wretch** 
 
 The beginning of the most famous stoner band actually reminds me more of Queens of the Stone Age than the rest of the Kyuss discography. Very energetic, very teenager, with a great influence of rock garage and sick guitar tones. A happy and enjoyable album.
-
-
 
 **Paradise Lost - Gothic**
 
 Way more Death Doom than I expected from Paradise Lost, it’s darker than the future albums, has good riffs and a very rough and sloppy production. But what strikes me the most is how some of the songs are catchy and melodic - Shattered, Rapture and Eternal stayed in my head during the whole year. 
 
-
-
 **Talking Heads - Talking Heads 77**
 
 Always very inventive and sometimes avant-garde, it’s still amazing how pop some of these songs are, with catchy lyrics, choruses, and with David Byrne already weird, you have all the ingredients for a classic that is too often reduced to the song Psycho Killer. 
-
-
 
 **Samael - Passage**
 
 Samael here strays away from black metal and goes more into symphonic and industrial territory. You’ve still got pummeling riffs, martial drums and scorching voices, but with a great mood and atmosphere. Very front loaded unfortunately. 
 
-
-
 **Dismember - Indecent and Obscene** 
 
 Sometimes you just want riffs, and fortunately, Dismember is here to deliver, in the purest Swedish style, with HM-2 cranked to the max. Stretch your neck before putting it on and be ready to scream ‘’REBORN IN BLASPHEMYYYYYYYYY’’.
-
-
 
 **SepticFlesh - Ophidian Wheel**
 
 All the ingredients that make SepticFlesh great are here, deep growl voices, big riffs, ultra effective leads and avant garde fuckery, served with a clear production. An overall original but a bit disjointed melodic death metal album.
 
-
-
 **Deep Purple - Burn** 
 
 It’s classic Deep Purple, bluesy rock, good solos and nice organ, but what would be a quite forgettable album is saved by the opener and title track. In the pure Deep Purple fashion, this album starts with an absolute and immense rock banger at the same level as Speed King or Highway Star. This song is so good it manages to make the album a 7/10 by itself and might be my favorite song of the year. All I hear is BUUUUUUUUUUUUUUUUUURN. 
 
-
-
 Now it’s time for the big showdown. It was easy to make a top 10 because I ended up with ten 8/10. What really surprised me this year is how much I liked all those flavors of doom. We got traditional doom, beauty and the beast doom, symphonic doom and gothic doom in the list. But fortunately, this isn’t all. For the riffs section we got classic black metal and technical thrash, sprinkled with psychedelic and progressive rock on top. 
-
-
 
 Let’s get on to it.
 
@@ -84,7 +66,7 @@ I like riffs and I like thrash, and here comes an album that featured Andy Sneap
 
 Did I already mention that I like riffs? Straight from Sweden, Watain delivers a rapid and furious black metal that would make their Norwegian neighbors proud. Mix in their Swedish melodic influence and you have the perfect Dissection offspring that still manages to have their own style. Again this is a very tight album, gone from the scruffy play and the rough production made in mom’s basement from their illustrious predecessors, released in 2010, Lawless Darkness is definitely a modern interpretation of classical composition. Everything is set to be in your face and effective. But don’t think of modern as soulless and compressed, here the music is really served by the production, in particular songs like Reaping Death or Wolves Curse. It’s true, it's not the most trvest and aggressive Black Metal, with its catchy leads and effective chorus, but it’s immensely enjoyable. The major drawback of this album is its length. Watain didn’t have 1h14 minutes of interesting music to record. This album would have benefited from shrinking to its most essential tracks and strengths, because finishing on a 15 minute long mid-tempo song isn’t the best compositional move. If you want to get an idea of what you’ll get on this album, listen to Malfeitor. This track stands above the others by its variety, in riffs, section and atmosphere, starting with a blast to rip your head off, passing through with catchy chorus and ending on a slow and sinister note. 
 
-![]()
+![](img/posts/gathering.png)
 
 **6: The Gathering - Mandylion** 
 
@@ -92,13 +74,19 @@ It’s the 90’s, you’re a classic death/gothic doom band that gets moderate 
 
 I really feel Mandylion is all about Anneke’s voice. The guitars focus more on a classic gothic rhythmic base with slow and heavy riffs, letting her do the lead melody most of the time, with her incredible vocal modulation. The production really puts her upfront anyway, while still leaving enough room for every instrument. The use of synth layers works well to set up the mood and sometimes even takes a more prominent place in some songs, like In Motion #1 or the experimental title track. Musically, it’s a classic gothic metal album, although on the progressive side, with darkwave elements that feel inspired by Dead Can Dance. Unfortunately, not everything works, which tends to make the album feel longer than what it really is. While most Gothic Doom wants to be dark and depressing, there is something solar about The Gathering, that gives it a more joyous atmosphere. I think it’s noticeable on the first, and best, song of the album, Strange Machines. It's really an amazing track, great narration both with the music and the lyrics, that flows very well, and is quite emotional.
 
+![](img/posts/pentagram-relentless-820x820.jpg)
+
 **5: Pentagram - Relentless**
 
 Relentless was released in 1984 and is the first Pentagram album released. But is it? Yes and no. It’s indeed the first album, but the band has been active since ‘71. They started releasing demos and selling them underground in 1972, which makes them both part of the first heavy metal scene, and then the doom era starting at the beginning of the 80’s, with bands inspired by their first work. To add to the confusion, Relentless was released two times, the later in 1993 by Peaceville, that decided to ruin the mixing by making it boomy, and putting the drums and the voice too far back. Until I found a vinyl rip of the first mix on youtube, I found the production reduced the impact of the album. It’s a shame because the original is rawer, darker and grittier than some second wave Black Metal. Mayhem might have taken notes. So now you have a heavy doom album, with a guitar tone that would cut a hundred years old sequoia. The strongest songs like opener Relentless, Sign of the Wolf or Dying World are built on some of the strongest riffs of the traditional doom game, and the solos are great most of the time. Sure, the voice reminds me a lot of Ozzy, and some songs can feel like a heavier version of Black Sabbath, UFO or Uriah Heep, but I think this album still has its own personality. In a funny way, the two classic doom albums I liked this year couldn’t be more opposed with the lyrics;While Trouble speaks of repenting your sins and to fight against evil temptations,  Pentagram urges you to sell your soul to some demons to get you out of Death Row. Talking about Death Row, it’s the best track on the album for me, just slightly better than Relentless. Opening with a wall of guitar noise before crashing into a gargantuan riff and wailing vocals, it’s one of my favorite songs from this year, and really shines with the original mix. 
 
+![](img/posts/thedoors.jpg)
+
 **4: The Doors - The Doors**
 
 One of the most important rock albums of all time, one of the most famous ones too, so I will not get too long on this. I made an effort this year to do a discography run of the whole The Doors catalogue because I was acquainted with a lot of their songs but not much with their whole albums, except L.A Woman. That was the case with their first album. Everyone knows about Break on Through or Light My Fire but I feel not many people listened to the whole album. Overall, The Doors' discography was really strong until Jim Morrison’s death, but a lot of their albums have filler songs between two or three bangers. I feel it’s a lot less the case here, even less important songs like The Crystal Ship or End of The Night get some catchy moments. I also really like Alabama Songs, Twentieth Century Fox and Take It As It Comes, which makes for a very strong album overall. Ray Manzarek’s organ and Jim Morrison’s performance are the clear shining stars from this album, but you probably already know that. My favorite song of the album is the 11 minute long Freudian piece The End, where Jim Morrison goes freaky and creepy as fuck, and the music goes dark and dips into the occult. What a way to end the album.
+
+![](img/posts/1120crime.promo_.jpg)
 
 **3: Supertramp - Crime of the Century**
 
