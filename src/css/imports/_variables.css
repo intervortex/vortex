@@ -63,8 +63,8 @@
   --grey-1: rgb(54, 57, 70);
   --grey-2: rgb(130, 151, 151);
   --grey-3: rgb(105, 103, 115);
-  --grey-4: rgb(246, 243, 200);
-  --black: rgb(248, 255, 244);
+  --grey-4: rgb(248, 255, 244);
+  --black: rgb(246, 243, 200);
 }
 
 :root[color-mode="light"] .light--hidden {
