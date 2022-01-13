@@ -33,8 +33,8 @@ module.exports = {
         exclude: /node_modules/,
         use: ["style-loader", MiniCssExtractPlugin.loader, "css-loader", "postcss-loader", "sass-loader"]
       },
-      { 
-        test: /\.(woff|woff2|eot|ttf)$/, 
+      {
+        test: /\.(woff|woff2|eot|ttf)$/,
         loader: 'url-loader?limit=100000'
       }
     ]
@@ -50,6 +50,11 @@ module.exports = {
       {
         from: "./src/fonts/",
         to: "fonts/",
+        flatten: true
+      },
+      {
+        from: "./_redirects",
+        to: "_redirects",
         flatten: true
       }
     ]),
