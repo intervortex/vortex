@@ -8,8 +8,8 @@ blurb:
 links:
   - heading: "Main Sheets"
     list:
-      - text: "2021 Vortex"
-        link: "https://docs.google.com/spreadsheets/d/1I9OAFHol_LMXua0rmSl2yFiOkHDrgMHETrgL7NXYCsA"
+      - text: "2022 Vortex"
+        link: "https://docs.google.com/spreadsheets/d/1TZ6JzeC-BxUSwSbwaNvTfUGz0J4CVd3oCPVduLJzDLg"
       - text: "Interdimensional Reliquary"
         link: "https://docs.google.com/spreadsheets/d/13T9MFuhDTuQe_21s58KcX6KiiT2w_HvfiQ9AjEbuzYM"
   - heading: "Project Sheets"
@@ -32,6 +32,8 @@ links:
         link: "https://docs.google.com/spreadsheets/d/1N74RdSAzoA5Wjz12b1XG1jeJiA0V0DHR0B9VK7D0jcg"
       - text: "Vartex"
         link: "https://docs.google.com/spreadsheets/d/1DYbHidNZ4KP37jwiBcUKb9Op9NeXc7_sHkCO5t6fW3Q"
+      - text: "2021 Vortex"
+        link: "https://docs.google.com/spreadsheets/d/1I9OAFHol_LMXua0rmSl2yFiOkHDrgMHETrgL7NXYCsA"
       - text: "2020 Vortex"
         link: "https://docs.google.com/spreadsheets/d/1XRWlCGM4QRetcN_PBZAG30MZbzrUzq968Fs2Q38OBXU/"
       - text: "2019 Vortex"
