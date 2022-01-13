@@ -48,14 +48,14 @@ module.exports = {
     }),
     new CopyWebpackPlugin([
       {
-        from: "./src/fonts/",
+        from: path.join(__dirname, "/src/fonts/"),
         to: "fonts/",
         flatten: true
       },
       {
-        from: "./_redirects",
-        to: "/",
-        flatten: true
+        from: path.join(__dirname, "_redirects"),
+        to: "_redirects",
+        toType: "file"
       }
     ]),
     new HtmlWebpackPlugin({
