@@ -54,7 +54,7 @@ module.exports = {
       },
       {
         from: "./_redirects",
-        to: "_redirects",
+        to: "/",
         flatten: true
       }
     ]),
