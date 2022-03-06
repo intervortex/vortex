@@ -14,6 +14,8 @@ links:
         link: "https://www.interdimensionalvortex.com/sheets/reliquary"
   - heading: "Project Sheets"
     list:
+      - text: "RSCC"
+        link: "https://www.interdimensionalvortex.com/sheets/RSCC"
       - text: "Discog Runs"
         link: "https://www.interdimensionalvortex.com/sheets/discog"
       - text: "GUTS"
