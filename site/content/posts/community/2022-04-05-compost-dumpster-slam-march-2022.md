@@ -25,25 +25,25 @@ This January, I and a few distinguished fellows of the Vortex, decided to listen
 
 Some thoughts on $LAMUARY that survived the drinking:
 
-<https://septickarnage.bandcamp.com/album/dehumanization-decay-lp>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=295800513/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 This was my favorite release of $LAMUARY. Proudly stupid, it had me laughing the entire runtime. I can’t get the hip hop breakdown out of my head. “I NEED ANIME BITCHES ON MY MOTHAFUCKIN BALLS” 
 
-<https://trolltrax.bandcamp.com/album/insinuating-the-mutilation-and-subsequent-dismemberment-of-impotent-creatures-tt-10-2>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=103190773/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 Puppy Parts created my $LAMUARY highlight for good riffs. Nothing silly about it, just a solid slam / brutal death metal release.
 
-<https://gogandmagog.bandcamp.com/album/aoratos-strateia>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=2947901316/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 I don’t remember most of what we listened to in January, but I remember getting GOG’d and inflicting GOG upon others. It’s long, it doesn’t slam, and I recall a track with grunge vocals. 
 
-<https://ohioslamboys.bandcamp.com/album/chop-x-drill-x-kill>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=48831853/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 A group favorite, I noted the vocals as being the best John Gallagher impression I’ve heard. What should grab your attention is the fact that the Ohio Slamboys are French.
 
 Now, into the dumpster.
 
-<https://estrogenized.bandcamp.com/album/real-street-lams>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=432263826/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 Estrogenized - REAL STREET $LAMS - Mar-6 - Slam
 
@@ -53,7 +53,7 @@ Retarded Snare Score 6/10
 
 Score 3/10
 
-<https://terrordactylaus.bandcamp.com/album/extinction-event>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=4080176989/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 Terrordactyl - Extinction Event - Mar-6 - Dinocore
 
@@ -65,7 +65,7 @@ Retarded Snare Score 4/10
 
 Score 6/10
 
-<https://vilesecretion.bandcamp.com/album/perpetual-dismemberment>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=1089902981/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 Vile Secretion - Perpetual Dismemberment - Mar-18 - Brutal Death Metal
 
@@ -75,7 +75,7 @@ Retarded Snare Score 2/10
 
 Score 3/10
 
-<https://racism1.bandcamp.com/album/toystoryectomy>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=1494989662/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 Racism - ToyStoryectomy - Mar-27 - Slam
 
@@ -87,7 +87,7 @@ Retarded Snare Score 4/10
 
 Score 3/10
 
-<https://penectomy.bandcamp.com/album/princess-apollyon>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=2874789724/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 Penectomy - Princess Apollyon - Mar-24 - Slam
 
@@ -97,7 +97,7 @@ Retarded Snare Score 3/10
 
 Score 2/10
 
-<https://skinstripperslam.bandcamp.com/album/sick-as-fuck>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3906165975/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 Skin Stripper - Sick As Fuck - Mar-23 - Slam
 
@@ -115,7 +115,7 @@ Retarded Snare Score 9/10
 
 Score 7/10
 
-<https://cryptosporidiosis.bandcamp.com/album/surgical-necrotic-eroticism>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=410926305/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 Cryptosporidiosis - Surgical Necrotic Eroticism - Mar-22 - Slam
 
@@ -125,7 +125,7 @@ Retarded Snare Score 5/10
 
 Score 5/10
 
-<https://galactorrhea.bandcamp.com/album/dicephalic>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=104496344/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 Galactorrhea - Dicephalic - Mar14 - Goregrind
 
@@ -136,9 +136,5 @@ Retarded Snare Score 6/10
 Score 5/10
 
 Slam demos lower the bar on what I consider to be good music. Every time I finish one of these slam sessions, my average score for non-slam probably increases by a full point. This is as fair and accurate as the brain damage I receive from my dumpster dives. Enjoy them while I still have enough cognitive motor control to operate my keyboard. 
-
-<!--EndFragment-->
-
-![](img/posts/bad.jpg)
 
 <!--EndFragment-->
