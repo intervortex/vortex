@@ -47,15 +47,17 @@ Crusty, emo scented sludge is pungently performed by London’s Morrow. Their th
 
 Thou has become one of the biggest names in the sludge and non-sludge world, partly due to their incessant release schedule, their online presence, and their drive to engage in topics often untouched in the macho world of metal. Thou straddle different scenes and their music is eclectic, perhaps even scattershot. For the metal crowd, [Thou’s collaboration with funeral doomster Mizmor](https://gileadmedia.bandcamp.com/album/myopia?from=footer-cc-a3949436051) - a studio recording of their Roadburn live show - crushed and grooved and grated with a blackened sludge menace. Also this year, Gewgawly I and Thou collaborated with the [NORCO Original Soundtrack](https://thou.bandcamp.com/album/norco-original-soundtrack), an Ambient/Sludge hybrid release that exemplifies Thou’s goal to stick their dirty finger in many pies, throw those pies at the wall, and see what sticks. Some poor millennial is sure to lick it up. 
 
-{{< embed "https://bandcamp.com/EmbeddedPlayer/album=988062116/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3344058140/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
-{{< embed "https://bandcamp.com/EmbeddedPlayer/album=988062116/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=1360254310/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 \---
 
 **The Conflict Starters**
 
 [Urzah](https://urzahband.bandcamp.com/)’s creatively titled II received a green-for-good (7) from resident stoner-sludge soldier Quillon but a measly red-for-really-not-too-good (4) from Ferday ‘just going to the shop for cigarettes will be back soon, son’ the Unicorn (update 11.6.22: he is back from the shop). II is a swaggering, stomping, slightly bro-ish record that stinks of flannel and broken glass. Thick, chunky riffwork and short, sharp vocal shouts are the spine of the record, though there are some tasteful moments where the record becomes a lightly-psychedelic swirl of groove and reverb. I reached out to Ferday for a comment but heard nothing. Quillon sent me a picture of his nipple piercing.
+
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=337645569/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 **The Good according to the Book of Aker**
 
@@ -69,9 +71,11 @@ Well, isn’t this awkward…
 
 In woodier realms, [Æquorea](https://aequorea.bandcamp.com/)’s Dim merges post-rock softness with sludginess. Soft and solemn breaks in intensity, most eloquently achieved in the spacey, wobbly break in the back end of “Mara of Holy Spirit,” add variety and a journey-like feeling to the record. The riffs are big but clean, restrained - a bit of dirt beneath the nails would intensify the excellent snarling vocals and add a greater textural contrast to the softer breaks in the record. FFO: Isis, long walks in the forest.
 
-{{< embed "https://bandcamp.com/EmbeddedPlayer/album=1803052916/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=157148862/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 I saw [Kurokuma](https://kurokumauk.bandcamp.com/album/born-of-obsidian) in a small vegan pizza venue in 2016 which is less of a humble brag and more of a lament about the state of life. My memory was of a hazy three-piece who cared more for cranking up the amp to silly levels and playing repetitive riffs. I expected little from their debut full-length Born of Obsidian, however I was surprised by its ability to merge heavy riffs and playful grooves with expansive songwriting. Born of Obsidian is less concerned with capturing aural filth and more concerned with actually writing riffs that progress a song through various vistas. The flavours of the Latin world are peppered throughout the record which gives it a playfulness, but at the same time it’s not too watered down and weaksauce. Instead, there are traces of the absraveness from Kurokuma’s early days that merge well with the fun. The record does drag, and there is a lack of dynamism in some of the riffs, but there’s something here that might make you not want to kill yourself. Quillon said “this Kurokuma is quite nice sludge” and an excitable Goldi said ‘this one's going in the relisten queue” which means it won’t get another listen. (6 votes; 5.40 WAVG)
+
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3607359320/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 \---
 
@@ -79,7 +83,11 @@ I saw [Kurokuma](https://kurokumauk.bandcamp.com/album/born-of-obsidian) in a sm
 
 [Eyesnomouth](https://eyesnomouth.bandcamp.com/releases) - a band missing a space bar and caps lock - play sludge straight and true. Their E.Ps are rough, monotone slabs that try to be nothing more than punky monstrosities. You listen to music like this to feel nothing - it really works! 
 
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=2182109290/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+
 [Mares of Thrace](https://maresofthrace.bandcamp.com/) play a punk ‘northern’ doom that smells and sounds like weak piss. Its lazy stoner swagger, phlegmy harsh vocals, and flimsy treble tones root their sound firmly in the middle: mediocre and forgettable.
+
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=1897908051/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 Industrial Sludge is made on the streets but the roadmen of the Vortex have little patience for the pipes and wires of bands like [Urskek](https://urskek.bandcamp.com/releases), [Night City](https://nightcity666.bandcamp.com/album/kuang-xi) and [Absent in Body](https://absentinbody.bandcamp.com/). Absent in Body promised the most and delivered the least; the Neurosis, Amenra and Cavelera ‘supergroup’ created a record that set out an interesting atmospheric story arc but failed to deliver any form of showstopping climax. Instead, it seemed happy to dwell in a soggy mid-paced mid-range for its runtime.
 
@@ -91,7 +99,11 @@ The mentally deranged find sludge relaxing. Quillon quested for a meditative slu
 
 [Ufomammut](https://ufomammut.bandcamp.com/album/fenice) (6 Votes; 4.87 WAVG) - Italy’s psychedelic overlords Ufomammut have had their third eye focussed on the sludge scene since 1999. They’re a band held in high regard in psych-doom meditation circles but the Vortex, lacking spirituality and patience, has cast Ufomammut’s 10th full-length Fenice into the dust. Vortexians commented on the record with neither disdain nor praise, “this is just there, nothing more” wrote a despondent, detached Abso. :residentsleeper: An honest Scoop made a bold statement: “pretty boring tbh” and Anal, in a comment from 2019, hit the Ufo on the Mammut with his potent assessment of the band: “Ufomammut just meanders in downtuned purgatory.”
 
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=456152648/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+
 Goldi disliked Huntsmen’s E.P. [The Dying Pines](https://huntsmen.bandcamp.com/album/the-dying-pines), scoring it a red-4. Goldi was unavailable to comment; like Ferday he has gone for cigarettes and milk (update 11.6.22: Ferday has since returned from the shop). Knowing Goldi, he disliked the release because it’s too backwards facing, trying to be Fleetwood Mac on crack. It’s 70s rock with a modern radio-rock production and the occasional big riff. Vocally, the interplay of vocals is annoying and I can see why Goldi sent it into orbit. The folk is false and any elements of metal are dishonest. Boo!
+
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=1420801090/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 Here are some others that are not worth your time:
 
