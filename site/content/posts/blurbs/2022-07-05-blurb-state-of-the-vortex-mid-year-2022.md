@@ -7,7 +7,7 @@ tags:
   - SotV
   - midyear
   - "2022"
-description: It ain't gettin' any better.
+description: On and on it spins.
 image: img/posts/statemidyear2022.png
 ---
 wip
