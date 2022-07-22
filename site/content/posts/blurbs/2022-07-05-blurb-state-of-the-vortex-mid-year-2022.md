@@ -93,3 +93,9 @@ For more detailed individual statistics, feel free to visit the Vortexplorer.
 - - -
 
 Here's hoping there will be 10 records worth talking about by the end of the year. Once again the cantankerous 'corn has left us with his usual "Ferday's Fortune". God bless him.
+
+> So, we made it to mid-year 2022. Who would've guessed that humanity had the desire to keep going at this point. Certainly, that desire has not been fuelled by 2022 music thus far.
+>
+> There is a small part of me that somehow feels that this year has been better than last, but looking at the rates it would appear that feeling is merely wishful thinking, or perhaps some sort of fever dream optimism created by long covid. With two greens being enough to crack the top 10 at this median point, it's evident that things can only go up from here, or at minimum we will be plenty comfortable living in the basement hell that has become the musical landscape.
+>
+> As per the last few years, the culprit appears to be egregious length coupled with an utter lack of ideas and inspiration, however on closer inspection it seems that perhaps those qualities are not only expected, but desired by the goober ridden masses of "music fans", or what passes for them these days. Even the glorious vortex herself is but a meagre point source of warmth in this cold space, but we shall live on as a bastion of fairness, accuracy, and commiseration in the hopes that one day, art will again become something that exists.
