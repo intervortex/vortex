@@ -7,11 +7,7 @@ categories: community
 description: “There’s a lot of people who’d like to kick you down in the world – fuck them”
 image: img/posts/pupil_slicer_mirrors.jpg
 ---
-
-
 *The heat at this year’s Bloodstock festival was scorching and incessant, much like Pupil Slicer’s grinding, eclectic -core based sound. With their 2021 debut album Mirrors impressing a range of metalheads and non-metalheads, Pupil Slicer continues to dip their fingers in many musical pies. After tours with Rolo Tomassi, trips to Brutal Assault and Tech Fest, and time spent creating new sounds for their upcoming second release, Katie – lead vocalist, guitarist and songwriter – met up with me in a sweltering, sticky tent at the heart of the metal festival. Bloodstock, this year especially, was a tale of two cities; the traditional metal core of the festival seemed more abundant, and perhaps more uninspiring, as ever, however the fresher -core core of young bands, mainly playing the tented second stage, presented something different. Pupil Slicer’s music is fizzing with energy and so was Katie who I met a few hours after Pupil Slicer’s set.*
-
-
 
 ![](img/posts/pupil_slicer_bloodstock.jpg)
 
@@ -66,8 +62,6 @@ Katie: I would love to do something with Charli XCX! She’s fantastic. I want t
 Katie: Yeah, let’s start a campaign!
 
 ![](img/posts/pupil_slicer.jpg)
-
-
 
 **Aker: I suppose when it comes to modern music you talk about Knoll and Heriot, are they your friends or enemies?**
 
@@ -131,15 +125,13 @@ Katie: Co-headlining with Nine Inch Nails with Charli XCX supporting.
 
 **Aker: At your own curated show?**
 
-Katie: At my own curated show?
+Katie: At my own curated show.
 
 **Aker: Which would be held where?**
 
 Katie: I’m not sure, we haven’t played in enough places often enough to know where the best places to play are. When we played at Birmingham the first time it was a very different experience to playing there the second time. The first time was like three-four hundred capacity on tour with Rolo. The second time was with Ithaca with a hundred people in an attic and it was 34 degrees when no one was even playing. It was the hottest gig we’ve ever played and the crowd were pitting the entire time. I don’t know how they did it. I don’t know how I did it. It felt like my guitar had been dipped in oil, it was so wet, everything was soaking wet. We don’t know about bigger places to play yet.
 
 ![](img/posts/pupil_slicer_mirrors.jpg)
-
-
 
 **Aker: I have a silly question. If you were to create the testament according to Pupil Slicer written on stone. What would be the testament of Pupil Slicer?**
 
@@ -152,7 +144,5 @@ Katie: The riff economy is fed by me because I write our songs ripping off bands
 **Aker: Well you seem to be smashing it at the moment. Thank you for giving me your time. I’d like to ask if there’s anything you’d like to say. You’ve got the platform like Hyde Park Speakers’ Corner.**
 
 Katie: I would say Pupil Slicer is for everyone and we’d like to deliver a message of love and inclusion. There’s a lot of people who’d like to kick you down in the world – fuck them. Apparently when I said that during our set earlier someone in a Burzum shirt walked out, and I think that’s the funniest thing I’ve heard all day. So, I’m gonna be saying that every day. We have a big Intersectional Pride flag that I like to bring around. It is for everyone and a lot of people would say it isn’t. Everyone have a nice time. It’s nice to see people who aren’t just a load of burly dudes making the music. Nothing wrong with bands who are a load of straight guys but to see more representation is great.
-
-
 
 <!--EndFragment-->
