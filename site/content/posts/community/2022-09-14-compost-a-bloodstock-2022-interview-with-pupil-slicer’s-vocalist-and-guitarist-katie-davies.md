@@ -1,13 +1,26 @@
 ---
-title: A Bloodstock 2022 Interview with Pupil Slicer’s Vocalist and Guitarist
-  Katie Davies
+title: "Bloodstock 2022: A Review and an Interview with Pupil Slicer's Katie Davies"
 date: 2022-09-14T00:09:08.475Z
 author: Aker
 categories: community
 description: “There’s a lot of people who’d like to kick you down in the world – fuck them”
 image: img/posts/pupil_slicer_mirrors.jpg
 ---
-*The heat at this year’s Bloodstock festival was scorching and incessant, much like Pupil Slicer’s grinding, eclectic -core based sound. With their 2021 debut album Mirrors impressing a range of metalheads and non-metalheads, Pupil Slicer continues to dip their fingers in many musical pies. After tours with Rolo Tomassi, trips to Brutal Assault and Tech Fest, and time spent creating new sounds for their upcoming second release, Katie – lead vocalist, guitarist and songwriter – met up with me in a sweltering, sticky tent at the heart of the metal festival. Bloodstock, this year especially, was a tale of two cities; the traditional metal core of the festival seemed more abundant, and perhaps more uninspiring, as ever, however the fresher -core core of young bands, mainly playing the tented second stage, presented something different. Pupil Slicer’s music is fizzing with energy and so was Katie who I met a few hours after Pupil Slicer’s set.*
+![](img/posts/20220813_221019.jpg)
+
+
+
+<!--StartFragment-->
+
+*The heat at this year’s Bloodstock festival was scorching and incessant, much like Pupil Slicer’s grinding, eclectic -core based sound. Bloodstock, this year especially, was a tale of two cities; the traditional metal core of the festival seemed more abundant, and perhaps more uninspiring for my tastes, as ever, however the fresher -core core of young bands, mainly playing the tented second stage, presented something different. The beauty of a festival like Bloodstock is its ability to cater to every need. It’s always a fine balancing act trying to not only stay afloat as a festival during difficult times but also to expand and grow. Bloodstock, being the big dog of the metal summer festivals, has to compete with the bigger headed dogs of Download and the scarier headed dogs of Europe: Wacken, Hellfest and Brutal Assault. Though much of the main stage may not cater to my personal persnickety tastes, when I reflect on the range of music at this years’ festival I can only nod in reflective approval.*
+
+*A particular highlight was jumping from one legendary act to the next on Friday. It was invigorating despite the heat. Time was spent grooving to the fizzing, wizened D-Beat grooves of Discharge and hating-life to Eyehategod’s degenerate swamp sludge. The battered veteran sounds of both bands frothed through the speakers of the Sophie Lancaster tent early in the evening before I wandered to the main stage to be greeted by circle pit dust storms and old school thrash wonder. Exodus - wizened now too - ripped with precision and fantastic energy. The heat made no difference to them; the Bay Area legends embrace heat. Ramping up things in the twilit heat, Testament follows. Like Exodus, it’s a perfect band for a dust storm mosh fest. Though these thrash bands may have lost a touch of physical on-stage energy, their efficiency and ability to stay faithful to the speed and aggression of yesteryear is respectable. A special shout goes out to Killing Joke on Sunday evening: a ritualistic industrial masterpiece spearheaded by a maniacal Jaz Coleman - he shows no sign of age!*
+
+*Of the three headliners - Behemoth, Mercyful Fate and Lamb of God - I was most excited to see Mr. Diamond. Mercyful Fate’s over-the-top aesthetic and beautiful harmonic riffage twinkled through the cooler night. It was a headline set that demonstrated the silliness and the imaginative power of heavy metal. Though small, Mr. Diamond is huge. The stage itself seemed more imposing than usual and the set ripped through banger after banger (minus some slower, uninspiring ‘new’ tracks). But, to go back to the opening lines, it was the young bands that brought the most heat. Pupil Slicer, Cage Fight, and Heriot in particular performed with a fresh sense of aggression that invigorated me. Though appreciative of the power of Behemoth and Lamb of God, bands who excited me back in the day, it was the rejuvenating power of bands on the Sophie and New Blood stage, combining mathcore, emo, post-rock, post-metal, post-you-name-it in their sets, that captured my imagination. Perhaps it’s a case of being drawn to no-frills entertainment - no pyro, no big production, no costumes, just cascading rage and aggression.*
+
+*Pupil Slicer’s set was fizzing with energy and so was Katie who I met a few hours after Pupil Slicer’s set. With Pupil Slicer’s 2021 debut album Mirrors impressing a range of metalheads and non-metalheads, Pupil Slicer continues to dip their fingers in many musical pies. After tours with Rolo Tomassi, trips to Brutal Assault and Tech Fest, and time spent creating new sounds for their upcoming second release, Katie – lead vocalist, guitarist and songwriter – met up with me in a sweltering, sticky tent at the heart of the metal festival.*
+
+<!--EndFragment-->
 
 ![](img/posts/pupil_slicer_bloodstock.jpg)
 
