@@ -14,9 +14,12 @@ There is a saying I invented that goes: ”to really know someone, you have to l
 
 Will some gems be buried in there or do those albums deserve to be left where they are? Let’s find out.
 
+\---
+
 **Vortexer: ferday**
 
-Album: Noble Déchet - Astral D​é​chu / / Rank: 1182 / ferday’s rate: 7/10 / My accurate rating : 5/10 
+Album: Noble Déchet - Astral D​é​chu\
+Rank: 1182 | ferday’s rate: 7/10 | My accurate rating : 5/10 
 
 ![](img/posts/noble-dechet.jpg)
 
@@ -24,7 +27,8 @@ In the past two years, wacky black metal is a genre that welcomed a lot of new p
 
 **Vortexer: Abso**
 
-Album: Noircure - Kyrie / Rank: 1219 / Abso’s rate: 7/10 / My accurate rating : 4/10 
+Album: Noircure - Kyrie\
+Rank: 1219 | Abso’s rate: 7/10 | My accurate rating : 4/10 
 
 ![](img/posts/noircure.jpg)
 
@@ -32,7 +36,8 @@ From our favorite (and only) Spanglish, here comes boredom as an album, perfect 
 
 **Vortexer: ScoopMeister**
 
-Album: Imperial Circus Dead Decadence - 殯――死へ耽る想いは戮辱すら喰らい、彼方の生を愛する為に命を讃える―― / Rank: 1212 / ScoopMeister’s rate: 7/10 / My accurate rating : 5/10 
+Album: Imperial Circus Dead Decadence - 殯――死へ耽る想いは戮辱すら喰らい、彼方の生を愛する為に命を讃える――\
+Rank: 1212 | ScoopMeister’s rate: 7/10 | My accurate rating : 5/10 
 
 ![](img/posts/bigboobskitsune.jpg)
 
@@ -42,7 +47,8 @@ Last year we had Bloody Cumshot in a similar but more restrained and effective s
 
 **Vortexer: Meri**
 
-Album: Zeal & Ardor - Zeal & Ardor / Rank: 988 / meri’s rate: 7/10 / My accurate rating : 5/10 
+Album: Zeal & Ardor - Zeal & Ardor\
+Rank: 988 | meri’s rate: 7/10 | My accurate rating : 5/10 
 
 ![](img/posts/zeal.jpg)
 
@@ -52,7 +58,8 @@ The album is also tanked by a very loud production that leaves no space for the 
 
 **Vortexer: Carlos**
 
-Album: Sewer Seed - Sewer Seed / Rank: 5444 / Carlos’ rate: 7/10 / My accurate rating : 2/10 
+Album: Sewer Seed - Sewer Seed\
+Rank: 5444 | Carlos’ rate: 7/10 | My accurate rating : 2/10 
 
 ![](img/posts/sewer.jpg)
 
@@ -62,7 +69,8 @@ The second part of the album starts with what seems to be vocals and a song stru
 
 **Vortexer: strawberrydeluxe**
 
-Album: Black Dresses - Forget Your Own Faces / Rank:  5494 / strawberrydeluxe’s rate: 7/10 / My accurate rating : 4/10 
+Album: Black Dresses - Forget Your Own Faces\
+Rank:  5494 | strawberrydeluxe’s rate: 7/10 | My accurate rating : 4/10 
 
 ![](img/posts/blackdresss.jpg)
 
@@ -70,7 +78,8 @@ Another member with, let’s say, “peculiar” tastes. Sourced directly from r
 
 **Vortexer: Planex**
 
-Album: MACROSS 82-99 - SAILORWAVE III / Rank: 4551 / Planex’s rate: 7/10 / My accurate rating : 6/10 
+Album: MACROSS 82-99 - SAILORWAVE III\
+Rank: 4551 | Planex’s rate: 7/10 | My accurate rating : 6/10 
 
 ![](img/posts/sailormoon.jpg)
 
@@ -78,7 +87,8 @@ More weeb stuff! But that’s not surprising coming from Planex, who is the weeb
 
 **Vortexer: Goldicot**
 
-Album: Polterwytch - 5 Curses of the Polterorgel / Rank: 3547 / Goldicot’s rate: 7/10 / My accurate rating : 5/10 
+Album: Polterwytch - 5 Curses of the Polterorgel\
+Rank: 3547 | Goldicot’s rate: 7/10 | My accurate rating : 5/10 
 
 ![](img/posts/goldiwitch.jpg)
 
@@ -86,7 +96,8 @@ In the past two years, wacky black metal is a genre that welcomed a lot of new p
 
 **Vortexer: Quillon**
 
-Album: Rammstein - Zeit / Rank: 3543  / Quillon’s rate: 7/10 /My accurate rating : 4/10 
+Album: Rammstein - Zeit\
+Rank: 3543  | Quillon’s rate: 7/10 | My accurate rating : 4/10 
 
 ![](img/posts/zeit.jpg)
 
@@ -94,7 +105,8 @@ Ah Quill, a man with very unique tastes, in particular when it comes to electron
 
 **Vortexer: Scuttlegoat**
 
-Album: Bloodbox - Post Human Disorder  / Rank: 4815  / Scuttlegoat’s rate: 7/10 / My accurate rating : 5/10 
+Album: Bloodbox - Post Human Disorder\
+Rank: 4815 | Scuttlegoat’s rate: 7/10 | My accurate rating : 5/10 
 
 ![](img/posts/post-human-de.jpg)
 
@@ -102,11 +114,14 @@ Time for some grindcore and another short album.I have my theory on why they are
 
 **Vortexer: Aker**
 
-Album: Yeule - Glitch Princess  / Rank: 1156  / Aker’s rate: 7/10 / My accurate rating : 5/10 
+Album: Yeule - Glitch Princess\
+Rank: 1156 | Aker’s rate: 7/10 | My accurate rating : 5/10 
 
 ![](img/posts/zyeule.jpg)
 
 This scared me at first, because the length was 5 hours and 27 minutes and I wonder how Aker in his right mind could give that a green (well even if Aker is never in his right mind). But then you check and the last track lasts 4h44 and it’s a bonus track, so it doesn’t count and everything is fine again. What we have here is another gimmicky genre, where the use of electronic bleeps and bloops clash with a more ethereal pop element. Adequately named glitch pop, it’s again a case of gimmicks taking over writing compelling or more complex music. It’s an amusing coincidence that I can make a common criticism between the first album I listened to and the last one of this list, but making quirky unstructured music can only be interesting for a while before you need something else to make the music good. I think these kinds of writing tropes often lack dynamics and a way to make the albums flow naturally. Fortunately, there is a moment where this album manages to avoid this trap. Between Perfect Blue and Bites on My Neck, the middle of the album has strong and varied songs, the best one being Too Dead Inside. It’s a shame the rest isn’t as good and engaging, with some really forgettable or annoying songs. I think her voice is quite good, even if I’m not digging all the experimentation and processing going over it. At the end it’s a bit too much on the edgy side and I like my music with a bit more flow, but it’s still above average. 
+
+\---
 
 And that’s it for the first part of this series, another 11 albums will follow soon and I wonder if I will find the same tendencies. First a lot of albums here were sub-30 minutes, and most of them had some kind of quirk making them quite original, in a way. The conclusion I’m making is that the people here clicked with the gimmicks from those albums and that their short length doesn’t make their flaws too apparent for them. But on the other side, if those gimmicks annoy you, you will tank the album with a 2 or 3 which will make it drop toward the depths of the sheet.
 
