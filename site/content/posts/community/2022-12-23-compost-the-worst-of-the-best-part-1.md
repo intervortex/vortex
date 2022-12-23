@@ -8,7 +8,7 @@ image: img/posts/worst-of-the-best.jpg
 ---
 <!--StartFragment-->
 
-There is a saying I invented that goes: ”to really know someone, you have to look at what he likes that everyone else hates”. As the leader of this godforsaken place, it’s my duty to understand the best I can all the plebes going frantically around those absurd and obsessive sheets. For that, I obviously decided to go through it in the most masochistic way.For users with over 100 rates, I would listen to their worst ranked green on the sheet, provide some commentary, and a voïevoda approved rating. There were 22 albums, 11 of which will be discussed in this article and another 11 saved for the second part. 
+There is a saying I invented that goes: ”to really know someone, you have to look at what he likes that everyone else hates”. As the leader of this godforsaken place, it’s my duty to understand the best I can all the plebes going frantically around those absurd and obsessive sheets. For that, I obviously decided to go through it in the most masochistic way. For users with over 100 rates, I would listen to their worst ranked green on the sheet, provide some commentary, and a voïevoda approved rating. There were 22 albums, 11 of which will be discussed in this article and another 11 saved for the second part. 
 
 *Note: The ranks presented in this article were current as of December 3, 2022.*
 
