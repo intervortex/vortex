@@ -8,8 +8,8 @@ blurb:
 links:
   - heading: "Main Sheets"
     list:
-      - text: "2022 Vortex"
-        link: "https://www.interdimensionalvortex.com/sheets/2022"
+      - text: "2023 Vortex"
+        link: "https://www.interdimensionalvortex.com/sheets/2023"
       - text: "Interdimensional Reliquary"
         link: "https://www.interdimensionalvortex.com/sheets/reliquary"
   - heading: "Project Sheets"
@@ -34,6 +34,8 @@ links:
         link: "https://docs.google.com/spreadsheets/d/1N74RdSAzoA5Wjz12b1XG1jeJiA0V0DHR0B9VK7D0jcg"
       - text: "Vartex"
         link: "https://www.interdimensionalvortex.com/sheets/vartex"
+      - text: "2022 Vortex"
+        link: "https://www.interdimensionalvortex.com/sheets/2022"
       - text: "2021 Vortex"
         link: "https://www.interdimensionalvortex.com/sheets/2021"
       - text: "2020 Vortex"
