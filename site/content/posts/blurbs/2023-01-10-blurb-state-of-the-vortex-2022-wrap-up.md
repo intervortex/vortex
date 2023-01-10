@@ -22,7 +22,6 @@ The vortex, however,  is a place where misery is tantamount to currency and as a
 
 Votes: 13 | WAVG: 6.10
 
-
 ...no. But I've got to give it to Veilburner. They've managed to trick 6 vortexers into giving their overwrought, bloated mess of an album a green score. Some woozy guitars, stock dissonant melodies and admittedly a couple of slick riffs scattered across (mostly the back half of) the record seems to be enough to throw some into a tizzy.
 
 {{< embed "https://bandcamp.com/EmbeddedPlayer/album=357912691/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
@@ -57,7 +56,7 @@ Votes: 26 | WAVG: 6.35
 
 I'm pretty sure Fires of the Dying World is no one's favorite album this year. I struggle to even find things to say about it. What is it doing on this list? Well,  the scores don't lie and the fact is, nobody disliked this record. Above average for the genre and below average for the band, Fires of the Dying World makes it on the list through sheer indifference.
 
-{{< embed "https://bandcamp.com/EmbeddedPlayer/album=4100167957/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=439719542/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 **(5.)** The Antichrist Imperium - Volume III: Satan in His Original Glory
 
@@ -65,7 +64,7 @@ Votes: 21 | WAVG: 6.38
 
 My personal album of the year, Vol. III has all the hallmarks of a prototypical great album: it features excellent performances on nearly every instrument, vocals included, it's got a clear focus and delivers on it with an unrelenting, laser-like focus and it's wonderfully produced with a thick, punchy sound. One could argue there's too much of those things and I wouldn't disagree, but at this level of quality, it's hard to complain.
 
-{{< embed "https://bandcamp.com/EmbeddedPlayer/album=4100167957/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=2988653473/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 **(4.)** Imperial Triumphant - Spirit of Ecstasy
 
@@ -73,15 +72,13 @@ Votes: 27 | WAVG: 6.44
 
 Vile Luxury and Alphaville were virtually impossible to follow-up on and I'm under the impression Imperial Triumphant were also aware of this. Spirit of Ecstasy is a fair bit more scattershot than its predecessors. Less of a true sequel and more of a side story. The next IT album will be a key point in their career: will they find that next big concept to move forward in their musical experimentation or will they wallow in known waters?
 
-{{< embed "https://bandcamp.com/EmbeddedPlayer/album=4100167957/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
-
 **(3.)** Immolation - Acts of God
 
 Votes: 28 | WAVG: 6.53
 
 Speaking of known waters, Immolation, the most consistent band in metal. Over 30 years in the business and still delivering some of the most ravenous, hostile, dark and uncompromisingly heavy music on the planet. Every single song in Acts of God has at least one moment that makes you think "fuck yes, this is why I keep listening to death metal despite all the endless mediocre garbage the genre churns out daily". Another winner.
 
-{{< embed "https://bandcamp.com/EmbeddedPlayer/album=4100167957/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3654632945/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 **(2.)** Messa - Close
 
@@ -89,13 +86,13 @@ Votes: 26 | WAVG: 6.58
 
 I've written way too many words on Messa and I have yet to grasp what I'm supposed to like about it but surely there must be something. It has remained near the top of the vortex for the entirety of the  year and it has faffed its way onto #2 on the year-end community list. I have quite literally nothing to add to what I wrote on the mid-year post so check that out, I suppose.
 
-{{< embed "https://bandcamp.com/EmbeddedPlayer/album=4100167957/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=2411479040/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 **(1.)** Wormrot - Hiss
 Votes: 25 | WAVG: 6.74
 Hiss is a rare album that manages to meet expectations and at the same time throw those expectations in the trash and deliver something more. Grindcore is a tough genre in which to pull off truly compelling music. Very few albums have much to be enjoyed beyond the surface level aggression and speed. Wormrot has been bending those tenets to great effect throughout their career and Hiss is their most accomplished yet, slowly descending from the grind you've come for and into something deeper and more sinister than any of their peers.
 
-{{< embed "https://bandcamp.com/EmbeddedPlayer/album=4100167957/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=4060129622/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 - - -
 
@@ -111,4 +108,18 @@ Number of scores logged: 16,307
 
 - - -
 
-I suspect my dismissiveness toward current music will continue in 2023 but who knows, something might pull me back in. Have a great new year!
+It wouldn't be a State of the Vortex without our favorite unicorn. Like me, he wasn't very impressed with 2022. Here's **Ferday's Fortune** for 2022:
+
+> Taking my own advice from last year, I have accepted that average is the new good. Sadly it did not send me to some nirvana as hoped, but it did send me to a new level of idiocy in 3000+ albums, and still 0 excuses.  Ironically, despite such, my personal enjoyment level on the year was up despite the quality level dropping yet again, but the very presence of irony implies that I have succumbed to hipsterhood and should be banished to the kombucha scented hallways of RYM. 
+>
+> The year-end vortex average has dropped even further, directly implying that not only has the basement not been reached, but this may actually be a bottomless pit.  Maybe covid actually killed us all and this is conicidentally our shared personal hells.  Heaven knows that endless goregrind and field recordings sure feels like it.  There is a positive in all this, however... I believe we've reached the official tipping point of "it can't get any worse", because all of our neuron pathways have wired themselves into a twisted mass of sadistic enjoyment regardless of external stimulus. Just listen to the impossibly boring top 10 and tell me you didn't bop while hating it.
+>
+> The yearly participation has once again been acceptable, and my prayers from last year were indeed answered by a small group of metaphoric (and possibly actual) retards who have complimented the festering mass of vortexery quite nicely. A new, inverted power has also risen in the darkened corners which has provided some needed conspiracy.  Once again, I submit that this is an underappreciated resource that the entire internet should be so lucky to have, but they should stay away from.
+>
+> The vortex is dead, long live the vortex.  And don't forget, music sucks.  
+>
+> Also, I beat you autothrall, fuck you.
+
+- - -
+
+Have a great new year!
