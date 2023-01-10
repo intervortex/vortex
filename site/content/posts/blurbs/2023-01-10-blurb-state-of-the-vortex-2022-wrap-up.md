@@ -54,7 +54,7 @@ I have spoken before on Worm's clever ploy to market themselves as funeral doom.
 
 Votes: 26 | WAVG: 6.35
 
-I'm pretty sure Fires of the Dying World is no one's favorite album this year. I struggle to even find things to say about it. What is it doing on this list? Well,  the scores don't lie and the fact is, nobody disliked this record. Above average for the genre and below average for the band, Fires of the Dying World makes it on the list through sheer indifference.
+I'm pretty sure Fires of the Dying World is no one's favorite album this year. I struggle to even find things to say about it. What is it doing on this list? Well, the scores don't lie and the fact is, nobody disliked this record. Above average for the genre and below average for the band, Fires of the Dying World makes it on the list through sheer indifference.
 
 {{< embed "https://bandcamp.com/EmbeddedPlayer/album=439719542/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
@@ -70,7 +70,7 @@ My personal album of the year, Vol. III has all the hallmarks of a prototypical 
 
 Votes: 27 | WAVG: 6.44
 
-Vile Luxury and Alphaville were virtually impossible to follow-up on and I'm under the impression Imperial Triumphant were also aware of this. Spirit of Ecstasy is a fair bit more scattershot than its predecessors. Less of a true sequel and more of a side story. The next IT album will be a key point in their career: will they find that next big concept to move forward in their musical experimentation or will they wallow in known waters?
+Vile Luxury and Alphaville were virtually impossible to follow-up on and I'm under the impression Imperial Triumphant were also aware of this. Spirit of Ecstasy is a fair bit more scattershot than its predecessors - less of a true sequel and more of a side story. The next IT album will be a key point in their career: will they find that next big concept to move forward in their musical experimentation or will they wallow in known waters?
 
 **(3.)** Immolation - Acts of God
 
