@@ -10,9 +10,9 @@ The game has changed. I followed my own advice from last year and listened to ev
 
 There are too many things I want to listen to, too many discogs to run, too many lists to peruse and waaaaaaay too many reliquary picks. Going through the reliquary was actually one of my more fruitful activities, catapulting several records straight towards my favorites as well as, without any hyperbole, some of the worst music I've ever heard.
 
-Truth be told, last year's 40 album list was a bit excessive. Though I do truly enjoy all the albums listed, I do feel like the list lost some power due to it being so long, so I slashed that number in half for this year. It just isn't a proper list unless you're forced to make some tough decisions in the process.
+Truth be told, last year's 40 album list was a bit excessive. Though I do truly enjoy all the albums listed, I feel like the list lost some power due to it being so long, so I slashed that number in half for this year. It just isn't a proper list unless you're forced to make some tough decisions in the process.
 
-One of the more interesting takeaways from this list for me is that only 7 out the 20 picks are metal. I've come a long way from listening to nearly 100% metal a decade ago. It might have something to do with the fact that I've been through most of the classic metal albums over the years. An inflection point may come in the future where I really do push metal to the same level as other genres, perhaps even phase it out. Who knows, and it's not necessarily a good or bad thing. Just entropy.
+One of the more interesting takeaways from this list for me is that only 7 out the 20 picks are metal. I've come a long way from listening to nearly 100% metal a decade ago. It might have something to do with the fact that I've been through most of the classic metal albums over the years. An inflection point may come in the future where I really do push metal to the same level as other genres. Who knows, I may even phase it out entirely. It's not necessarily a good or bad thing. Just entropy.
 
 - - -
 
@@ -42,19 +42,19 @@ Coming from the sedated Visions, Art Angels' bold, in-your-face electropop is eq
 
 **(14.)** Grandaddy - The Sophtware Slump
 
-An album that hasn't aged at all in 23 years. If you want to get lost in the bleak realities of current year, you can just go outside, but it doesn't sound as good.
+An album that hasn't aged at all in 23 years. If you want to get lost in the bleak realities of current year, you can just go outside, but it doesn't sound as good without the analog synths.
 
 **(13.)** Charles Mingus - Mingus Ah Um
 
-A jazz album for happy morning rather than moody evenings. Mingus cheerfully shreds the common jazz blueprint with memorable melodies and brisk compositions. 
+Mingus cheerfully shreds the common jazz blueprint with memorable melodies and brisk compositions. A jazz album for peppy mornings rather than dreary evenings.
 
 **(12.)** Sabbat - Dreamweaver
 
-Sabbat is very rarely mentioned next to thrash royalty but this album is easily some of the best the uk had to offer in the 80s. Vicious, fast, unrelenting and badass.
+Sabbat is very rarely mentioned next to thrash royalty but this album is easily some of the best the UK had to offer in the 80s. Vicious, fast, unrelenting and badass.
 
 **(11.)** Rage Against the Machine - self-titled
 
-It's tough to write about an album like RATM. Everyone knows this and why it's good. Who knew fighting "the man" could be so much fun?
+It's tough to write about an album like RATM. Everyone knows it and why it's good. Fighting "the man" hasn't been this much fun since.
 
 ![](img/posts/top-non2022-20-11.png)
 
@@ -80,15 +80,15 @@ Yeezus is self-expression taken to the extreme, the ego lifted from the body and
 
 Much like RATM, Discovery is a difficult album to write about. Even more culturally ubiquitous than the former, it's hard to come up with anything substantive to say. Discovery is a triumph of electronic music, arguably one of the most important and widespread records of all time. It such a metric could exist, Discovery may have brought about the most worldwide happiness out of any record ever released.
 
-It's not a flawless record, it's full of half-baked tracks, it runs a bit too long (heh) and it's, at this point, undeniably overexposed. With that said, it's still an easy record to lose oneself in, a euphoric experience and one I'm not proud to have waited so long to finally fully partake in.
+It's not a flawless record, it has more than a few half-baked tracks, it runs a bit too long (heh) and it's, at this point, undeniably overexposed. With that said, it's still an easy record to lose oneself in, a euphoric experience and one I'm not proud to have waited so long to finally fully partake in.
 
 ![](img/posts/8daftd.png)
 
 **(7.)** Drudkh - Кров у наших криницях \[Blood in Our Wells]
 
-Drudkh lives and dies by its melodies and transitions. The recipe is simple and can very often miss if these two elements lack the desired impact, but BiOW is a perfect example of how to make this formula work, bolstered by dynamic drumming, the transitions are sharp transitions and the melodies are sweeping, melancholic sweeping and evocative.
+Drudkh lives and dies by its melodies and transitions. The recipe is simple and can very often miss if these two elements lack the desired impact, but BiOW is a perfect example of how to make this formula work. Bolstered by dynamic drumming, the transitions are sharp and the melodies are sweeping, melancholic and evocative.
 
-I have remained largely indifferent to Drudkh for a long while. A lot of what I'd heard from them had been, from my perspective, uninspiring, drawn out atmospheric meandering. Blood in Our Wells was the first Drudkh record to truly capture my imagination.
+I have remained largely indifferent to Drudkh for a long while. A lot of what I'd heard from them had been, from my perspective, uninspiring, drawn out, atmo-meandering. Blood in Our Wells was the first Drudkh record to truly capture my imagination.
 
 ![](img/posts/7drudkhbiow.png)
 
@@ -96,15 +96,15 @@ I have remained largely indifferent to Drudkh for a long while. A lot of what I'
 
 Stillbirth Machine is the kind of record you simply aren't ready for. It's a mad whirlwind of rabid intensity, barely contained, whipping the listener around in a tornado of riffs.
 
-Phrases begin and end whenever the seemingly possessed band feels like, the production is raw, murky and dense, and most importantly, the riffs are fast and chaotic, piped in directly from satan's mind and into their fingers. It has the same sort of wild aura as Kreator's Pleasure to Kill or Dark Angel's Darkness Descends. One of the better fuck-off albums I've heard this year.
+Phrases begin and end whenever the seemingly possessed band feels like, the production is raw, murky and dense, and most importantly, the riffs are fast and chaotic, piped in directly from satan's cockles and into their fingers. It has the same sort of wild aura as Kreator's Pleasure to Kill or Dark Angel's Darkness Descends. One of the better fuck-off albums I've heard this year.
 
 ![](img/posts/6ofcsm.png)
 
 **(5.)** Supertramp - Breakfast in America
 
-Unbeknownst to me, I had already listened to a good portion of Breakfast in America before I had decided to go through meri's topster. The singles from side A were a mainstay in my parents' preferred christian radio station. I surprised to find out that all those songs came from the same album.
+Unbeknownst to me, I had already listened to a good portion of Breakfast in America before I had decided to go through meri's topster. The singles from side A were a mainstay in my parents' preferred christian radio station. I was surprised to find out that all those songs came from the same album.
 
-Given how much I enjoyed those tracks, it shouldn't have come as a shock to me how much I enjoyed the rest of it as well. Cuts like Lord Is It Mine and Child of Vision fit perfectly amongst the tracks I had already considered classics, making for a delightful listen from beginning to end.
+Given how much I enjoyed those tracks, it shouldn't have come as a shock to me how much I enjoyed the rest of it as well. Cuts like Lord Is It Mine and Child of Vision fit perfectly amongst the aforementioned singles I had already considered classics, making for a delightful listen from beginning to end.
 
 ![](img/posts/5supertramps.png)
 
@@ -126,18 +126,20 @@ To say Conspiracy is just another great Leviathan album undersells just how well
 
 **(2.)** Elis Regina & Tom Jobim - Elis & Tom
 
-By far the most unexpected pick to me was this one. Never been a big fan of brazillian music, mostly the sertanejo and "fanque" that plague the airwaves as one-hit wonders. There are, however, a few true classic songs that culturally percolated transatlantically, one of them being Águas de Março, a song I've known basically since time immemorial: "É pau, é pedra, é o fim do caminho..."
+By far the most unexpected pick to me was this one. Never been a big fan of brazillian music, especially the sertanejo and "fanque" that plague the airwaves as one-hit wonders. There are, however, a few true classic songs that culturally percolated across the atlantic, one of them being Águas de Março, a song I've known basically since time immemorial: "É pau, é pedra, é o fim do caminho..."
 
-It was pure chance that Scourge had the album from which this song originated on his topster and I am truly glad he did. The performance by Elis Regina is truly fantastic and shockingly multifaceted. From the joyous bookends of Águas de Março and Chovendo na Roseira, placid cuts like Triste, to the more desolate Modinha and Retrato a Preto e Branco, the album covers a lot of ground, and it's shifting moods help it never feel emotionally overbearing. A title deserving of the "classic" epithet.
+It was pure chance that Scourge had the album from which this song originated on his topster and I am truly glad he did. The performance by Elis Regina is truly fantastic and shockingly multifaceted. From the joyous bookends of Águas de Março and Chovendo na Roseira, placid cuts like Triste, to the more desolate Modinha and Retrato a Branco e Preto, the album covers a lot of ground, and its shifting moods help it never feel emotionally overbearing. A title deserving of the "classic" epithet.
 
 ![](img/posts/2elistom.png)
 
 **(1.)** Asphyx - The Rack, Last One on Earth, On the Wings of Inferno
 
-I am ruled by simple tenets when it comes to music. The music that truly gets to me has a way of wrenching my attention from anything else I'm doing. It laughs at my pitiful attempts to resist it and wrests me from my world and into its clutches. My first encounter with Asphyx via their absolutely crushing 2012 release, Deathhammer. I found myself uncharacteristically drawn to even the slower tracks like Der Landser and Minefield, the latter getting an embarassing number of plays (in part due to it being a mainstay in my mp3 player's then laughably small library). It really shouldn't've taken me this long to listen to their entire discography.
+I am ruled by simple tenets when it comes to music. The music that truly gets to me has a way of usurping my attention. It laughs at my pitiful attempts to resist it and wrests me from my world and into its own. My first encounter with Asphyx happened via their absolutely crushing 2012 release, Deathhammer. I found myself uncharacteristically drawn to even the slower tracks like Der Landser and Minefield, the latter getting an embarassing number of plays (in part due to it being a mainstay in my mp3 player's then laughably small library). It really shouldn't've taken me this long to listen to their entire discography.
 
-Asphyx's key strong point is their mastery over tempo and pace. Many a crushing riff has been wasted in the mire of subpar compositions throughout death metal history. Asphyx puts composition first, adeptly fulfilling and toying with expectations at different moments. Get too comfortable with an uptempo riff, and they hit you upside the head with a slow gigaton crusher. The sudden syncopated ramp-up in intensity on Pages of Blood from The Rack is a masterpiece of blood-pumping fury and if it doesn't get you moving, you should check your pulse because you might already be dead. There's hundreds of these moments in their discography. The production, of course, helps tremendously, with some of the thiccest guitar tones this side of Bolt Thrower and Martin van Drunnen's uniquely rabid rasps.
+Asphyx's key strong point is their mastery over tempo and pace. Many a crushing riff has been wasted in the mire of subpar compositions throughout death metal history. Asphyx puts composition first, adeptly fulfilling and toying with expectations at different moments. Get too comfortable with an uptempo riff, and they hit you upside the head with a slow gigaton crusher. The sudden syncopated ramp-up in intensity on Pages of Blood from The Rack is a perfect example, a masterpiece of blood-pumping fury. There's hundreds of these moments in their discography. The production, of course, helps tremendously, with some of the thiccest guitar tones this side of Bolt Thrower and Martin van Drunnen's uniquely maniacal rasps.
 
 ![](img/posts/1asphyx.png)
+
+As always, [here's a playlist](https://www.youtube.com/watch?v=AstnopYcm44&list=PL7_8nJAaPjZDMFDECEPRFioFudxHSD2x1) with choice songs from each of the albums mentioned.
 
 I can't pick a favorite Asphyx album. When I'm done with the first, all I can do is put on the next. I had a hard enough time picking which songs to put on the playlist... Last year, my #1 pick was King Diamond's first four albums, fruit of a similarly overdue discog run. Who knows what next year will bring. Particularly good runs just tend to become emblematic of a specific year, it seems. Here's hoping I find something similarly enjoyable this year.
