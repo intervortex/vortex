@@ -4,6 +4,7 @@ date: 2023-01-16T18:33:46.833Z
 author: Snyde
 categories: community
 description: As long as you avoided music released in 2022
+image: img/posts/top-non2022.png
 ---
 The game has changed. I followed my own advice from last year and listened to even less current music and even more music from past years and I couldn't be happier. I watched my vortex comrades commiserate as they forced themselves through yet another goregrind, business casual, drum 'n' bass release as I merrily ignored 2022.
 
