@@ -109,7 +109,7 @@ I want to mention Harmonium's "Les cinq saisons", which is an album by a prog ba
 
 One last album I want to mention is Introspective by Pet Shop Boys, which is probably one of the most 80’s English albums I have ever heard. You have a jaded singer with the same haircut as Jeremy Clarkson singing synthpop with electro-beats, you have a Beatles cover, and overall the perfect music for a Soho club during the Thatcher era. I particularly enjoy the opener  ‘’Left to My Own Device’’ that starts with an orchestral arrangement before dropping the beat and hitting the dancefloor. 
 
-Conclusion
+**Conclusion**
 
 I already wrote too much so if you want to check every album I heard, [you can do so here](https://docs.google.com/spreadsheets/d/1UxQ3GwtmdncHcjcDNKvvZ-3AguhnTl_C5Sn_PATS9BI/edit#gid=0).
 
