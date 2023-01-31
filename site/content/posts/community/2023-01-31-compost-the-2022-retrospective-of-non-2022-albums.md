@@ -11,15 +11,9 @@ image: img/posts/king-dtarb.png
 
 Over the past year, I have found myself increasingly disinterested in new music. The decline in quality that began in 2016 has continued, and the impact of two years of COVID-19 has only exacerbated the situation, with many live shows and bands being affected. Few albums seem to garner both critical and popular acclaim, and those that do are often not particularly innovative or exciting (looking at you Black Country, New Road - Ants from Up There and Chat Pile - God’s Country).
 
-
-
 Instead, I have found more enjoyment in exploring and listening to older albums, where time has helped to distinguish the wheat from the chaff. I didn’t manage to listen to as many albums as I wanted, thanks to a lot of reliquary updates that left me quite drained. But I was still able to discover some truly great albums that I will continue to listen to in the future. Rather than a traditional top 10 list, I want to reflect on the various aspects of my musical journey throughout 2022.
 
-
-
-I also made a playlist with the best songs I heard this year to listen during your read:
-
-https://www.youtube.com/playlist?list=PLM3A2rdhhLLLWh_Kc1YatWdbEGphl0edU
+[I also made a playlist with the best songs I heard this year to listen during your read](https://www.youtube.com/playlist?list=PLM3A2rdhhLLLWh_Kc1YatWdbEGphl0edU).
 
 <!--StartFragment-->
 
@@ -29,15 +23,11 @@ https://www.youtube.com/playlist?list=PLM3A2rdhhLLLWh_Kc1YatWdbEGphl0edU
 
 I had not given much attention to Mercyful Fate in the past, as I found King Diamond's vocals to be often too excessive and over the top. As such, I also never explored King Diamond's solo work, but Snyde included it in his 2021 top 10 list and recommended I give Fatal Portrait a shot. This year, I decided to give King Diamond a chance and it finally clicked for me.
 
-
-
 By doubling down on the theatricality and with a more prominent role in his music, King Diamond actually addressed my previous reservations about Mercyful Fate. The improved production quality and sharp guitar work also contributed to the overall appeal, resulting in four outstanding heavy metal albums: Fatal Portrait, Abigail, Them and Conspiracy. These albums are so consistently excellent that it's difficult for me to pick a favorite. Among them, only Fatal Portrait doesn’t have a concept, and is more suited for casual listening or for some select tracks during a short break between work calls. Charon and Halloween are the standouts for me, but all the tracks feature impressive riffs that will leave you with a sore neck after too much headbanging. 
 
 Following their first album, King Diamond's Abigail marked his first concept album, a trait that can be found in all his subsequent work. The creepy story of a stillborn ghost taking over the body of a young wife in a haunted manor elevates the whole album and makes it very cohesive. King Diamond seems to relish in role-playing each character in a twisted and grotesque theatrical performance. The music behind this is top quality heavy metal, that doesn't hesitate to dip into some proggy aspect to emphasize the history being told by the madman up front.
 
 Curious about King Diamond's backstory? Look no further than the albums "Them" and "Conspiracy". These two albums tell the chronological story of a young King Diamond descending into madness. The first one begins with King Diamond, his sister, and his grandmother moving into the haunted house of Amon and being plagued by sinister voices referenced as the titular ‘’Them’’. King and his mother will survive the events and he will tell us all about them in one of the best vocal performances I have ever heard. It all peaks in The Accusation Chair, where you can hear all of King Diamond’s hatred, disdain, fear and resolution toward ‘’Them’. Despite this, in "Conspiracy", he makes a deal with "Them" to return the house to their control in exchange for the chance to see his now-dead sister, Missy. However, his doctor and mother are secretly plotting to kill him and take the house for themselves… The strength in all of those concept albums is the shortness and the overall lack of faffery. "Conspiracy" does have a bit more filler, but it makes up for it with some of the best guitar work and riffs across the four albums. Overall, there are very few complaints to be had about these albums, perhaps a track or two that falls short of the usual standard or some sections that can feel repetitive, but otherwise, they are a true pleasure to listen to.
-
-
 
 **Weeb and nerd music**
 
@@ -51,15 +41,9 @@ In a significant departure from the previous examples, we now come to one of the
 
 The final album in this selection is not from a video game, but I wanted to include it here because it had a clear influence on the soundtracks I mentioned earlier (and also because it’s Japanese). "Solid State Survivor" by Yellow Magic Orchestra is an early electronic and synthpop album that still feels quite modern despite being released in 1979. Far away from the depressive, minimalistic and, quite frankly, boring music from their electronic predecessor Kraftwerk, Solid State Survivor is way closer to what we usually associate with modern electronic acts. It features danceable and energetic beats, memorable loops, and melodies, but still has an 80's kitschy feel with its strident synths and funky bass. A song like "Behind the Mask" could have been released by Daft Punk on their latest album, the melancholic 80's ballad and the vocoder vocals would have fit perfectly. If you have to listen to just one song, try the bombastic "Rydeen" with its catchy lead synth that sounds almost like it was recorded on 8-bits, the link with video game music is quite evident on this one.
 
-
-
 **The incompletion of the discog-runs**
 
-
-
 This year, I attempted to listen to several complete discographies, but unfortunately I was unable to finish any of them. An impressive feat, I know. I have been listening to Tom Waits and Savatage, but I haven't been able to find the time to complete them and they have not been as satisfying as I had hoped. While the crooner phase of Tom Waits is decent, it can be a bit boring. I am looking forward to exploring his more experimental phase. I am already familiar with "Rain Dogs," and I listened to "Swordfishtrombones" for the first time, which is definitely an improvement over his earlier solo work. As for Savatage, I've passed over the turds that were "Power of the Night" and "Fight for the Rock," and I am now starting to explore their opera/concept period with "Gutter Ballet," which I like, but not as much as "Hall of the Mountain King." I am curious to see what "Streets: A Rock Opera" has in store for me. 
-
-
 
 Alongside those two discography runs, I have also been listening to Dead Can Dance and My Dying Bride, which have had a greater impact on me.
 
@@ -77,8 +61,6 @@ The two standout albums I discovered this year were "The Light at the End of the
 
 "The Angel and the Dark River" is the third album in My Dying Bride's discography and probably their most gothic. There is no growling, only the melodramatic clean vocals of Aaron Stainthorpe crying about a dying love or a dying world. My main criticism for the album is the opening track "The Cry of Mankind", which is a bit repetitive and has a 5-minute fade-out ambient passage, which is an absolute bore. Thankfully, the second track, "From Darkest Skies", is excellent and introduces one of the strongest points of the album, the violin. Already present on their first and second albums, it's much more prominent on this album, often alternating with the guitars, creating a somber and melancholy mood. Another standout is "A Sea to Suffer In," with its organ synth and violin over some heavy and slow riffs. It's delicious. But the album finishes on an even stronger note, and my favorite track of the year, "Your Shameful Heaven," which is perfect to introduce the notion of "Ooga Booga".
 
-
-
 **The doom art of Ooga Booga**
 
 ![](img/posts/oogabooga.png)
@@ -89,17 +71,11 @@ This onomatopoeia, I felt, really represented quite well the small project that 
 
 One of the standout discoveries from the project was "Rain Without End" by October Tide, which offers a melodic death doom with a solid performance. The opening track stood out, but the entire album is enjoyable to listen to. Another album that I expected to enjoy, and did, was "The Great Cessation" by Yob. The dynamics, Scheidt's voice and the crushing production are all excellent. However, I was not a fan of the more experimental and ambient track "Silence of Heaven" as I found it to be too long and disruptive to the flow of the album. Everything is good otherwise, especially the mammoth last track. 
 
-
-
 Cathedral is a band that had a divisive reception during the doom run. And by divisive, I mean everyone hated them except me. The biggest point of contention are the vocals that are objectively and voluntarily super bad. Lee Dorian (who also sang for Napalm Death…) must have drunk a shitload of weed and smoked three liters of Jack D before recording. They are completely out of tune, and his inability to hold a note makes them quite amazing in a goofy way. It kinda confirms that I can like something with weird vox, like ‘’The Underground Resistance’’ or those Cathedral albums if they’ve got the good stuff. And yes I mean riffs. Or ‘’Ooga Booga’’ in the case of Cathedral. The riffs are so good, even ferday said they were on par with Candlemass (and that’s the only nice thing he said about this band). 
 
 Their first album had a more classic doom metal approach, with slow songs, low vocals, and is a bit of a slog. However, their second and third albums were more interesting as they incorporated elements of grunge into their doom metal sound. This resulted in a unique and unusual mix of genres, and songs like "Vampire Sun," "Hopkins," "Ride," and "Midnight Mountain" were particularly enjoyable. While I liked the band overall, I found that their albums were too front-loaded, too long, and that I often returned to specific tracks rather than listening to the albums in their entirety. Overall, Cathedral is a unique band that is worth listening to, at least just to hate them.
 
-
-
 Overall the doom project was quite enjoyable and confirmed that I’m more a fan of classic epic doom metal ala Candlemass, than the other subgenres, even if I really enjoy the two only great funeral doom metal albums ever made; Skepticism's Stormcrowfleet and Ahab's Call of the Wretched Sea, which I had previously listened to before this project.
-
-
 
 **The disappearance of good topsters**
 
@@ -107,11 +83,7 @@ Overall the doom project was quite enjoyable and confirmed that I’m more a fan
 
 Listening to the top 25 of the newcomers (and oldcomers) took a big chunk of my listening time this year, and oh god it was awful. I listened to some of the worst albums I have ever heard, like Bill Orcutt's "A New Way to Pay Old Debts'', which our good friend Goldi probably likes only to convince himself that he is the only one that can understand it, which makes his serotonin levels go ‘’brrrr’’ when everyone gave it the 2/10 it deserves. I can only describe the music as ‘’an elderly man with Parkinson's plays guitar for an hour while having an epileptic crisis’’. While we're in Michigan, let’s talk about Dunka's The 1975 - "A Brief Inquiry into Online Relationships'' that is awful all around; shitty production, shitty autotune vocals, shitty drum box, every song is super repetitive, and it’s 58 minutes of pure agony. It's basically every annoying modern pop trope condensed into each song, and it rightfully deserves a 2/10 rating. And talking about Dunka's relationship, let’s not forget Anna, who has better taste than him (not that hard to do), but unfortunately likes noise. I don’t know why noise fans bother with albums, just open your fridge and sit in it and you will have the same experience, and if you stay 1h30 in it, the length of that Ramleh's "Hole in the Heart'' album, you might even die of hypothermia which would be a blessing for every music fan everywhere. Ramleh's music is random synth noise and larsen effect, with white noise and distortion on top of it, it's even worse than a work meeting, so a 2/10.
 
-
-
 Knighttomourning's topster was especially prolific in bad albums. For example, it had not one, but two Pere Ubu albums to help confirm that the band is truly awful. Imagine if Talking Heads released an album that featured only their most annoying traits. The guitars, drums, vocals, and even the way the songs progress, are all very random. It all appears to me as lazy songwriting rather than quirky. As always, writing deliberately annoying music doesn't make it innovative. I would say that "The Modern Dance" has a more typical song structure, but that only makes the atrocious, drunken vocals stand out even more. "New Picnic Time'' is just a complete mess. Anyway, if you listen to the opener of each album, you'll have a good idea of what the next 35 minutes will look like (spoiler: they look like a 3/10). Another interesting choice in Knighttomourning's reliquary was Meredith Monk's "Dolmen Music," which has the funniest vocals I've ever heard on an album. They sound like a drunk, yodeling Swiss woman, stubbing her toes on her coffee table. She never sings in any language, mostly repeating random onomatopoeias and mouth noises ad-nauseam. There isn't really any structure in the music; it's often just her on a simplistic, repetitive piano loop. I would say the primitive aspect of it is interesting, but I would expect something like this to have a trance-like effect. Instead, it becomes annoying and ridiculous very quickly. I don't really know if I should take this music seriously, but I didn't appreciate the experience, so it was a 3/10 at the end.
-
-
 
 But all of these albums pale in comparison to the worst album I have ever heard thanks to Strawberrydeluxe's topster: Andrew W.K.'s "I Get Wet". I had never heard of Andrew W.K. before listening to that album, and had no idea about his history, persona, or what were his influences. I simply pressed play and listened. It was the first time an album made me feel physically ill. The sound was so compressed and loud that it gave me a migraine every time I tried to listen to it at a volume I would consider "fair." I couldn't believe how that was possible, but every other listen made me feel the same way. Apparently, they wanted a production that was "in your face." I guess it's a success... But not only is the production awful, the music is too. Just basic chugs with lots of distortion and a dude that screams about how much he likes to party, drink, and get wasted. It's so obnoxious and tiring, even if the album is short, because it's so repetitive. Listen to "Party Hard'' and you have the whole album. All the songs are basically the same, so if you like one, you'll like the album. Apparently, Andrew W.K. wanted to make an album that invited everyone to party, but by doing so, he may have created the most insecure frat-douchebro music ever. I can't say one nice thing about "I Get Wet." It's like asking an introvert to make music that he thinks extroverts like. The only thing relatable to partying for me with that album is the Advil I need to take after listening to it. My first ever 0/10.
 
@@ -123,8 +95,6 @@ The other two noteworthy albums were found in Anna's selection, one being Drudkh
 
 Moving on to Townes Van Zandt's self-titled album, it is a personal and intimate work that is slightly on the edgy side. But I would take that over some dude writing a song nagging at a woman that refused to sleep with him. The simplicity of the album is refreshing, with Townes' voice ringing freely and agreeably. The album perfectly captures the feeling of hitchhiking through a desolate Texas, searching for a lost golden age. The latter half of the album is stronger than the beginning, with tracks such as "I'll Be Here in the Morning" and "Fare Thee Well, Miss Carousel" standing out. The album is not particularly original, but it is well-executed and I can see myself listening to it often alongside Jim Croce and John Fahey.
 
-
-
 **Stone cold classics and miscellaneous good albums**
 
 ![](img/posts/topsters2mod.png)
@@ -133,23 +103,15 @@ In this section, I will not delve too deeply into the albums, mostly because I d
 
 UFO’s “Phenomenon" is pure 70s rock, so you can expect good production, catchy riffs, and boomer energy. But I will be honest, I have listened to "Rock Bottom" and "Doctor Doctor" way too many times. "Rock Bottom" is easily one of my top 10 favorite songs of the year, from the amazing main riff to the catchy chorus, it's a foot-to-the-floor ride down the highway all along. And I cannot forget to mention the solo, which is one of the best I have ever heard. In a way, it reminded me of Deep Purple's "Burn," but even stronger, because I did not dislike any songs on that album. In the same "boomer energy" kind of way, The Stooges' "Fun House" was something I didn't expect to enjoy much. But I ended up liking the rough rock-and-roll vibe of it, with that raw sound and Iggy Pop's shenanigans behind the mic.
 
-
-
 Although I did not discover any exceptional black metal albums this year, Melechesh's "Sphynx" and Windir's "1184" are noteworthy. Both albums showcase a melodic black metal style that is influenced by their cultural origins. Melechesh's use of the Phrygian middle scale creates distinct and captivating riffs, while Windir's music will make you travel into the harsh and cold winter of Northern Norway.
 
 I want to mention Harmonium's "Les cinq saisons", which is an album by a prog band from Quebec. Released in 1975, it incorporates the typical prog tropes of that era, but with a folk twist that makes it very chill. It's also all in French, which is unusual but works well here. But the prog album I enjoyed the most this year is the deliciously satanic "Sacrifice" by Black Widow. I rarely see that album on best prog lists, but it's quite a unique release. The music isn't heavy, but is definitely strange, like on "Come To The Satan's Sabbath" where the somber opening gives way to joyous music before the singer invites you to come to the Sabbath, perhaps to be their sacrifice, and finally meet your Lord and savior Satan. All songs are quite quirky but still manage to be catchy, and I think the singer, while not exceptional, brings a mood of unease and impending doom that fits the album perfectly.
 
 One last album I want to mention is Introspective by Pet Shop Boys, which is probably one of the most 80’s English albums I have ever heard. You have a jaded singer with the same haircut as Jeremy Clarkson singing synthpop with electro-beats, you have a Beatles cover, and overall the perfect music for a Soho club during the Thatcher era. I particularly enjoy the opener  ‘’Left to My Own Device’’ that starts with an orchestral arrangement before dropping the beat and hitting the dancefloor. 
 
-
-
 Conclusion
 
-
-
-I already wrote too much so if you want to check every album i heard check this link: 
-
-https://docs.google.com/spreadsheets/d/1UxQ3GwtmdncHcjcDNKvvZ-3AguhnTl_C5Sn_PATS9BI/edit#gid=0
+I already wrote too much so if you want to check every album I heard, [you can do so here](https://docs.google.com/spreadsheets/d/1UxQ3GwtmdncHcjcDNKvvZ-3AguhnTl_C5Sn_PATS9BI/edit#gid=0).
 
 And here is my top 15 of the best albums I heard for the first time this year:
 
