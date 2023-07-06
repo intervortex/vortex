@@ -94,7 +94,7 @@ Number of scores logged: 6098
 
 - - -
 
-To close us off, here are a few words of the strange and estranged unicorn. Perhaps, **Ferday's Fortune** will be positive this time:
+To close us off, here are a few words of the strange and estranged unicorn. Perhaps, **Ferday's Fortune** will show us the way to an enlightened new age:
 
 > *Here we are, mid-year 2023. And there is fatigue, nibbling at the very edges of existence and sanity. I reckon this is simply inevitability, but this old unicorn, at least, is not interested in new tricks, and so onwards with the ouroboros of listening.* 
 >
