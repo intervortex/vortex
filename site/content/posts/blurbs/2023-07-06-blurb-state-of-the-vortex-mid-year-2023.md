@@ -24,41 +24,61 @@ So, what can we salvage? Here's what the vortex has deemed worthy so far this ye
 
 Billy Woods has certainly been prolific over the past few years but I am always looking forward to occupying this man's mind for 40-something minutes. His previous pairing with Kenny Segal, Hiding Places, introduced me to his depressed stylings and cryptic wordplay and the sequel does not disappoint.
 
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3847395087/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+
 **\[9.]** Sarmat - Determined to Strike
 
 I don't really enjoy this one but I'm not really fussed about it being in the top 10. Sarmat is a band to watch even if I think Determined to Strike is more frustrating and annoying than successful in its attempts to shoehorn jazz into metal.
+
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=1191939681/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 **\[8.]** Vexing - Grand Reproach
 
 Somehow, another murky, messy, "occasional dissonant melody over indistinguishable downtuned guitars", barely yellow generic metal album makes its way to the vortex top 10. There's always one, isn't there? This one comes with a side dish of extra shitty production, too. Yummy gruel for the dissoshit faithful.
 
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=2140282920/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+
 **\[7.]** Temblad - Hallucignosis
 
 I was ready to sunc this one to oblivion after hearing that Goldi and strawberrydeluxe had joined forces to shove it into the top 10 but they were actually right this time. This fucks. The excellent vocal performance is but a complement to the heavy ass riffs and progressive songwriting that, while boasting great technical skill, employs such technicality to kick your ass rather than to try to impress you. A great example of why death metal doesn't need to be the same shit over and over.
+
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3543092182/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 **\[6.]** Thy Catafalque - Alföld
 
 I expected Alföld's sound to be similar in style to Naiv and Vadak and, though I mildly enjoyed both of those, I didn't want it to be another one for the pile of "acceptable" records in his recent discography. I'm glad Tamás Katái is unencumbered by such expectations. The heavier approach added a certain spice that had been missing from his releases since Meta but I'm not entirely sold on the execution. I'm keen to listen to it a fair few more times, but it seems clear to me that while Alföld is a good record, it would've certainly benefitted from more time in the oven, working out sequencing, structure and flow.
 
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3805927399/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+
 **\[5.]** Spirit Possession - Of the Sign...
 
-I forget that this album is in the top 10. As far as orthodox black metal, it's a decent album I enjoy and it's a big improvement over their debut but top 5? Just one of those situations where nobody really dislikes it. Which I suppose is a credit to it. But can we not do better?
+I forget that this album is in the top 10. As far as orthodox black metal, it's a decent album I enjoy and it's a big improvement over their debut but top 5? Just one of those situations where nobody really dislikes it. Which I suppose is a credit to it. But can we stop rewarding the merely acceptable?
+
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=2157239303/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 **\[4.]** Dødheimsgard - Black Medium Current
 
 DHG are a bit of a rare breed. They really take their time between releases and thus, every one of their albums is different from the last. So a new DHG release is like a major event. Hit or miss, their model is one we should praise. It's so often obvious how bands that release albums every two or three years have no creative juice after a couple of attempts. DHG had eight years to stew and iterate on Black Medium Current and it shows. An album brimming with creativity, truly different and worth experiencing.
 
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=2647571093/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+
 **\[3.]** Curta'n Wall - Siege Ubsessed!
 
 Metal's court jester Abysmal Specter continues co-opting the kvlt aesthetics of yesteryear (ironically of course) and churning out exceptionally silly albums. I have more respect for GSR's self-aware grift than some "serious revivalist movements" but even though he seems to have put a lot of effort into this one, I simply have no interest in listening to a guy laugh at himself for 50 minutes.
+
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=2664643628/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 **\[2.]** Thantifaxath - Hive Mind Narcosis
 
 The vortex's absurd bias toward murky, messy, "dissonant melody over indistinguishable downtuned guitars", barely yellow generic metal has dredged up many too many mediocre albums over the years. So I'm glad everyone finally decided to rally behind a disso record that actually has some thought, purpose and structure to it.
 
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=132689568/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+
 **\[1.]** Hellripper - Warlocks Grim & Withered Hags
 
 And thus we repeat, for that is all we have left. As we relive past glories, the thrill may be gone but were we even looking for it? As if sifting through old photos, there's that same sweet prick of "I remember having felt that.". Just enough soma to get us through another six months of mediocrity.
+
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=1419443193/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 - - -
 
