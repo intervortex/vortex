@@ -10,9 +10,9 @@ tags:
 description: On and on it spins.
 image: img/posts/statemidyear2023.png
 ---
-The musical stagnation of the 2020s is well documented around these parts. A quick look at the mainstream will tell you all you need to know, with no major developments since the hip hop boom of the 00s. Cultural footnotes such as dubstep, vaporwave, cloud rap and hyperpop certainly influenced the zeitgeist, but never gained a proper foothold. Thus, we stand at a point of complete cultural nihilism, doomed to repeat what has been popular or rebel against it, in ironic acknowledgemnt of its power.
+The musical stagnation of the 2020s is well documented around these parts. A quick look at the mainstream will tell you all you need to know, with no major developments since the hip hop boom of the 00s. Cultural footnotes such as dubstep, vaporwave, cloud rap and hyperpop certainly influenced the zeitgeist, but never gained a proper foothold. Thus, we stand at a point of complete cultural nihilism, doomed to repeat what has been popular or rebel against it, in ironic acknowledgment of its power.
 
-As a child of the 90s, I may have been spoiled by the quick succession of repeated societal revolutions before and since my birth. As the dust finally settles on the internet age, we might've become too culturally connected. Niches that suddenly burst onto the mainstream consciousness with ideas that could've only evolved by stewing for years in isolation are diluted via their instant availablity. How can cultural exchange happen when we all share the same culture?
+As a child of the 90s, I may have been spoiled by the quick succession of repeated societal revolutions before and since my birth. As the dust finally settles on the internet age, we might've become too culturally connected. Niches that suddenly burst onto the mainstream consciousness with ideas that could've only evolved by stewing for years in isolation are diluted via their instant availability. How can cultural exchange happen when we all share the same culture?
 
 So we've might've just descended to some sort of base state. The entire post-war period finally convoluted to a point of uniformity. A cultural singularity. A low entropy state from which only an external kick can release us. What form could that kick take? It's 2023 so the inevitable answer is AI. I keep wondering how much of what I hear and see is already AI-generated. If I find the difference difficult to discern now, how much worse will it be in the coming years? Detractors can say AI won't have an impact since it only pulls from what already exists. My answer: so do we. Get ready to be replaced.
 
@@ -22,13 +22,13 @@ So, what can we salvage? Here's what the vortex has deemed worthy so far this ye
 
 **\[10.]** Billy Woods & Kenny Segal - Maps
 
-Billy Woods has certainly been prolific over the past few years but I am always looking forward to occupying this man's mind for 40-something minutes. His previous pairing with Kenny Segal, Hiding Places, introduced me to his depressed stylings and cryptic wordplay and the sequel does not disappoint.
+Billy Woods has certainly been prolific over the past few years but I am always looking forward to occupying this man's mind for 40-something minutes. His previous pairing with Kenny Segal, Hiding Places, introduced me to his depressed stylings and cryptic wordplay and the sequel does not disappoint. Even if 90% of his references go over my head.
 
 {{< embed "https://bandcamp.com/EmbeddedPlayer/album=3847395087/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 **\[9.]** Sarmat - Determined to Strike
 
-I don't really enjoy this one but I'm not really fussed about it being in the top 10. Sarmat is a band to watch even if I think Determined to Strike is more frustrating and annoying than successful in its attempts to shoehorn jazz into metal.
+I don't really enjoy this one but I'm not really fussed about it being in the top 10. Sarmat is a band to watch. Determined to Strike is more frustrating and annoying than successful in its attempts to shoehorn jazz into metal but they should keep trying.
 
 {{< embed "https://bandcamp.com/EmbeddedPlayer/album=1191939681/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
@@ -46,7 +46,7 @@ I was ready to sunc this one to oblivion after hearing that Goldi and strawberry
 
 **\[6.]** Thy Catafalque - Alföld
 
-I expected Alföld's sound to be similar in style to Naiv and Vadak and, though I mildly enjoyed both of those, I didn't want it to be another one for the pile of "acceptable" records in his recent discography. I'm glad Tamás Katái is unencumbered by such expectations. The heavier approach added a certain spice that had been missing from his releases since Meta but I'm not entirely sold on the execution. I'm keen to listen to it a fair few more times, but it seems clear to me that while Alföld is a good record, it would've certainly benefitted from more time in the oven, working out sequencing, structure and flow.
+I expected Alföld to be similar in style to Naiv and Vadak and, though I mildly enjoyed both of those, I didn't want it to be another one for the pile of "acceptable" records in his recent discography. I'm glad Tamás Katái is unencumbered by such expectations. The heavier approach added a certain spice that had been missing from his releases since Meta but I'm not entirely sold on the execution. I'm keen to listen to it a fair few more times, but it seems clear to me that while Alföld is a good record, it would've certainly benefitted from more time in the oven, working out sequencing, structure and flow.
 
 {{< embed "https://bandcamp.com/EmbeddedPlayer/album=3805927399/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
@@ -58,7 +58,7 @@ I forget that this album is in the top 10. As far as orthodox black metal, it's 
 
 **\[4.]** Dødheimsgard - Black Medium Current
 
-DHG are a bit of a rare breed. They really take their time between releases and thus, every one of their albums is different from the last. So a new DHG release is like a major event. Hit or miss, their model is one we should praise. It's so often obvious how bands that release albums every two or three years have no creative juice after a couple of attempts. DHG had eight years to stew and iterate on Black Medium Current and it shows. An album brimming with creativity, truly different and worth experiencing.
+DHG are a bit of a rare breed. They take their time between releases and thus, every one of their albums is different from the last. A new DHG release is like a major event. Hit or miss, their model is one we should praise. It's so often obvious how bands that release albums every two or three years have no creative juice after a couple of attempts. DHG had eight years to stew and iterate on Black Medium Current and it shows. An album brimming with creativity, truly different and worth experiencing.
 
 {{< embed "https://bandcamp.com/EmbeddedPlayer/album=2647571093/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
@@ -70,7 +70,7 @@ Metal's court jester Abysmal Specter continues co-opting the kvlt aesthetics of 
 
 **\[2.]** Thantifaxath - Hive Mind Narcosis
 
-The vortex's absurd bias toward murky, messy, "dissonant melody over indistinguishable downtuned guitars", barely yellow generic metal has dredged up many too many mediocre albums over the years. So I'm glad everyone finally decided to rally behind a disso record that actually has some thought, purpose and structure to it.
+The vortex's absurd bias toward murky, messy, "occasional dissonant melody over indistinguishable downtuned guitars", barely yellow generic metal has dredged up many too many mediocre albums over the years. So I'm glad everyone finally decided to rally behind a disso record that actually has some thought, purpose and structure to it. Thantifaxath excel in the use of space, establishing an idea and slowing disfiguring it until only a mangled picasso-esque shadow of its original form remains.
 
 {{< embed "https://bandcamp.com/EmbeddedPlayer/album=132689568/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
