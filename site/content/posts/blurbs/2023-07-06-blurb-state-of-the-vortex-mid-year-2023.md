@@ -44,17 +44,17 @@ I was ready to sunc this one to oblivion after hearing that Goldi and strawberry
 
 {{< embed "https://bandcamp.com/EmbeddedPlayer/album=3543092182/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
-**\[6.]** Spirit Possession - Of the Sign...
-
-I forget that this album is in the top 10. As far as orthodox black metal, it's a decent album I enjoy and it's a big improvement over their debut but top 5? Just one of those situations where nobody really dislikes it. Which I suppose is a credit to it. But can we stop rewarding the merely acceptable?
-
-{{< embed "https://bandcamp.com/EmbeddedPlayer/album=2157239303/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
-
-**\[5.]** Thy Catafalque - Alföld
+**\[6.]** Thy Catafalque - Alföld
 
 I expected Alföld to be similar in style to Naiv and Vadak and, though I mildly enjoyed both of those, I didn't want it to be another one for the pile of "acceptable" records in his recent discography. I'm glad Tamás Katái is unencumbered by such expectations. The heavier approach added a certain spice that had been missing from his releases since Meta but I'm not entirely sold on the execution. I'm keen to listen to it a fair few more times, but it seems clear to me that while Alföld is a good record, it would've certainly benefitted from more time in the oven, working out sequencing, structure and flow.
 
 {{< embed "https://bandcamp.com/EmbeddedPlayer/album=3805927399/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+
+**\[5.]** Spirit Possession - Of the Sign...
+
+I forget that this album is in the top 10. As far as orthodox black metal, it's a decent album I enjoy and it's a big improvement over their debut but top 5? Just one of those situations where nobody really dislikes it. Which I suppose is a credit to it. But can we stop rewarding the merely acceptable?
+
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=2157239303/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 **\[4.]** Dødheimsgard - Black Medium Current
 
