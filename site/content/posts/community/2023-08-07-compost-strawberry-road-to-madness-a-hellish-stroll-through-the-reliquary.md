@@ -242,7 +242,9 @@ Rating: 6/10
 
 Rush - A Farewell to Kings
 
-![](https://lh5.googleusercontent.com/HCH3Sfv5jIqS2BD_W9wvGfkbqsshbg9oPUYPZP8yRXKPvpVSEIxgJWr_QvZ_JgRGtcclGM2uwC6SJwLn0nfNTo4LVtEijuITdMUqwNivAN1RCkfQ6hRHG7t3yhkBMYhChx4Dp4uHbOxtzTRtz96TfMg)\
+![](img/posts/farewell.png)
+
+\
 I’ve been known to like Rush, but this one didn’t make an impression on me at all. I listened to this a week ago and can hardly remember anything about it other than it sounded like Rush by numbers.
 
 Highlight: “Xanadu”
