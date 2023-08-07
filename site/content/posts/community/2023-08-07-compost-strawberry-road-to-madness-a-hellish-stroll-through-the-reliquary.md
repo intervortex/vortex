@@ -62,7 +62,7 @@ Rating: 5/10
 
 And One - Bodypop
 
-![](img/posts/and-one.png)
+![](img/posts/dissection.png)
 
 If this is what EBM sounds like then count me out for the genre. The singer attempts to be sexy(?) and cool(?) but it just comes off as overly self-serious and cold. A lot of the vocals and lyrics make me wanna slap myself, I really could not stand this. And it’s an hour long? Why?
 
