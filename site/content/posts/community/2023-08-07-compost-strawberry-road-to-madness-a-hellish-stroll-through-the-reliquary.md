@@ -13,7 +13,7 @@ image: img/posts/hell-rilquary.png
 
 It is July 29, 2023 as I write this, which means I’m a few weeks out from a year in the Vortex. I was lured in by talk of “music spreadsheets” and “trying to grow the community”, and those certainly are two things one could say about the Vortex. I might describe it more as “a place full of assholes who bully each other for enjoying music” but to each their own. Having finished 2023’s project, gigs (140-some of the supposed best live albums of all time, according to reputable places such as Rolling Stone and Rate Your Music Dot Com), I decided to make a stronger effort to finish the Reliquary, which is 500-some of the supposed best albums according to said assholes of the Vortex. Here are some of my thoughts on what I listened to this month..
 
-The Microphones - The Glow Pt. 2
+**The Microphones - The Glow Pt. 2**
 
 ![](img/posts/microphones.png)
 
@@ -25,7 +25,7 @@ Lowlight: Most songs feels incomplete
 
 Rating: 5/10
 
-Dissection - Storm of the Light’s Bane
+**Dissection - Storm of the Light’s Bane**
 
 ![](img/posts/dissection.png)
 
@@ -37,7 +37,7 @@ Lowlight: Didn’t hold my attention through the end
 
 Rating: 6/10
 
-Cake - Prolonging the Magic
+**Cake - Prolonging the Magic**
 
 ![](https://lh4.googleusercontent.com/pT4futfA4DW9-Ap0M1Y8xnmVodqLmowDB2yDFqt_605Ot3odttQoUZ-kLf2GQFPLtyc7VKd2Oh-VkN7WtGOILi0JQLuykdtzLcgG3ZRSyZTn9ZwiXmlYpNHIH-L6ALt3n37pLRbTOfWPZ9g-OnRUa9s)
 
@@ -49,7 +49,7 @@ Lowlight: They could’ve cut a song or two 
 
 Rating: 7/10
 
-Bongripper - Satan Worshiping Doom
+**Bongripper - Satan Worshiping Doom**
 
 ![](img/posts/bongripper.png)
 
@@ -61,7 +61,7 @@ Lowlight: “Hail”
 
 Rating: 5/10
 
-And One - Bodypop
+**And One - Bodypop**
 
 ![](img/posts/and-one.png)
 
@@ -73,7 +73,7 @@ Lowlight: All of the vocals
 
 Rating: 3/10
 
-Entombed - Clandestine
+**Entombed - Clandestine**
 
 ![](https://lh3.googleusercontent.com/IIy3v8UWRpk-oTBleYJt7gC1QgbeJpK9lgDFttXJwT4oP1nA3GH8I0BVJgdAVy7-xTlEfWm8tcUu2VB6qIRRjlWyk3yoaAqBsIGliFTO6CrvpzRQVooaohy0MDbIAEkPa9CVS6YuidHbQQq7vbPSRD0)
 
@@ -85,7 +85,7 @@ Lowlight: “Stranger Aeons”
 
 Rating: 7/10
 
-Amorphis - Elegy
+**Amorphis - Elegy**
 
 ![](https://lh4.googleusercontent.com/XT2jX9OxiQSY9J7YefFZSQMkxgwqHBIpbFrFKe0aiCALx9Gum7uPb5YlVvEygikATYhVYipx97EeeCBZIluNMt-s82sIXPtrciaghBF9OZsb4YePpGK3MQ9NemLBIoOZzwn5fXsKPHFeXYRemgcMCBU)
 
@@ -97,7 +97,7 @@ Lowlight: “Cares”
 
 Rating: 3/10
 
-Neko Case - Fox Confessor Brings the Flood
+**Neko Case - Fox Confessor Brings the Flood**
 
 ![](https://lh4.googleusercontent.com/rrxpWQAau6Vh2p8RNMRvPmZBG20JcQ480Mhlj4vgCkFdEvmQoTbeYML_MVgi1zqrzE62oFppoDm0fX-8S8Uih5FON__Fe8mOuOJGY3q2ySlVoU5CQi1PLglJMXfIQn3KYkE1nWwMj9DAH9ZiAHzxUwg)
 
@@ -109,7 +109,7 @@ Lowlight: The album artwork and layout is ugly
 
 Rating: 8/10
 
-Jason Isbell & The 400 Unit - The Nashville Sound
+**Jason Isbell & The 400 Unit - The Nashville Sound**
 
 ![](https://lh6.googleusercontent.com/-aARNL2bYxchl_6jidTn4r9e58NZAqn8e-KTnk-MvWxEaROrQ4XmfoupgFXF5BYj2rR6cfLzoiWW4TsrKU-_jZyzPE8P3jjJiMrw1q5citGqrmyCrCX76MYAfAdVhjaAejL-Q_BsO1NEoEm61QprFMc)
 
@@ -121,7 +121,7 @@ Lowlight: “Last of My Kind”
 
 Rating: 5/10
 
-Sten & Stalin - Jesus Lever…
+**Sten & Stalin - Jesus Lever…**
 
 ![](img/posts/sten.png)
 
@@ -133,7 +133,7 @@ Lowlight: The music contained within
 
 Rating: 3/10
 
-The Ruins of Beverast - Exuvia
+**The Ruins of Beverast - Exuvia**
 
 ![](img/posts/beverast.png)
 
@@ -145,7 +145,7 @@ Lowlight: The guitar loop that plays through all 15 minutes of the first song
 
 Rating: 4/10
 
-BCUC - The Healing
+**BCUC - The Healing**
 
 ![](img/posts/bcuc.png)
 
@@ -157,7 +157,7 @@ Lowlight: The first song is too long
 
 Rating: 6/10
 
-Priestess - Prior to the Fire
+**Priestess - Prior to the Fire**
 
 ![](img/posts/priestess.png)
 
@@ -169,7 +169,7 @@ Lowlight: Gets a tad same-y by the end
 
 Rating: 6/10
 
-Soul-Junk - 1958
+**Soul-Junk - 1958**
 
 ![](img/posts/1958.png)
 
@@ -181,7 +181,7 @@ Lowlight: Maybe a little too weird for their own good
 
 Rating: 6/10
 
-Ketha - #!%16.7
+**Ketha - #!%16.7**
 
 ![](img/posts/ketha.png)
 
@@ -193,7 +193,7 @@ Lowlight: Very few complete thoughts
 
 Rating: 5/10
 
-A Million Dead Birds Laughing - Xen
+**A Million Dead Birds Laughing - Xen**
 
 ![](img/posts/xen.png)
 
@@ -205,7 +205,7 @@ Lowlight: “Zombie”
 
 Rating: 5/10
 
-Telomēre - Where Are We Still
+**Telomēre - Where Are We Still**
 
 ![](img/posts/telomere.png)
 
@@ -217,7 +217,7 @@ Lowlight: Album ends with a whimper
 
 Rating: 7/10
 
-Blind Guardian - Nightfall in Middle-Earth
+**Blind Guardian - Nightfall in Middle-Earth**
 
 ![](img/posts/bg.png)
 
@@ -229,7 +229,7 @@ Lowlight: The skits
 
 Rating: 2/10
 
-The Cure - Disintegration
+**The Cure - Disintegration**
 
 ![](img/posts/cure.png)
 
@@ -241,7 +241,7 @@ Lowlight: “Homesick”
 
 Rating: 6/10
 
-Rush - A Farewell to Kings
+**Rush - A Farewell to Kings**
 
 ![](img/posts/farewell.png)
 
@@ -254,7 +254,7 @@ Lowlight: Largely forgettable
 
 Rating: 5/10
 
-Pixies - Surfer Rosa
+**Pixies - Surfer Rosa**
 
 ![](img/posts/pixies.png)
 
@@ -266,7 +266,7 @@ Lowlight: As much as I love “Where is My Mind” it sticks out like a sore thu
 
 Rating: 7/10
 
-Refused - The Shape of Punk to Come
+**Refused - The Shape of Punk to Come**
 
 ![](https://lh5.googleusercontent.com/bfne_yP9m38YEW8E5yAss6V7RR1YD-KteulQPr-Bz61RZB41QKU12XZUDMzTxrPvrgvKlEaO_gEiA5cGgUDYriBxyCyPcjr21n405_FD8t2SvtyvPlzuc-KnLZ1XIULwSDHSh8cP2XD1rjefqRuHVIs)
 
@@ -278,7 +278,7 @@ Lowlight: I can’t take “New Noise” seriously anymore after seeing Crazy To
 
 Rating: 7/10
 
-Stars - Set Yourself on Fire
+**Stars - Set Yourself on Fire**
 
 ![](img/posts/stars.png)
 
@@ -290,7 +290,7 @@ Lowlight: The oh-so-twee 2004-ness of it all
 
 Rating: 6/10
 
-Godspeed You! Black Emperor - F# A# ∞
+**Godspeed You! Black Emperor - F# A# ∞**
 
 ![](img/posts/gybe.png)
 
@@ -302,7 +302,7 @@ Lowlight: They sure do take a while to get where they’re going
 
 Rating: 7/10
 
-Sinead O'Connor - The Lion and the Cobra
+**Sinead O'Connor - The Lion and the Cobra**
 
 ![](https://lh6.googleusercontent.com/HlocZefs9zMLNP-RRxtypQzFvlsTA2YxejN8HKHJ2JaBYj1Z2VdnBAYC_mX8XsjOLeFLy42AGFVkm4eZVqAtIwqWDkHmtsxpuPBlfA9Qkr0KYncyLurcO4TOKEnU45RenyRz29ohzvPX2bs_2BmlFak)
 
@@ -314,7 +314,7 @@ Lowlight: “I Want Your (Hands On Me)”
 
 Rating: 6/10
 
-Phil Collins - No Jacket Required
+**Phil Collins - No Jacket Required**
 
 ![](https://lh3.googleusercontent.com/E91RANCpQHfMhBPkeHCRmhyy9M2b1iy4jlrHj6F5xzLP8LvxfXzEdEicffioBELm6PbYbjPwp0Y1bTt6yAtZYFvexsav5bAPQiXW53dPsgAcggqPUTmPlLDyPlaBDdoDztnre9brg2mteaUJxshtGs4)
 
@@ -326,7 +326,7 @@ Lowlight: “Don’t Lose My Number” makes me think of Steely Dan’s “Rikki
 
 Rating: 7/10
 
-Crowbar - Odd Fellows Rest
+**Crowbar - Odd Fellows Rest**
 
 ![](https://lh6.googleusercontent.com/qpACpaARIMD7JRSNQoZkDJjCQ5Vtm5g8IzTTzBPDV6Eo2CRdREFvIMn6mRzZLm3bviZ9u7p2wVMR8A9sEUbegyvYp4hOiEQMM_NMP_3mAMZmL6iLOCGRrK4zK5zU1B5z67Z_h3QZGAX4eiAOh-LRbLk)
 
@@ -338,7 +338,7 @@ Lowlight: How often I felt like a given riff was budget Pantera
 
 Rating: 6/10
 
-Darkthrone - The Underground Resistance
+**Darkthrone - The Underground Resistance**
 
 ![](img/posts/darkthrone.png)
 
@@ -350,7 +350,7 @@ Lowlight: “Valkyrie”
 
 Rating: 6/10
 
-Thy Catafalque - Rengeteg
+**Thy Catafalque - Rengeteg**
 
 ![](img/posts/thy-cat.png)
 
@@ -362,7 +362,7 @@ Lowlight: The gated snare tone
 
 Rating: 7/10
 
-Mercyful Fate - Don't Break the Oath
+**Mercyful Fate - Don't Break the Oath**
 
 ![](https://lh4.googleusercontent.com/tuhQb5IAj3CSiYtOUM81a_MUnCJ2TT244L6IrZtCxt9nWfYNKUnIY2UNffv3czBHuRnIMKsKRprn8_kaSGRuFCQG7DJldOnnVz9wfb_YaJaCyP9lKhLz_06HasfaGMt1z5-1TYp8gvZE6HneQDX1vWc)
 
@@ -373,7 +373,7 @@ Lowlight: KD’s super wispy falsetto makes me think of the Whitest Kids U Know 
 
 Rating: 7/10
 
-Khonsu - The Xun Protectorate
+**Khonsu - The Xun Protectorate**
 
 ![](img/posts/khonsu.png)
 
@@ -385,7 +385,7 @@ Lowlight: “A Dream of Earth”
 
 Rating: 5/10
 
-Surfing - Deep Fantasy
+**Surfing - Deep Fantasy**
 
 ![](img/posts/surfing.png)
 
@@ -397,7 +397,7 @@ Lowlight: The harsh reality that this album is responsible for some of the worst
 
 Rating: 4/10
 
-Pere Ubu - New Picnic Time
+**Pere Ubu - New Picnic Time**
 
 ![](https://lh6.googleusercontent.com/Ibwi1F3k0Gs7NDo1i7yEaXzFdOjEFMY0UMBOSCBdld8LodexXStX70gOnC5TaG4BTtdt8V9cU_m7vT5m54-jrcXWqINoCzswR1-Nd8MxbNJIwpDzSAZpiXNNodRNElkhSGpPgyeml3fUDedE_KvfUa4)
 
@@ -409,7 +409,7 @@ Lowlight: “A Small Dark Cloud”
 
 Rating: 3/10
 
-Sonic Youth - Daydream Nation
+**Sonic Youth - Daydream Nation**
 
 ![](https://lh4.googleusercontent.com/gMu8DY1x4K4ugogSV3aN02WICHEu5vGyz_7Ue-FXs-gPzsUx9xABKutwj_7zmm8qCxpMLMKfSeVlG7pFTle4Z2BznvvmTCSp6OmJu-mVnJtVCi6ut8BNUyUFkguVZNbqC9vM_M3QBYYlEYNP90AReq4)
 
