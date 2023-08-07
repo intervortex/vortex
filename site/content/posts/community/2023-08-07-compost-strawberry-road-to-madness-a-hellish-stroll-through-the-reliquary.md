@@ -7,6 +7,7 @@ tags:
   - top25
   - reliquary
 description: Never go full reliquary
+image: img/posts/hell-rilquary.png
 ---
 <!--StartFragment-->
 
