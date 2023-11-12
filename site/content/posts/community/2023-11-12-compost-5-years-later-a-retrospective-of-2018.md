@@ -15,6 +15,8 @@ Ah 2018, the year I joined a cesspool of bad taste, bad faith, goat lovers linke
 
 At the time I had a different, more retarded name, was relatively new to metal and my noob ass didn’t pick a side, so I would highly rate some average black metal as well as nonsensical experimental albums. This resulted in an absurd and painstakingly high number of albums rated as 7 or more. In total I had 98 greens out of 292 albums, which is impossible; there can’t be almost a hundred good albums in a year right?  This was probably caused by my inability to rate fairly and accurately because I was skewed by the chronic overrates of the metal reviews I was reading at the time. Often, an average album would get a 7, so I would give albums that I thought were alright this same rate while they should have probably been a 6 or a 5, in particular if I didn’t come back to them.  
 
+![](img/posts/tarbackintime.jpg)
+
 So to make amends for my past mistakes, I decided to relisten to all the albums I’ve rated 7 and above during 2018, and see if I was completely off the mark back then. I listened to them all, and started to hate my AltarbA alter-ego from the time, that fucker just gave so many average albums a green score -  it was ridiculous. So out of those 98 “good” albums, only 29 managed to keep a rate of 7 or above. Even worse, I had 34 5/10 and 4/10. You might say the years made me sour and resentful and that I hate music now (which might be true) but this doesn’t excuse giving Rytmigeneraattor - Ikiliikkuja - a fucking didgeridoo instrumental album - a 7. I also listened to some of the 6s I gave and that were highly placed on the sheet to give me a bit of perspective and see if I did not miss anything. 
 
 ![](img/posts/antidigeridoo.jpg)
@@ -35,8 +37,6 @@ Finally, it also shows that the albums I really preferred back then still remain
 Check here for the 2018 sheet:  
 
 <https://docs.google.com/spreadsheets/d/18SjPH_m9oO49TR-hfJKbpCCN4XKDNQv-MJREPA7rqbE/edit>
-
-
 
 And now, time for the new 2018 top 10.
 
