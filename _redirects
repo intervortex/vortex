@@ -1,4 +1,5 @@
 # Redirects from what the browser requests to what we serve
+/sheets/2024              https://docs.google.com/spreadsheets/d/1brXxKn_eUF2vDh5uGsz00LCxzStsu_d0F3Joo9y517Y
 /sheets/2023              https://docs.google.com/spreadsheets/d/19MR5T6YYD5A9smPoKYlTE79dz1wYbUdNf3WlNnxCs8w
 /sheets/2022              https://docs.google.com/spreadsheets/d/1TZ6JzeC-BxUSwSbwaNvTfUGz0J4CVd3oCPVduLJzDLg
 /sheets/2021              https://docs.google.com/spreadsheets/d/1I9OAFHol_LMXua0rmSl2yFiOkHDrgMHETrgL7NXYCsA
