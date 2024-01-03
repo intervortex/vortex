@@ -8,6 +8,7 @@ tags:
   - wrap-up
   - "2023"
 description: On and on it spins.
+image: img/posts/statewrapup2023.png
 ---
 As we step confidently toward the Vortex's upcoming 6th anniversary, the roiling seas of music discourse have never been more frigid. Even the safe waters of the Vortex are awash in digression and disillusion. The aussies are locked in a state perpetual mental human centipede, the ameros continue to foist their collective mental illness upon the world across yet another platform, and the euros barely muster a peep on their most active days. 
 
@@ -21,39 +22,41 @@ Fortunately, as Shakira taught us, the sheets don't lie and so a set of 10 recor
 
 Dødheimsgard's Black Medium Current took the music world by storm, receiving praise from several publications, mainstream and otherwise, and appearing on many vortex users' year-end top lists. As per usual with DHG records, it is demanding and unconventional listen (to a fault, some would argue), challenging long-established rules of the genres it pretends to root itself in to create a unique and intensely flavorful experience. Obviously this means that it only made it to #11 on the sheet, snubbed by a (in truth, quite adept) Deafheaven retread, and a basic black metal album nobody really cares about. If justice is blind, the vortex is deaf.
 
-{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3847395087/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=2157239303/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
-{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3847395087/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=2780024821/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=2647571093/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 **8)** Temblad - Hallucignosis
 
 Having said a few words on Temblad in the mid-year post, I'll take this spot to highlight the herculean efforts of one Goldicot, who trudged through endless swarms of new releases, amounting to a frankly astounding total of 3502 rates (a mind-boggling 25% of all the rates added to the 2023 spreadsheet). Without his (fool)hardy dedication, it is likely that this excellent death metal album would have slipped through the cracks.
 
-{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3847395087/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3543092182/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 **7)** Hellripper - Warlocks Grim & Withered Hags
 
 Hellripper hangs on to the top of the charts by virtue of fitting the sort of mold that is the least offensive to the most users of the vortex. An enjoyable venom metal experience to be sure, but while it certainly satisfies when it needs to, it's far from James McBain's best effort. In fact, Warlocks brings forth yet more evidence of Hellripper's trend toward bloated and unengaging songwriting.
 
-{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3847395087/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=1419443193/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 **6)** Phobocosm - Foreordained
 
 A rare December entry into the yearly top 10, Phobocosm spun the death-heads into a tizzy with it's fantastic production and dark, pulsating rhythms. Foreordained is indeed a step up from Bringer of Drought and is certain to have more staying power.  Sitting at the edge of becoming a death/doom band will have different sections of one's audience clamoring for more of either the slower or faster tracks depending on their preferences. All things considered, not a bad place to be as a band in the death metal space.
 
-{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3847395087/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=84942929/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 **5)** Gridlink - Coronet Juniper
 
 The highly anticipated sequel to grindcore smash hit Longhena, Coronet Juniper fails to live up to the frantic swings of its predecessor. No one was annoyed or disgusted by it, which, in the vortex, means loyalist true-believers will have their say and thus, drag this flatly-produced, flatly-written, not-particularly-grindy grindcore record to the top 5. Oh well, np: Longhena.
 
-{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3847395087/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3635437687/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 **4)** Convocation - No Dawn for the Caliginous Night
 
 Convocation's ascent toward (not quite but pretty much funeral) doom royalty continued in 2023, with the remarkable lack of a single negative rate, even from the Vortex's most hardline funeral doom haters. Not for nothing, as No Dawn delivers on a funereal experience without nary a single dragged out section throughout its 48 minutes and a bevy of diverse, emotionally resonant set pieces. Finally something worthy of the "fun doom" moniker.
 
-{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3847395087/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=337690298/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 **3)** Stortregn - Finitude
 
