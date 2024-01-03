@@ -84,3 +84,11 @@ Album rate average: 4.82/10 \[weighted: 4.93/10]
 Average rate given: 5.01/10
 
 Number of scores logged: 14151
+
+- - -
+
+Ferday's Fortune:
+
+> FFFF
+
+Happy 2024 woo
