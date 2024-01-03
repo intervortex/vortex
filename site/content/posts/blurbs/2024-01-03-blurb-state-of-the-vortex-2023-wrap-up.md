@@ -62,19 +62,19 @@ Convocation's ascent toward (not quite but pretty much funeral) doom royalty con
 
 Following Impermanence with Finitude (apart from the obvious semantic consistency) may have been impossible for a lesser band. I myself did not believe Stortregn had the gumption, much less the competence to do it. Having predicted their downfall, I listened in equal parts wonder and disbelief as they delivered crushing riffs, techno-cosmic moods and varied instrumental high jinks. Sometimes being wrong feels pretty good.
 
-{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3847395087/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3168144400/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 **2)** Marduk - Memento Mori
 
 Some may say Marduk doesn't deserve the #2 spot and it's easy to agree with such statements. After all, Memento Mori does not deviate from the black metal blueprint established 30 years ago by... Marduk themselves. But let's consider things from a different perspective. Contextualizing Memento Mori within the band's long and inconsistent career, it's wonderful to see them succeed after a few records of questionable quality, energized by recently recruited drummer Simon Schilling's tremendous performance and a newfound flair for the dramatic.
 
-{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3847395087/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=1897089494/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 **1)** Horrendous - Ontological Mysterium
 
 Even as I listen to Ontological Mysterium yet again, I cannot help but struggle to find a definite thread, a logical transition, the proper sequence of musical phrasing and the conclusion to which it portends. In terms of sheer musical confusion Horrendous easily makes #1, although, that observation alone might make my repeated incursions worth the investment in and of itself. The one consistently negative point that every Horrendous record has been burdened with since their inception - terribly puny vocals - seems to serve as the anchor to my experience of Ontological Mysterium. As a fan of incredibly messy tech thrash opera of yesteryear and their propensity for terrible vocal performances, this new Horrendous album may be hard to parse but it is at least easy to categorize. If nothing else, Ontological Mysterium's evasive nature may turn out to be a boon to its longevity in the metal cultural conscience. Or maybe just mine.
 
-{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3847395087/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3545974312/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 - - -
 
