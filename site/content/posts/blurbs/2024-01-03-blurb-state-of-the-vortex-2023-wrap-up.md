@@ -10,7 +10,7 @@ tags:
 description: On and on it spins.
 image: img/posts/statewrapup2023.png
 ---
-As we step confidently toward the Vortex's upcoming 6th anniversary, the roiling seas of music discourse have never been more frigid. Even the safe waters of the Vortex are awash in digression and disillusion. The Aussies are locked **in a state perpetual mental human centipede**, the Ameros continue to foist their collective mental illness upon the world across yet another platform, and the Euros barely muster a peep on their most active days. 
+As we step confidently toward the Vortex's upcoming 6th anniversary, the roiling seas of music discourse have never been more frigid. Even the safe waters of the Vortex are awash in digression and disillusion. The Aussies are locked in a state of perpetual mental human centipede, the Ameros continue to foist their collective mental illness upon the world across yet another platform, and the Euros barely muster a peep on their most active days. 
 
 It becomes tough to see past the fog and focus on what is most important: fairness and accuracy.
 
@@ -42,7 +42,7 @@ Hellripper hangs on to the top of the charts by virtue of fitting the sort of mo
 
 **6)** Phobocosm - Foreordained
 
-A rare December entry into the yearly top 10, Phobocosm spun the death-heads into a tizzy with it's fantastic production and dark, pulsating rhythms. Foreordained is indeed a step up from Bringer of Drought and is certain to have more staying power.  **Sitting at the edge of becoming a death/doom band will have different sections of one's audience clamoring for more of either the slower or faster tracks depending on their preferences.** All things considered, not a bad place to be as a band in the death metal space.
+A rare December entry into the yearly top 10, Phobocosm spun the death-heads into a tizzy with it's fantastic production and dark, pulsating rhythms. Foreordained is indeed a step up from Bringer of Drought and is certain to have more staying power. Phobocosm sit at the edge of becoming a death/doom band, which may have doomers asking for slower songs and death fiends asking for quicker progressions. Foreordained manages to satisfy both crowds. All things considered, not a bad place to be as a band in the death metal space.
 
 {{< embed "https://bandcamp.com/EmbeddedPlayer/album=84942929/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
@@ -72,7 +72,7 @@ Some may say Marduk doesn't deserve the #2 spot and it's easy to agree with such
 
 **1)** Horrendous - Ontological Mysterium
 
-Even as I listen to Ontological Mysterium yet again, I cannot help but struggle to find a definite thread, a logical transition, the proper sequence of musical phrasing and the conclusion to which it portends. In terms of sheer musical confusion Horrendous easily makes #1, although, that observation alone might make my repeated incursions worth the investment in and of itself. The one consistently negative point that every Horrendous record has been burdened with since their inception - terribly puny vocals - seems to serve as the anchor to my experience of Ontological Mysterium. As a fan of incredibly messy tech thrash opera of yesteryear and their propensity for terrible vocal performances, this new Horrendous album may be hard to parse but it is at least easy to categorize. If nothing else, Ontological Mysterium's evasive nature may turn out to be a boon to its longevity in the metal cultural conscience. Or maybe just mine.
+Even as I listen to Ontological Mysterium yet again, I cannot help but struggle to find a definite thread, a logical transition, the proper sequence of musical phrasing and the conclusion to which it portends. In terms of sheer musical confusion Horrendous easily makes #1, although, that observation alone might make my repeated incursions worth the investment in and of itself. The one consistently negative point that every Horrendous record has been burdened with since their inception - terribly puny vocals - seems to serve as the anchor to my experience of Ontological Mysterium. As a fan of incredibly messy tech thrash opera of yesteryear and fully aware of their propensity for terrible vocal performances, this new Horrendous album may be hard to parse but it is at least easy to categorize. If nothing else, Ontological Mysterium's evasive nature may turn out to be a boon to its longevity in the metal cultural conscience. Or maybe just mine.
 
 {{< embed "https://bandcamp.com/EmbeddedPlayer/album=3545974312/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
