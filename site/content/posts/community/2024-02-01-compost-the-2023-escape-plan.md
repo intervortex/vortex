@@ -8,7 +8,7 @@ image: img/posts/misstarbeaux.jpg
 ---
 <!--StartFragment-->
 
-In 2023, I didn't delve much into listening to older music due to a notorious yearly project that consumed a significant amount of time (read about it here). I found myself exploring albums from the reliquary, which was not very fruitful, as you can imagine. Shout out to the worst album I have heard this year, Little Woman - Throat, that I described as ‘’a bunch of ducks playing Jazz’’ and gave a 2. It was obviously from CJ topster. 
+In 2023, I didn't delve much into listening to older music due to a notorious yearly project that consumed a significant amount of time (read about it here <https://www.interdimensionalvortex.com/posts/community/2023-08-11-compost-a-reflection-on-live-albums-and-the-failing-of-this-year-community-project/>). I found myself exploring albums from the reliquary, which was not very fruitful, as you can imagine. Shout out to the worst album I have heard this year, Little Woman - Throat, that I described as ‘’a bunch of ducks playing Jazz’’ and gave a 2. It was obviously from CJ topster. 
 
 Fortunately, I primarily listened to discographies, which proved to be a better alternative. This was especially true for a band I hadn't paid much attention to before. In hindsight, I should have, as they ended up with 5 albums in my top 10 for the year.
 
