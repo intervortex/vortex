@@ -19,9 +19,13 @@ The audience for a 'revivalist' movement can be divided into two distinct factio
 
 Bands that work to fit genres rather than attempt to create their own scene are instantly engaged in a struggle for The Enthusiast's attention. **Sovereign**'s debut, *Altered Realities* (2024), is an example of an album that inevitably channels **Pestilence**'s *Testimony of the Ancients* (1991). By  emulating a genre, you relinquish the right to be judged on your own merits and are instead measured against standards set far in the past. If you're in the vanguard doing your own thing, everyone who's listening to you is a Newbie . 
 
-{{< embed "https://bandcamp.com/EmbeddedPlayer/album=1881603329/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=2870434840/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+
+
 
 Much like **Sovereign**, **Dissimulator**'s full-length debut, *Lower Form Resistance* (2024), walks well-trodden paths: "technical metal band with a science fiction aesthetic from Quebec" can be used to refer to a shockingly large number of bands. With that said, **Dissimulator**'s issue is not that they bow at the altar of **Voivod**. It is where they differ that the problem lies. **Voivod** were never trying to be like **Voivod**, they just were. The band had a vision, and that vision is now implied whenever the word **Voivod** is evoked. **Dissimulator**'s vision ultimately amounts to "tech thrash is pretty cool, isn't it?" which, yes it is, but what of it?
+
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=1881603329/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 Technicality for its own sake is an issue as old as technical metal itself, so in that sense *Lower Form Resistance* is remarkably faithful in its emulation of old school tech. The album is plagued by haphazard writing and disorienting structures which frustrate rather than excite. Drummer Philippe Boucher's undoubtedly virtuosic playing is wasted on needless flourishes and an infuriating aversion to keeping a groove for more than a couple of bars (a potential holdover from his stints in bands more suited to this playstyle, such as **Beyond Creation** and **First Fragment**). This ultimately suffocates the inventive guitar work and leaves the listener dreading the next drum pattern switch, never properly engaged with the flow of the compositions, let alone the full scope of the album .
 
