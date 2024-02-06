@@ -13,15 +13,13 @@ description: '"The conscious present is an awareness of the past (...) which the
 image: https://f4.bcbits.com/img/a2700531410_10.jpg
 rating: 5
 ---
-"Thrash metal" as a scene died in 1991 , its coup de grâce coming in the form of a little black square from the San Francisco Bay Area. In less than a decade, the genre's customs, tropes and taboos were codified, calcified and cast aside. As a natural off-shoot, technical thrash metal met its demise soon after the main branch had withered. Of course, a scant few bands held fast to their stylistic roots in the ensuing years but, in general terms, any thrash metal album released after 1993 (but especially after 2000, when the dust had settled on mainstream music's identity crisis) can be called 'revivalist'. 
+"Thrash metal" as a scene died in 1991, its coup de grâce coming in the form of a little black square from the San Francisco Bay Area. In less than a decade, the genre's customs, tropes and taboos were codified, calcified and cast aside. As a natural off-shoot, technical thrash metal met its demise soon after the main branch had withered. Of course, a scant few bands held fast to their stylistic roots in the ensuing years but, in general terms, any thrash metal album released after 1993 (but especially after 2000, when the dust had settled on mainstream music's identity crisis) can be called 'revivalist'. 
 
 The audience for a 'revivalist' movement can be divided into two distinct factions: Enthusiasts and Newbies. The Enthusiast is well acquainted with the original scene and experiences the revival as an attempt to capture the magic of what came before. The Newbies simply experience, their judgment unclouded by memories of the past. As an Enthusiast, can’t help but view thrash through a honed yet deformed lens.  
 
 Bands that work to fit genres rather than attempt to create their own scene are instantly engaged in a struggle for The Enthusiast's attention. **Sovereign**'s debut, *Altered Realities* (2024), is an example of an album that inevitably channels **Pestilence**'s *Testimony of the Ancients* (1991). By  emulating a genre, you relinquish the right to be judged on your own merits and are instead measured against standards set far in the past. If you're in the vanguard doing your own thing, everyone who's listening to you is a Newbie . 
 
 {{< embed "https://bandcamp.com/EmbeddedPlayer/album=2870434840/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
-
-
 
 Much like **Sovereign**, **Dissimulator**'s full-length debut, *Lower Form Resistance* (2024), walks well-trodden paths: "technical metal band with a science fiction aesthetic from Quebec" can be used to refer to a shockingly large number of bands. With that said, **Dissimulator**'s issue is not that they bow at the altar of **Voivod**. It is where they differ that the problem lies. **Voivod** were never trying to be like **Voivod**, they just were. The band had a vision, and that vision is now implied whenever the word **Voivod** is evoked. **Dissimulator**'s vision ultimately amounts to "tech thrash is pretty cool, isn't it?" which, yes it is, but what of it?
 
