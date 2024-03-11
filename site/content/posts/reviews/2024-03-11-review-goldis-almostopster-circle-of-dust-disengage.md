@@ -5,7 +5,7 @@ author: Goldi
 categories: reviews
 tags:
   - almostopster
-description: "This week, it's a vortex's heavy weight turn to chose an album "
+description: "This week, it's a vortex heavyweight's turn to choose an album "
 image: img/posts/circle-of-dust-disengage-cover-art.webp
 rating: 9
 ---
@@ -17,7 +17,7 @@ My first memories of music are wishing it was heavier. Before I had internet acc
 
 <!--StartFragment-->
 
-Steve Taylor was my introduction to censorship. A pioneer of Christian alternative rock, Taylor wrote many of my favorite songs when all I had was the radio, a fact I didn’t learn until many years later when I learned that bands didn’t always write their own material. Newsboys, evangelical rock very popular on local Christian radio, had an entire verse struck from a song on account of the phrase “shoveling elephant dung”, a line penned by Steve Taylor. Like a dutiful student of things I wasn’t supposed to learn, I quickly pulled back out Taylor albums from my father’s collection and looked for more. Turns out, Taylor was strictly censored in ye olden days for writing biting satire, culminating in a soft excommunication from Christian rock, hence explaining writing for another from the sidelines. I personally attuned to his song “Am I in Sync?”, for reasons obvious today but mystifying then: ominous relentless synthesizers, haunting tales of broken lives, distorted dark warnings in the catchy chorus, and the final bars collapsing into dissonant failure. 
+Steve Taylor was my introduction to censorship. A pioneer of Christian alternative rock, Taylor wrote many of my favorite songs when all I had was the radio, a fact I didn’t learn until many years later when I learned that bands didn’t always write their own material. Newsboys, an evangelical rock band that was very popular on local Christian radio, had an entire verse struck from a song on account of the phrase “shoveling elephant dung”, a line penned by Steve Taylor. Like a dutiful student of things I wasn’t supposed to learn, I quickly pulled back out Taylor albums from my father’s collection and looked for more. Turns out, Taylor was strictly censored in ye olden days for writing biting satire, culminating in a soft excommunication from Christian rock, hence explaining writing for another from the sidelines. I personally attuned to his song “Am I in Sync?”, for reasons obvious today but mystifying then: ominous relentless synthesizers, haunting tales of broken lives, distorted dark warnings in the catchy chorus, and the final bars collapsing into dissonant failure. 
 
 [Am I In Sync?](https://www.youtube.com/watch?v=Upv6qKGowhs)
 
@@ -25,7 +25,7 @@ Some time later, in the beginnings of my digital era, making playlists for mysel
 
 [Circle of Dust - Am I In Sync? - 1 - I Predict a Clone (1994)](https://www.youtube.com/watch?v=GP15qu-CjDQ)
 
-I followed the only lead I had. Circle of Dust, a one-man band of Klayton Scott’s, were a Christian industrial rock act, and up until this point the only Christian metal I knew of were Stryper, who, if you’re not familiar with, suck. This was a revelation, and I devoured Circle of Dust, Brainchild, Angeldust and Argyle Park, carefully avoiding the heretic secular music surrounding Scott on all sides. In my first ever discography run, I proceed forward through Scott’s music, barely understanding anything, until I hit the end:
+I followed the only lead I had. Circle of Dust, a one-man band of Klayton Scott’s, were a Christian industrial rock act, and up until this point the only Christian metal I knew of were Stryper, who, if you’re not familiar with, suck. This was a revelation, and I devoured Circle of Dust, Brainchild, Angeldust and Argyle Park, carefully avoiding the heretic secular music surrounding Scott on all sides. In my first ever discography run, I proceeded forward through Scott’s music, barely understanding anything, until I hit the end:
 
 ![Circle of Dust. A wave of Christian industrial music in… | by Jason  Morehead | Chrindie '95 | Medium](https://miro.medium.com/v2/resize:fit:700/1*MjDmo1hkxQy0UPsHYS4JHw.jpeg)
 
