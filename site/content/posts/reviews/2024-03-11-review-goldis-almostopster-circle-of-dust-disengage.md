@@ -6,8 +6,8 @@ categories: reviews
 tags:
   - almostopster
 description: "This week, it's a vortex heavyweight's turn to choose an album "
-image: img/posts/circle-of-dust-disengage-cover-art.webp
-rating: 9
+image: img/posts/almosttopster_goildi.webp
+rating: 8
 ---
 <!--StartFragment-->
 
