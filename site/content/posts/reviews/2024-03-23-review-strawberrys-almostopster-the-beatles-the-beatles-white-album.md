@@ -1,7 +1,7 @@
 ---
 title: "Strawberry's Almostopster: The Beatles - The Beatles (White Album)"
 date: 2024-03-23T23:31:03.423Z
-author: Strawberry
+author: StrawberryDeluxe
 categories: reviews
 tags:
   - almostopster
