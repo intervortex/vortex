@@ -6,7 +6,7 @@ categories: reviews
 tags:
   - almostopster
 description: "Insane rambling from the Albertan resident "
-image: img/posts/sorry.png
+image: img/posts/almosttopster_nerd.webp
 rating: 8
 ---
 *E﻿ditor's note : I think The Nerd is at war with himself, who knows really what's going on in his head, but this is what he had to say first (read this with the voice of Hank Hill from King of the Hill)*
@@ -44,5 +44,7 @@ Ultimately, I found myself outgrowing this album. While it served as my initial 
 *Editor's note: the nerd added at the end:*
 
 Also seeing a bunch of Euros and Aussies having to listen to a country album makes me smile. Enjoy Fuckers.
+
+![](img/posts/sorry.png)
 
 <!--EndFragment-->
