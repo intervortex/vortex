@@ -37,11 +37,11 @@ Tyler Childers' debut album, "Purgatory," remains his best work to this day. Wit
 
 <!--EndFragment-->
 
-Unfortunately, the bluegrass outlaw vibe that I enjoy a lot never seems to stick around long enough to make the album as cohesive as it should be, leaving the album somewhat disjointed. Some tracks also overstay their welcome as well, songs such as “Banded Clovis” and “Honky Tonk Flame” could be perfect gems but end up liggering for too long. It’s the same kind of disappointing feeling as thinking you are taking a perfect shit but still ending up wiping for 5 minutes after it.
+Unfortunately, the bluegrass outlaw vibe that I enjoy a lot never seems to stick around long enough to make the album as cohesive as it should be, leaving the album somewhat disjointed. Some tracks also overstay their welcome, songs such as “Banded Clovis” and “Honky Tonk Flame” could be perfect gems but end up liggering for too long. It’s the same kind of disappointing feeling as thinking you are taking a perfect shit but still ending up wiping for 5 minutes after it.
 
 Ultimately, I found myself outgrowing this album. While it served as my initial reintroduction to the genre, over time, as I discovered newer and better albums, its original freshness began to wane. As the years passed, the album's shortcomings became more apparent, overshadowing its initial allure. Verdict 8.5/10 
 
-*Editor's note: the nerd added at the end:*
+*Editor's note: the nerd added this at the end:*
 
 Also seeing a bunch of Euros and Aussies having to listen to a country album makes me smile. Enjoy Fuckers.
 
