@@ -1,5 +1,5 @@
 ---
-title: "meri's Almostopster: Swallow the Sun - Songs from the North"
+title: "meri's Almostopster: Swallow the Sun - Songs from the North I, II & III"
 date: 2024-04-14T18:55:02.805Z
 author: meri
 categories: reviews
