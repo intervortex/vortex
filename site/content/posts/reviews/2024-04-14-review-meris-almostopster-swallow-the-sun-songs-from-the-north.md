@@ -6,7 +6,7 @@ categories: reviews
 tags:
   - almostopster
 description: A tough one to swallow.
-image: https://i1.wp.com/www.antiheromagazine.com/wp-content/uploads/2015/12/Swallow-The-Sun-Songs-From-The-North-I-II-III-1.jpg
+image: img/posts/almosttopster_meri.webp
 rating: 8
 ---
 <!--StartFragment-->
