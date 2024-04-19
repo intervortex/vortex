@@ -15,127 +15,93 @@ I haven’t been back to this dumpster in a while. Gotta hose it out every now a
 
 
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1924789320/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://vortexectomy.bandcamp.com/album/the-last-cockbender-anime-is-literally-for-retards">The Last Cockbender: Anime is Literally For Retards de Vortexectomy</a></iframe>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=1924789320/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
+
+![](https://lh7-us.googleusercontent.com/VbvTFSsjH7VbyTRvcGaE9X1kP7gdnf3r3Hij1M3S7fIP4JEgLm0lh7cHlULBeIULKgXc9xc4IkJzPE6x7aMqzBjFiyBnbjaLEzTboniBXJpTDn_FjujbOjwbXYy3xrMfVtCWRaMD2ALyU_pIQsW8M8w)
 
 **Infectious Jelqing & Arseny - White Boy Thuggery**
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=691944179/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://infectiousjelqing.bandcamp.com/album/white-boy-thuggery">WHITE BOY THUGGERY de Infectious Jelqing &amp; Arseny</a></iframe>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=691944179/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 
 
-
-
-
+![](https://lh7-us.googleusercontent.com/_HT0t7ym_gJ3ZswZXfzXqIi1uOZpr5IaSNl0jVjst2VZzZAeb1MsyB7ux4GsZ2ziNSdzNKzJTeg8Wv_E5g4hWXh_VxpZj5qe28rw64b0jQTpS9JbDAT9mP7w9-9NrKY3_km2FT9dAtcCgeycCHkzFyo)
 
 This release is the whole reason I’m writing this article. Before you read any further in this article, go listen to Infectious Jelqing & Arseny’s 2023 release Slam Shawtys. Slam Shawtys should go in the wigger slam hall of fame. It’s one of the most retarded things I’ve ever heard. IJ&A are back only 5 months later for a quick two track split, and it’s more of the same: Brutal white boy trap breakdowns galore. Increasingly evidently, Arseny seems to hit right to the core of stupidity where Infectious Jelqing is only glancing nearby. The extended sub-bass drop wobble on Arseny’s track Nuclear Thuggery is yet again so retarded that I felt compelled to start writing.
-
-
 
 Retarded Snare Score: 7/10
 
 Score: 6/10 
 
-
-
 **Restrictor Plate - Slamtona 500**
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2634885043/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://restrictorplate.bandcamp.com/album/slamtona-500">SLAMTONA 500 de RESTRICTOR PLATE</a></iframe>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=2634885043/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
-
-
-
-
-
+![](https://lh7-us.googleusercontent.com/7K8m4S7cuuX-n7UcM-7J1nIixzRndt5VMmXWQ8UUx-LexAowdmNlq_kehsblyZ9KElSy1e5igb6-UzLTTXhWpndbjseKBi799S4pB2FWrkIgYOJKBxzn2ABk-CMibf2sOX24X9SuTa-E_p6QZKaoy8s)
 
 If you’re interested in dumpster slam at all, you shouldn’t need any persuasion to listen to Slamtona 500 after seeing the album art. Nascar slam in honor of #3 (pbuh). Musically, it’s less gimmicky than you might expect. Slamtona 500 skids off the line with what I assume is live commentary from a Nascar crash and is followed by a powerful START YOUR ENGIIIIINEEESSSS, but fills the rest of the EP with mostly straightforward slam. Slamtona 500 is well produced, heavy, has riffs, and an aesthetic that’s perfect slam clickbait.
-
-
 
 Retarded Snare Score: 6/10
 
 Score: 5/10
 
-
-
 **Duck Intestines - Autistic Girls Who Love Anime Are Hot**
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1523750962/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://duckintestines.bandcamp.com/album/autistic-girls-who-love-anime-are-hot">Autistic Girls Who Love Anime Are Hot de Duck Intestines</a></iframe>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=1523750962/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 You can always tell with a shitty slam band whether they came from grind or death metal. The grind guys always end up with faster tempos and flat irritating production. Autistic Girls Who Love Anime Are Hot has weak riffs and a lot of fart noises. I’ll give up a +1 for anime lust (standard scoring procedure in these articles) but there’s more fart noises than there are anime girl samples. You’re on thin ice Duck Intestines.
-
-
 
 Retarded Snare Score: 4/10
 
 Score: 3/10
 
-
-
 **Perveration - Putrefaction of Infinite Apogee**
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=370861883/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://comatosemusic.bandcamp.com/album/putrefaction-of-infinite-apogee">Putrefaction of Infinite Apogee de PERVERATION</a></iframe>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=370861883/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 
+
+![](https://lh7-us.googleusercontent.com/PhdAKMceblHOtR6vfazfLj5JyLMy-ziA8m0rHH2ZUOWdK0hY5kmDi_C5r7cs3SiIm8RfNrqyTxcmunkLJgY5BjBERQvw3i78Bl7yp6bHglWhdexRKDxZPveD4UcQsIUV53ZnewmkCjextm2ya5yQPlc)
 
 
 
 The slam out of Indonesia is on another level of heavy. I intend to make a mission trip to Jakarta where I’m told they keep a demon chained in an underground lair who channels the soul of pure brutality. Perveration play it technical, but there’s a bit of give to it. It has some looseness that makes it feel so much more real and impressive. There’s a goldilocks zone of precision that seems to matter so much more in the niche realm of technical slamming brutal death metal where if it’s too precise it feels plastic and fake and if it’s too loose you lose any sense of technicality and it sounds like a mess. This is perfectly in the zone. The drumming was particularly impressive, and I see the drummer has a demo coming out soon on New Standard Elite that I’ll be looking forward to.
 
-
-
 Retarded Snare Score: 7/10
 
 Score: 6/10
 
-
-
 **Blastomycosis - A Feast for the Tasteless**
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=717217779/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://blastomycosis.bandcamp.com/album/a-feast-for-the-tasteless">A Feast For The Tasteless de Blastomycosis</a></iframe>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=717217779/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
-
-
-
-
-
+![](https://lh7-us.googleusercontent.com/6UAaK7sqQc5g093ufepMmOSb9b6bLM-dimKw_LxxSmnVaDWHlrwhP23VEakHDq3o_NTmydEvebwfHzKIFKw_1AlFLT4FzNCUBh7R8hFeZF4Z0oGehma_L4U6KG9R9r4sDkKOeF8WH6XCFHVOd232EBM)
 
 This is so well-made that it probably doesn’t count as slam. There are slam riffs, but on feeling alone I would have to categorize this as slam-adjacent BDM. Some riffs involve so many unique pitches that I, for the first time in this article series, will invoke the word ‘melodic’, listen to the song Let’s Eat Us A Fetus to see what I mean. Enjoyable release for the hungry tasteless people who are reading.
-
-
 
 Retarded Snare Score: 4/10
 
 Score: 5/10
 
-
-
 **4 GAUGE ABORTION - A KICK IN THE NUTS**
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=513358492/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://4gaugeabortion.bandcamp.com/album/a-kick-in-the-nuts">A KICK IN THE NUTS de 4 GAUGE ABORTION</a></iframe>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=513358492/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
-
-
-
+![](https://lh7-us.googleusercontent.com/xg7vLd_ONcmuWE2BQe2WmEZrF95JjvlAcybZJkmMedeoMxg5XSwP9G7_dfzJ2AkAo0oDNTnix9EjNE7BfqfC0lm773OFtcNwJc-nTc-egKuysED6XSR1p5S0jx7yU_s7thXdfP3tJNQAi2m0rhMC7pg)
 
 
 
 Sub-bass drop, chug twice, pinch, chug thrice, pinch twice, sample. This sequence is really all you need. Queue up some 16th kicks in the drum programmer and gurgle over it and you’ve got some hot fresh slam to shit out onto bandcamp.com! 4 GAUGE ABORTION have a solid grasp on the basics, but none of it is well produced or interesting. A KICK IN THE NUTS is low effort and repetitive, and I would find it very difficult to tell any of the songs apart.
 
-
-
 Retarded Snare Score: 5/10
 
 Score: 2/10
 
-
-
 **Racism x Great Men - KINGS OF SLAM DEMO**
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3705392096/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://racism1.bandcamp.com/album/kings-of-slam-demo">KINGS OF SLAM DEMO de Racism x Great Men</a></iframe>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=513358492/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
-
-
-
+![](https://lh7-us.googleusercontent.com/36DVxYcPpSTleV8jNfWC3goXcPo-CgPvHZN_1oujfi4GdsDMoiedWACZ9nLsDrISkEcd4tK7dACx-J2CSmWyUoXPDQmGv59YzgHScqyb_S009vHsvl0hpyjH_cd1WwXOEjwzQL2M_2lQoDoVj3M_nL4)
 
 
 
@@ -145,21 +111,15 @@ Yes! Significantly!
 
 Racism is calling themselves crunkcore-revival now, and there is a lot of trap crunk rapping on this demo. There are two rappers credited. The autotune trap bars on Breelude are probably the stupidest thing of any release reviewed today. The most significant improvement since Racism: The TV Show back in 2021 is the production. The riffs have weight, the vocals are mixed to an appropriate level, and the drum machine sounds passable. Racism has not, and doesn’t intend to transcend the ‘edgy memelord slam’ label, but I’m so proud to see Racism grow up.
 
-
-
 Retarded Snare Score: 5/10
 
 Score: 5/10
 
-
-
 **RESPIRATORY SECRETION - POST NECROMANTIC SADOMASOCHISTIC SATISFACTION**
 
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=728466761/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
-
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=728466761/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://gutwormproductions.bandcamp.com/album/post-necromantic-sadomasochistic-satisfaction">POST NECROMANTIC SADOMASOCHISTIC SATISFACTION de RESPIRATORY SECRETION</a></iframe>
-
-
+![](https://lh7-us.googleusercontent.com/BXIeoltIw_DV9ttZneDJleKkA1r-uNqCHj4-NR5CeYR87IJ_b02ZfYUWAfjeL2y2HhDbR8ZnLtj_KZb_yr9eOiC6fkJcsda6o-o7DM_N52k1HYiM4aLprTVaKOFh22dstZes9iO3g-RwJZE698jLBbU)
 
 
 
@@ -175,11 +135,11 @@ Score: 4/10
 
 **Worm Alert - New Wave of Internet Slam Metal**
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4292881979/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://wormalert.bandcamp.com/album/new-wave-of-internet-slam-metal">New Wave of Internet Slam Metal de WORM ALERT</a></iframe>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=4292881979/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 
 
-
+![](https://lh7-us.googleusercontent.com/S9-YlR6vWVrECnLMjEb33ckByhHSjMIPv18EEawi0lmCAiHktv0T2jAfPrGPOnXH6313Nd_BqerkX_gz_1Do9n2AwVF1rvvJj7RL5mLHqen1wSTwBB9AUG9cAfK1nbdLPDkpfZ1riGnK5j6lSw02Mwo)
 
 
 
@@ -195,11 +155,9 @@ Score: 7/10
 
 **Hysterectomy - Just The Two Of Us**
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3553495216/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://hysterectomyslam.bandcamp.com/album/just-the-two-of-us-2">Just The Two Of Us de Hysterectomy</a></iframe>
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=3553495216/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
-
-
-
+![](https://lh7-us.googleusercontent.com/1SfaHvcXhYB9UjfYbY0qszuhJX-pExLrSDdu9-dkVYMMi8C4oaMDR0gHhKIxwXcVE4SethImb0R6G2yYmEuiS-EG_9UwxH1PJpuwEF8QFUbY2XNtGs6-pLZ6n0bYSlPb7GLCvKHfNonWR1mmiqoyFXY)
 
 
 
