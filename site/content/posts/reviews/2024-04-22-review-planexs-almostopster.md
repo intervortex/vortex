@@ -6,7 +6,7 @@ categories: reviews
 tags:
   - almostopster
   - planex
-description: Yes, Planex listens to more than slam
+description: Yes, Planex listens to more than just slam
 image: img/posts/diadem.jpg
 rating: 8
 ---
