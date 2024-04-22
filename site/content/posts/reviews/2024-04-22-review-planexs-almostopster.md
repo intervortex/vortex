@@ -6,7 +6,7 @@ categories: reviews
 tags:
   - almostopster
   - planex
-description: "Yes, Planex doesn't listen to just slam and vaporwave "
+description: Yes, Planex listens to more than slam
 image: img/posts/diadem.jpg
 rating: 8
 ---
