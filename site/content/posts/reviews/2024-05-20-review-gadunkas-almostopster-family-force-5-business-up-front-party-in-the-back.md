@@ -6,7 +6,7 @@ categories: reviews
 tags:
   - almostopster
 description: Andrew WK, christian edition.
-image: img/posts/family_force_5_-_business_up_front_party_in_the_back-scaled-1.jpg
+image: img/posts/almosttopster_dunka.png
 rating: 7
 ---
 <!--StartFragment-->
