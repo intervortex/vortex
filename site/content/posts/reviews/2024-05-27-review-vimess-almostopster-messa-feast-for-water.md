@@ -1,11 +1,11 @@
 ---
-title: "Vimes's Almostopster: Messa - Feast for Water"
+title: "Vimes's Almost (or future) topster: Messa - Feast for Water"
 date: 2024-05-27T13:31:37.658Z
 author: Vimes
 categories: reviews
 tags:
   - almostopster
-description: Vimes almost understand the assignment
+description: Vimes almost understood the assignment
 image: img/posts/almosttopster_cavimes.webp
 rating: 8
 ---
