@@ -5,7 +5,7 @@ author: Vimes
 categories: reviews
 tags:
   - almostopster
-description: A 2018 vortex favorite
+description: Vimes almost understand the assignment
 image: img/posts/almosttopster_cavimes.webp
 rating: 8
 ---
