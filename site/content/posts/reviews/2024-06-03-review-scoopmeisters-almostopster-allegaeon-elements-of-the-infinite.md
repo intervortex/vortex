@@ -33,4 +33,6 @@ Unfortunately, the songwriting on *Elements of the Infinite* sometimes leaves a 
 
 This problem is compounded by a familiar complaint: at 58 minutes, the album ends up being a pretty exhausting listen despite its strong finish, and I do think it could have benefitted from some trimming - an issue that has plagued this band throughout their career. Even so, none of this is a deal-breaker for me. Allegaeon put together one hell of a fun ride with this one, and it does stand out from the crowd despite some minor flaws. Maybe it will never find itself in my reliquary, but it keeps calling me back all the same.
 
+![](img/posts/allegaegone.jpg)
+
 <!--EndFragment-->
