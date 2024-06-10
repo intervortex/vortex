@@ -28,11 +28,7 @@ I have listened to a lot of minimalism over the last year and by association Ste
 
 Over the past five or so years, hip-hop has positioned itself at the fore of my mind. Re-explorations in the genre renewed my curiosity and reopened the verdant path of discovery and excitement. Fifteen years ago I had a similar spurt of interest, obsessed with the Rhymesayers label (Sage Francis, Atmosphere, and Eyedea and Abilities in particular), but that discovery was swiftly decapitated by the approaching horde of extreme metal. The hopping, skipping swag-attack of hip-hop has returned, pulling-up to the metal zombies and popping caps.
 
-
-
 The alchemy of beat-craft - dicing, splicing, slicing and refining - is stupefying in From Filthy Tongue of Gods and Griots. dalek’s beat-craft is transcendent. Oktopus, take a bow. I am lifted by my skinny wrists to the sky pantheon of swaggering hip-hop when this album plays. Though the vocal tone, cadence and word play of MC dalek isn’t top tier, it’s more than suited to the gorgeous production and epiphanic, judgment-day tone that stains the record. 
-
-
 
 The tracks are deep space entities: “Spiritual Healing,” a mesmeric battle-cry, a perfect introduction of clanging industrial noise and swagger; “Speak Volumes,” a gorgeous melange of industrial dreams, a shimmering, tricking alter-ego; “...From Mole Hills,” a trippy, trickling excess of scratching, uncomfortable turntablism; “Hold Tight,” an abstract, deep-space whirr that tickles and stings. It is an album that oscillates from delicate to direct and balances its tonal elements with satisfying ease. It’s a journey through dimensions and the sequencing and coupling of tracks, for the most part, works cleverly. “Voices of the Ether,” as an example, is a wonky, fever dream through unstable terrain whereas follow-up “Forever Close My Eyes” is a hip-hop lullaby that caresses and exposes; together, or in opposition, they’re uplifted.
 
@@ -44,10 +40,10 @@ The tracks are deep space entities: “Spiritual Healing,” a mesmeric battle-c
 
 All-but-one track on the album is superb, however. Its issue: “Black Smoke Rising,” a 12-minute monolith at the heart of the record that clogs its arteries. Placed at the end of the tracklist as a posthumous, abstract transition from the body into a bodiless space, it may have felt more approachable. Smack bang in the middle, it destroys what becomes a meditative, rich listening experience. It’s a brave positioning and one that I’ll maybe grow to appreciate. In my current stage of appreciation and exploration of this record, I’d much prefer it stationed at the end of the universe - a solitary, uncomfortable outpost and the final destination on a bodiless journey through hip-hop space. Or, exterminated from the tracklist completely, leaving a tight, muscular 44-minute record. Discard the two brief interludes (at 3 minutes together) and we’d have a 41-minute wonder. These are minor quibbles. “Black Smoke Rising” is an avant-garde trip that’s as enjoyably strange as it is uncomfortably positioned. 
 
-
-
 As a whole, the album is enjoyably strange: both forward and backwards looking. It sounds like 2002 but wouldn’t sound out of place, or retrograde, if released today. Most importantly, it’s an album that manages to send me places with ease: something I’ve much needed lately. 
 
 
+
+![](img/posts/8te2w7.gif)
 
 <!--EndFragment-->
