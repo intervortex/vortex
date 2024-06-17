@@ -6,7 +6,7 @@ categories: reviews
 tags:
   - almostopster
 description: "Of course it has to be an Aussie band "
-image: img/posts/almosttopster_carlos.webp
+image: img/posts/aaalmosttopster_carlos.webp
 rating: 8
 ---
 **Cold Chisel - East**
