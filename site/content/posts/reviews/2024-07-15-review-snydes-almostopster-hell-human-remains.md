@@ -11,13 +11,29 @@ rating: 9
 ---
 This won't be an off-kilter, deep cut, adolescent fling kind of almostopster. I have mentioned, praised and deconstructed this record a bevy of times, so while some may find it to be thoroughly predictable, I could think of no pick more fitting than this fascinating piece of metal history. Thus, I'd be so very pleased if you'd allow me to be the Dante to your Virgil, as I take you on a winding tour through the twisted trails and tortuous tales of Hell.
 
+<!--StartFragment-->
+
+![](https://i0.wp.com/yourlastrites.com/wp-content/uploads/2017/06/Hell-Human-Remains.jpg?fit=700%2C700&ssl=1)
+
+<!--EndFragment-->
+
 The album opens with an orchestral arrangement of motifs from a mysterious "Deathsquad". The suitably grandiose, yet ominous amouse-bouche soon gives way to a song that perfectly characterizes the experience to follow. On Earth as It Is in Hell is a blistering, flamboyant welcome to this album's main strengths: high energy riffs, powerful grooves and theatrical exhortations to the great infernal majesty.
 
 First things first, Dave Bower's vocal performance is simply incredible. Nothing short of a man possessed, he rips across the mix to grab you by the collars and shriek his unholy gospel directly into your ears. It is hard to put into words how tremendous this performance is, but this theatricality has not been short on criticism as well, as all things that are this overwhelming tend to be.
 
+<!--StartFragment-->
+
+![Interview With David Bower, HELL: “We have a lot of material in the  pipeline” | Metal Shock Finland (World Assault )](https://metalshockfinland.com/wp-content/uploads/2014/04/hell1.jpg?w=640)
+
+<!--EndFragment-->
+
 This not-quite-over-the-top-but-standing-perilously-close-to-it performance is our first clue as to the true nature of this record: it is ostensibly a compilation of  tracks from the scattered demos of the original incarnation of Hell, written all the way back in the early 80s and rerecorded and released in 2011.
 
 Not too long ago, after many many years of enjoying Human Remains on its own merits, I took the time to listen to the original recordings, from 1982 to 1986 and I was taken aback by how similar David Bower (performing on this album) was to Dave Halliday (Hell's original vocalist) in terms of performance. It all clicked together when I found out that Bower is a professional actor, and thus, perfectly equipped to imitate Halliday's over-the-top delivery. If anything, he slightly tones down Halliday's more manic and inconsistent performance into a perfectly calibrated vocal assault.
+
+<!--StartFragment-->
+
+![Image](https://media.discordapp.net/attachments/514910842832027671/1260988395333746719/R.jpg?ex=66969875&is=669546f5&hm=167e48fdcd9e4ee1735502af61322c672fe4964fe50701b9f020e08799bdac61&=&format=webp&width=336&height=600)
 
 The groovefest known as Plague and Fyre and the eerie The Oppressors (a cover of Halliday's pre-Hell band Race Against Time), do a great job showcasing the unbridled energy of Andy Sneap's guitar playing. Sneap was taught how to play the guitar by Halliday in the early 80s and was the main driving force behind Hell's resurrection. He also levied the production of this record. Complaints can be leveed at his heavy hand when it comes to the modern and crushed sound of this record, but these niggles have never affected my appreciation of the music.
 
@@ -32,3 +48,5 @@ Luckily, The Quest's driving rhythms do not let us rest for long, even if lyrica
 By the time No Martyr's Cage (a 9 minute monster detailing the slow degradation of an entrapped man's psyche) hits, the album as a coherent experience has desperately gone off the rails. So it is that my main issues with this album arise from its very nature: poor sequencing and inclusions in line with what is expected from a compilation. These sadly rob this album of a permanent and inalienable spot on my top 25.
 
 The unforeseen success of Human Remains led to a follow-up full-length, Curse and Chapter, covering yet more ground from the band's original material (including the entirety of the aforementioned "Deathsquad"), as well as a number of impressively theatrical live shows. Dave Halliday himself was a trailblazer, one of the first to perform with corpsepaint at live shows, and was burning Bibles a decade before stave churches were a twinkle in Varg's eye. His legacy is undeniable and Hell's revival was the perfect vehicle through which to spread his story to the unaware.
+
+![](img/posts/vortexinferno.png)
