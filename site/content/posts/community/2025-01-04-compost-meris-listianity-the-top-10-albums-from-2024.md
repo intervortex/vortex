@@ -6,6 +6,7 @@ categories: community
 tags:
   - listianity
 description: meri says ''less quantity, more quality'', I will let you be the judge
+image: img/posts/capture.pngmeri.png
 ---
 As it is now time to officially begin on 2025, it seems a perfect time to close out the books on 2024 and reflect on the year that was. I took a different approach this year, which was to focus more on quality than quantity. To achieve this, I primarily explored music in the top of the sheet and prioritised relistens more than ever before. The result:
 
