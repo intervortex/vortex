@@ -7,7 +7,7 @@ tags:
   - weekly
 description: "Goldicot listen to a 100 albums a week and decide for you which
   ones are the best... perhaps. "
-image: img/posts/goldi1.png
+image: img/posts/goldicull.png
 ---
 <!--StartFragment-->
 
