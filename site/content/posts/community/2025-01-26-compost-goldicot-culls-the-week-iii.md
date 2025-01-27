@@ -7,6 +7,7 @@ tags:
   - weekly
 description: |
   Triplet feel
+image: img/posts/culls_the_week_03.webp
 ---
 <!--StartFragment-->
 
