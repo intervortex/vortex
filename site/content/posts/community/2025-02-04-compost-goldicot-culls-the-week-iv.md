@@ -12,8 +12,6 @@ If I had time to listen to it all, I would. I don’t. This week, my defeat, alr
 
 ![](img/posts/culls_the_week_04.webp)
 
-
-
 - - -
 
 **GOLDICOT RECALLS THE WEEK**
@@ -34,11 +32,9 @@ If you design something to be tourist-proof, the universe will design a better t
 
 {{< embed "https://bandcamp.com/EmbeddedPlayer/album=2580573019/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
-
-
 * ### 3
 * Fleshbore
-* Painted Paradise
+* *Painted Paradise*
 * Transcending Obscurity
 * January 16
 
@@ -48,7 +44,7 @@ Pastel tech death has to be some of the most fun you can have on a consistent ba
 
 * ### 2
 * Discordant Meditation
-* Tragic Creature
+* *Tragic Creature*
 * Independent
 * January 24
 
@@ -58,7 +54,7 @@ Metal Archives calls Discordant Meditation “experimental death metal.” The e
 
 * ### 1
 * Exterior Palnet
-* Haragma II
+* *Haragma II*
 * Independent
 * January 24
 
