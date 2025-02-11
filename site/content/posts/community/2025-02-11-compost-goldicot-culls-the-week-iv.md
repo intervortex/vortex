@@ -21,8 +21,6 @@ Aside from the memetic pain olympics, January was a competent month, with a siza
 
 {{< embed "https://bandcamp.com/EmbeddedPlayer/album=3348689646/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
-
-
 * ### 3﻿
 * Sacred Noose
 * *Vanishing Spires*
@@ -31,11 +29,7 @@ Aside from the memetic pain olympics, January was a competent month, with a siza
 
 One of the few good recent innovations of genre nomenclature is “cavernous”, striking a balance between huge, vast sounds and a monolithic heaviness, distinct from sludge, death-doom and post-metal in its total oppressive darkness, containing naught but hollow reverberation and sheer emptiness. It’s rare to find an evocation so specific to a sound that isn’t defined by infinitely regressive nuance, which is good because Sacred Noose has no nuance. Nothing but pitch black caves and howling echoes, cudgel bludgeons bouncing and impacting wall-to-wall, the listener dashed against monolithic and unmoving sonic stone. A cave-system itself isn’t new territory, but there are few attempts as comprehensively pitiless as Vanishing Spires, an album for the pit. 
 
-
-
 {{< embed "https://bandcamp.com/EmbeddedPlayer/album=452000184/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
-
-
 
 * ### 2﻿
 * W﻿orm Alert
@@ -45,12 +39,10 @@ One of the few good recent innovations of genre nomenclature is “cavernous”,
 
 This is everything wrong with slam. This is an itemization of crimes against music in the wider brutal death metal community, from the frequent widespread rampant abuse of sampled “memes” and pugilistic displays of deliberate self-retardation; to the new era offenses of the modern youth degenerate, production of music concocted of multiple drug-ridden genres, most commonly slam, laced with hip hop beats and gangsta rap, and in some cases going so far as to use country music – these damning accusations represent many of the most common offenses against decency and originality in the scene today. And somehow despite its conviction as the bottom-barrel scrapings of puerile nonsense dumpster-divers, it’s… actually good. Worm Alert is a middle finger pointing in every direction at once, defying every expectation and landing tricks that have never been succeeded before, while just as boorish and moronic as all the attempts before were – only difference is when Worm Alert does it, it whips ass. It cannot be expressed how far from good all of these ideas are, and yet, they work – the turd has been polished, the pig has flown, Call of Duty meme hillbilly slamhop has been achieved, and it is good.
 
-
-
 {{< embed "https://bandcamp.com/EmbeddedPlayer/album=2534968533/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 * ### 1
-* W﻿orm Alert
+* R﻿evenge
 * *Violation.Strife.Abominate*
 * Season of Mist Underground Activists
 * January 31
