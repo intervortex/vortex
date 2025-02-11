@@ -1,5 +1,5 @@
 ---
-title: Goldicot Culls The Week - IV
+title: Goldicot Culls The Week - V
 date: 2025-02-11T21:45:20.239Z
 author: Goldicot
 categories: community
