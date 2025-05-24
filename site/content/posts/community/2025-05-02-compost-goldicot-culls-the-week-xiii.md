@@ -14,8 +14,6 @@ Here is where I would pen my thoughts on Deafheaven, if I had any. Sometimes I s
 
 ![](img/posts/culls_the_week_13.webp)
 
-
-
 - - -
 
 {{< embed "https://bandcamp.com/EmbeddedPlayer/album=3006391795/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
