@@ -1,5 +1,5 @@
 ---
-title: "Dulce Pontes - Canção do Mar "
+title: Dulce Pontes - Lágrimas
 date: 2025-05-26T14:46:54.380Z
 author: Snyde
 categories: reviews
