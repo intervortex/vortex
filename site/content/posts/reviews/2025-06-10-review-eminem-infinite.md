@@ -12,11 +12,11 @@ rating: 4
 ---
 1996 was the first year worth living, existing before was simply a waiting room. Coming to be later was missing the golden moment, the culmination of centuries needed to create the combination of atoms required to come up with something special and someone that could change the world. Sadly, my mother gave into the bottle while gestating and I came out instead of a world changer, cheers!
 
-For my album I thought about many options, I thought it was a great chance to discover something new for myself that was worthwhile. So, the album was going to be **Killing Joke’s Democracy**, but it turns out that album is hard to get through once, let alone various times to get an idea of the intention.
+For my album I thought about many options, I thought it was a great chance to discover something new for myself that was worthwhile. So, the album was going to be **Killing Joke’s** *Democracy*, but it turns out that album is hard to get through once, let alone various times to get an idea of the intention.
 
 ![](img/posts/artworks-000140784180-tht4xm-t500x500.jpg)
 
-So, I came back to what really represents 1996 for me and the album that I connected with most from the year. Eminem’s Infinite is the chosen project.
+So, I came back to what really represents 1996 for me and the album that I connected with most from the year. **Eminem’s** *Infinite* is the chosen project.
 
 A very obvious artist but an album that many people have probably never listened to outside of the terrible remaster of the title track. Actually, if you’ve only listened to the new version of Infinite you’re in for more of a treat. The original has one of the grooviest bass beats in the background that I’ve heard. 
 
