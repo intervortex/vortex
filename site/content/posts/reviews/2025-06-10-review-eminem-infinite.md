@@ -8,7 +8,7 @@ tags:
 description: Is the mostly forgotten debut album by one of the future’s biggest
   rappers interesting ?
 image: img/posts/artworks-000140784180-tht4xm-t500x500.jpg
-rating: 4
+rating: 7
 ---
 1996 was the first year worth living, existing before was simply a waiting room. Coming to be later was missing the golden moment, the culmination of centuries needed to create the combination of atoms required to come up with something special and someone that could change the world. Sadly, my mother gave into the bottle while gestating and I came out instead of a world changer, cheers!
 
