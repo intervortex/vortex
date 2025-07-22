@@ -13,11 +13,7 @@ What was supposed to be a weekly column of timely reports on current events has 
 
 ![](img/posts/culls_the_week_15.webp)
 
-
-
 - - -
-
-
 
 {{< embed "https://bandcamp.com/EmbeddedPlayer/album=1497929483/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
@@ -40,6 +36,8 @@ https://youtu.be/BsKwwgfWX3Q?si=v-E0K4NuXc-P6o9k
 * April 11
 
 Cliches to run in fear from include describing music as cinematic or visual, and in doing so devaluing the sound itself as merely a vessel for a different sense to project upon. And yet, true music renders entire worlds whole within the mind, architectures and histories familiar and alien at once appear, as if you have entered into them, and not them into you. Aspiral contains multitudes with ease, rousing fictional realms through anthem, penning epic saga through verse, and you yourself are the destined adventurer through chorus and song. Epica’s fluidity between symphonic score of unreal vista and catchy fist-pumping rock ballad is remarkable, striking an impossibly deft tone of delightful exuberance and propulsive determination. Now to drop the artifice and admit: I didn’t know symphonic metal could be this good and I will absolutely be listening to more and earlier Epica in the future. Perhaps the highest value-return an album can give you is a whole discography in exchange.
+
+{{< embed "https://bandcamp.com/EmbeddedPlayer/album=2888072767/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" >}}
 
 ### 1﻿
 
