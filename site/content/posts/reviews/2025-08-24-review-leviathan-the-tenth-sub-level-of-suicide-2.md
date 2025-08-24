@@ -6,7 +6,7 @@ categories: reviews
 tags:
   - birthstopster
 description: The Gen Z really has it rough
-image: img/posts/1-bodysync.jpg
+image: img/posts/leviathan-the-tenth-sub-level-of-suicide-cover-art.webp
 rating: 9
 ---
 a
