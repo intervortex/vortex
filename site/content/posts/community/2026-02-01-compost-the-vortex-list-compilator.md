@@ -570,6 +570,8 @@ Let’s go to the crypt-ypt, let’s go get away. The vibes on this new Lychgate
 
 ## **Goldi’s list**
 
+![](img/posts/chart-10-.png)
+
 My list is now complete. Thank you all for a great year at the Vortex. This can often be a frustrating place, but I know of no other community dedicated to music for musics sake, with genuine appreciation and interest in learning more. It's been a pleasure listening with all of you, and I look forward to continuing that in the wide world of 2026.
 
 Now, we don't do singles here, but I do have a Song of the Year, that was to my chagrin, released as a single. The only reason I heard it was because a coworker played it in an attempt to play something I hadn't heard before. And, because it was a single, I hadn't, even though I am well familiar with the band. That song is "8.6 Blackout" by Disembodied Tyrant. This track is a crazy high watermark in the deathcore genre, and has one of the best breakdowns I've ever heard it in (and I like my crazy fucking breakdowns.) I encourage you to click play on this bad boy as you begin the lengthy task of scrolling through my inane ramblings and wild-eyed crazy talk. 
