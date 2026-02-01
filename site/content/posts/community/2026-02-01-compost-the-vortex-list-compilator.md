@@ -564,4 +564,154 @@ While not reaching the emotional heights of Ordinary Corrupt Human Love, Deafhea
 
 Let’s go to the crypt-ypt, let’s go get away. The vibes on this new Lychgate are immaculate; they make me want to revamp my cave as a gothic vault. The arrangements and interplay between the organ and the guitars are very subtle and shine throughout an album that reveals new layers of creativity in its composition with every replay. Lychgate strikes the perfect balance between accessibility and complexity, helped by some massive riffs that take center stage in certain songs like Terror Silence. The obvious standout is Hive of Parasites, sure, but I won’t lie: Lychgate playing a thrash riff makes me happy, which explains my song of choice. Tight transitions and good pacing make for an album that’s easy to relisten to and a pleasure to dive into. In the short time it’s been out, I’ve already spun it four times, and it’s very hard to fault. They released something special that I think will be more widely recognized as time passes. Favorite track: Terror Silence
 
+
+
+- - -
+
+## **Goldi’s list**
+
+My list is now complete. Thank you all for a great year at the Vortex. This can often be a frustrating place, but I know of no other community dedicated to music for musics sake, with genuine appreciation and interest in learning more. It's been a pleasure listening with all of you, and I look forward to continuing that in the wide world of 2026.
+
+Now, we don't do singles here, but I do have a Song of the Year, that was to my chagrin, released as a single. The only reason I heard it was because a coworker played it in an attempt to play something I hadn't heard before. And, because it was a single, I hadn't, even though I am well familiar with the band. That song is "8.6 Blackout" by Disembodied Tyrant. This track is a crazy high watermark in the deathcore genre, and has one of the best breakdowns I've ever heard it in (and I like my crazy fucking breakdowns.) I encourage you to click play on this bad boy as you begin the lengthy task of scrolling through my inane ramblings and wild-eyed crazy talk. 
+
+<!--StartFragment-->
+
+[https://www.youtube.com/watch?v=sXFBFGFmMoQ](https://www.youtube.com/watch?v=sXFBFGFmMoQ "https\://www.youtube.com/watch?v=sXFBFGFmMoQ")
+
 <!--EndFragment-->
+
+**(20) Abu Lahab - In the Cisterns of Kajamānu**
+
+Music of no reference point. Nothing else this year gave me such a feeling of discovering something completely unknown to me, of arriving in a new world of zero familiarity, where everything I saw seemed packed with dense histories I knew nothing about. That is the feeling I crave the most. Abu Lahab is not noise in the traditional, spectral density sense, but in the cacophonous sense, of many strange and alien sounds happening at once, evoking something genuinely disturbing with long-lasting discomfiture. If anyone has recommendations for more of this, please let me know – I would like to indulge this sickness.
+
+**(19) Uranium - Corrosion of Existence**
+
+The heaviest album of the year. Uranium is as heavy as Elephant’s Foot, a fused mass of black industrial, death-doom, and goregrind. It’s the total inverting of ambient music, instead of listening closely for nuance in the stillness, you are desperately trying to find meaning in the bludgeoning. Nothing else to say. Get wrecked.
+
+**(18) 夢遊病者 - РЛБ30011922**
+
+A biography in one part, РЛБ30011922 is an epistolary album, containing the wordless letters and memoirs of a lost soul, and like a life lived, it is long, complicated, and varied, and it is forgotten as it happens. Sleepwalker’s dreamlike music is like no other, and like a dream, contains flashes of everything, but in the end, was nothing but a wakeless hallucination, and yet forever haunting. Some of the best work this decade has been done by Sleepwalker and this is no exception.
+
+**(17) Kara-Lis Coverdale - From Where You Came**
+
+The most recent Animal Crossing game had a different piece of music for each hour of the day, attuned to the mood and feel of that hour. The best one was 5:00am, a work of piano ambient that has become near and dear to me. Coverdale’s album is better at most hours than that soundtrack was. Progressive electronic miniatures, initially human, turn increasingly synthetic until no organic element remains by the end of the album, and all the while, sublimely gorgeous and introspective. One of the best nocturnal soundtracks I’ve encountered. Not quite better than the 5:00am music, however.
+
+**(16) Sanguisugabogg - Hideous Aftermath**
+
+Music is my animator, and nothing marionettes my decrepit form like Sanguisugabogg, yanking sinew along to jagged rhythms, snapping bones into place again and again. Hideous Aftermath is an album for the musculature, pumping adrenal brutality out to the extremities. Of special note: Cody Davidson’s drumwork, wringing detailed and intricate groove out of the pounding. This was my gym music of 2025, and consider it my top deathcore album this year, even though it’s not.
+
+**(15) Grenadier - Wolves of the Trench**
+
+Turns out all you have to do to make good melodic death metal is be racist. Wait, that’s the other band. Or is it? Grenadier beats an unceasing march of triumphant violence and conquest, scored to constant harmonious melodies, and historical document narration with brilliant animalistic inflection. The music owes no little debt to Bolt Thrower – not as insightful, but just as fun.
+
+**(14) Gwenifer Raymond - Last Night I Heard the Dog Star Bark**
+
+The first musical language I learned to speak was the guitar’s. So it speaks in richer tongues, deeper evocations, and lovelier prose than any other to me. Raymond is one of the best writers in that language today, and like the other masters, balks the name of the discipline to create works of technicality and expression of wide expanse and revelation, all purely on the primitive guitar. This was the best work of my treasured genre this year among several quality entries.
+
+**(13) Weeping Sores - The Convalescence Agonies**
+
+I dug more death-doom than ever this year, and Doug Moore death-doom was the best. As a true artist he’s poured more blood and sweat than anyone into some of the genre’s best works of all-time, at the forefront of the frontier of experimentation and development in an exhausted scene. Convalescence is a deeply personal work, of defeat, anger, regret, and grief, one that only doom metal could depict. The last decade or so will be remembered as a high watermark of funeral and death-doom, and they are honored to have Moore among their ranks.
+
+**(12) Ethel Cain - Perverts**
+
+Prayer is many different things. The materialists call it meditation, the secularists, contemplation, mystics say it is communication, and believers know the truth: it is silence. Sometimes, the silencing is of yourself, and what remains is all the greater, and sometimes the silencing is of everything else, and you are all you that’s left. Perverts is an album of prayer, and an album of many different silences. At its most literal, Ethel Cain serves as a guide to quiet seclusion and its introspection, forcing self-reflection by the absence of distraction, where you, the listener, haunt yourself. 
+
+At its most literary, Perverts is a verb in the Dantean sense, where all vice is inverted virtue, corrupted by sin into perversions of the good and the graceful. Here those virtues, of love and closeness, are mirrored in musical counterpart, beautiful tones stretched into agonizing distances, quiet dark romance into regretful dirge, love into pleasure and pleasure into masturbation. Some of the songs are hymns, both antiquated and modern, profound in their uncomfortable earnestness, and some are worshipful, yet it is unclear if that worship is in hope or in despair. This is an album to spend time alone with.
+
+**(11) Agriculture - The Spiritual Sound**
+
+Holy shit, what an opener. Agriculture scratched itches I didn’t know I had with a berserker mathcore assault first punch, and never stops surprising from beginning to end. I will never get tired of the blastbeats over bubblegum pop punk, or sunbleached skronky post-rock, or finding a beautiful folk memory hidden away inside the raging maelstrom. The old, wise saying had it right: “I love the spiritual sound of ecstatic black metal band Agriculture.”
+
+**(10) Ghost - Skeletá**
+
+Ghost’s worst album still kicks ass. Allow me to explain. Skeletá picks up where Impera and the late entry to Seven Inches of Satanic Panic, “The Future Is a Foreign Land”, left off, in the post-apocalypse after man has destroyed the world. The tracks here explore finding meaning in Satan in a fallen world, the love and unity that will raise up the Antichrist. And so they enter their poppiest and blasphemous sound yet, a fusion of AOR love ballads and hair metal, for their widest audience yet (me). Ghost has been steadily improving on writing albums that tell stories across each song, and the expansion of their grand narrative and lore on this one is fascinating. I hope you saved your groan during that passage for this: we’re going track by track, motherfucker.
+
+“Peacefield” 
+
+This is the best song on this album, introducing the conceit: despite the destruction of civilization at the hands of godly men, there is a calling back, a light in the darkness to return to. The chorus here is among their most compelling, and declares this will not be a heavy album, but an album of love stories, across the scattered remains of the earth, the children are coming back. 
+
+“Lachryma” 
+
+The first of the love stories, “Lachryma” is about the acceptance, and thereby negation, of guilt, turning away from former devotions and back to the light. This has a particularly good instance of my favorite lyrical technique, long phrases where the final words change the meaning, done here in two different ways with “I’m done crying”. Now, I admit here that the guitar tone is indeed bad. Oh well. 
+
+“Satanized” 
+
+This one is pretty obvious. It’s still a great song, a successor of sorts to “Spillways”, which is also one of their best. I initially thought this was a cliched idea for Ghost to return to, but in the context of the album it takes on new life as a love story from within the church institution, a tale of the struggles of homosexuality, and plus they actually haven’t ever done this angle before. It just seems like they would’ve already. 
+
+“Guiding Lights” 
+
+I will unashamedly defend the first three tracks as excellent entries in Ghost’s incredibly strong discography. Now we begin some more impassioned defenses that will test my abilities a bit more. In earnest: a believer on deathbed is too far gone to tell his loved ones he sees nothing at the end of his belief. This is a great, regretful ballad of yearning, and it’s biggest problem is that it ends too soon – it really feels like this one is missing a verse or two, the production burying what should be an angelic choir into a confused mush. It was great while it lasted. 
+
+“De Profundis Borealis” 
+
+Progressive rock! In a callback to “Lachryma”, DPB paints a world frozen in tears of guilt and regret, and promises there is still a way out. Where the choir failed on “Guiding Lights”, here it succeeds, the whole song functioning as a slow, marching call to arms, and this song achieves a really uncanny emotion between hope and militance. 
+
+“Cenotaph” 
+
+Welcome to side 2. “Cenotaph” opens with the dawn promised in DPB, and finally re-enters the traditional Ghost concept. The light that we’ve been returning back to is fire, the relief from tragic guilty life promised is hell, and we will love our own burning. The riding motif, from a galloping stride to a lyrical refrain, is reminiscent of the love ballad to a well-known vice to marijuana in “Mary on a Cross”. Notice how prominently the keyboard is featured here – it will be important as the fire grows. 
+
+“Missilla Amori” 
+
+Okay, so Ghost has a stinker on most albums. This one is Skeleta’s; standing with its bummer brothers “Mummy Dust” and “Twenties”. Conceptually, this one rocks, as the facade fully drops to reveal the evil in the ruler of hell, and so the love and the popularity is now turned to hate. Papa cums on your face, which fucking kills you. It’s a sticky landing, but it doesn’t stick the landing. Still, the first verse is really good.
+
+“Marks of the Evil One” 
+
+So, now we know the light we returned to is evil. Now our death is revealed. The four horsemen of the apocalypse, which we thought we were leaving, are here to reap the souls – oh, and the third rider looks cool. The survivors of the apocalypse, now abandoning their faiths and lives, are harvested by the riders of that very apocalypse. This song is pretty great already, but what kicks it up another notch – the Ghoulette harmonies on “serpent’s layair”. 
+
+“Umbra” 
+
+Now is the moment of your death. It’s been a good run, watching the lives of others be given over to the deceiver, and then lost eternally. Your turn. This is an exemplary demonstration of Ghost’s true theologies behind all the illustrations and dramatics: at the end of faith there is nothing but death. This is another progressive rock song, here the concept succeeds “Guiding Lights” in the deathbed rejection of one faith for nothing, and as the song rises to meet its concept, the whole thing culminates in a wild dueling guitar and keyboard solo depicting death. It’s a triumph, is it not? The End. 
+
+“Excelsis” 
+
+The third and final Ghost classic, that of sympathy for the devil. This is one of their best works of Luciferian perspective, warring the war against all himself to understand the fallen angel, and the pursuit of surpassing creation itself. Here, Lucifer admits defeat, not above his own deception after all, still pulling whatever he can down with him. There are few last album lines better than the devil himself muttering “I am afraid of eternity too.” There you have it. Those who know me know I am easily baited by others disliking what I hold in high esteem, and it is hard for me to acknowledge there is legitimacy to their views. So I wanted to write at-length about what may be my most controversial pick this year, as an album I think is genuinely quite good, and worth considered analysis and discussion, rather than crash out and call you all dumb motherfuckers. This is your last warning; I will be crashing out in the replies to this.
+
+**(9) Spine - Tetrapytch**
+
+A resplendent year for funeral doom, and it was very painful deciding which ones to include here in my favorites. In the end, this was the most intense experience, a harrowing dismal journey with some terrifying moments. In a year with many strong theological albums, Spiine issued the most interesting, complex work of grief and faith, with soul-rending music to match. These kinds of genius works are simply not happening outside of funeral doom.
+
+**(8) Skare - I tåkeheimens djup**
+
+I’ve been listening to tons of underground black metal over the last three years. Much of it is very interesting in a way that’s hard to explicate, and thus never gets the attention it deserves from me, much less anyone else. Skare does not have that problem. This stuff is instantly arresting and interesting, featuring insidious creeping dissonance inside initially conventional patterns, strange folksy baroque basslines from below, sardonic chanting cleans from above, neofolk hymns from within, progressive black metal convolutions, all in track 1. This ranks so highly in part because I cannot believe how hard it was slept on.
+
+**(7) Maddie Ashman - Otherworld**
+
+I asked Aker to co-write a Maddie Ashman blurb for me for the Cull the Week that never was, and ended the series. Here, reproduced in full, saved from the graveyard of my abandoned projects, is Aker’s wonderful writeup for Maddie Ashman, of which I wholeheartedly agree with.
+
+“Ashman's phrasing, rephrasing, and fairy-like deconstruction of acoustic guitar and vocals in the 13-minutes of Otherworld is like rediscovering and relearning a once lost language. It helps, too, that Otherworld is upheld by a lyrical narrative linked to memory, language acquisition, and myth-making. Trying to capture this in writing comes across all lofty and pretentious, but as a sound, Ashman delivers her shapeshifting language with a real, delicate beauty. 
+
+Dear reader, beware, the next paragraph is one of the most pompous pieces I've put to paper. Otherworld, at first glance, evokes the flutter and unpredictability of outsider folk: naïve, childlike in its exploration of sound. This would be a misreading. Her compositions are not the product of accident or whimsy, but of control, precision, and much fine-tuned care. In fact, it feels wrong to call this outsider music at all (mainly because no one, except me, has called this outsider music.) To continue the pretension, and likely insult Ashman's social and mental intelligence, this is savant-folk: eccentric and exploratory but executed with clarity and command. 
+
+“Dark”, for instance, begins as an awkward, amorphous blob, then unspools into sinewy threads before reassembling into something structured and recognisable. What first appears as simplicity reveals itself as a complex interplay of guitar and voice, stitched together with surgical precision. I knew Otherworld was good when I unfairly mocked Ashman during "Blossom." Using my school-level knowledge of Welsh, I thought that Ashman was butchering pronunciation of Welsh words. Hah, this microtonal conjurer is actually a court jester! Look at her. She's a fraud. 
+
+However, I underestimated Ashman: the song was about language discovery, assimilation, re-creation, and learning, and Ashman was purposely mispronouncing. Just like the guitar lines, her vocals and lyrics were capturing the process in a tender, alluring way and she was mocking me for not paying enough attention. I'm quite happy to wax pretentiously lyrical over this dainty needle stumbled across in an abusive Bandcamp haystack. Otherworld’s greatest strength is in Ashman's voice. Beyond all the theory and technicality and conceptual fluff, Ashman's control and phrasing is otherworldly. The lightness of her voice manages to nestle itself amongst the complexity of the nest below expertly. Otherworld is short but rich, not a second wasted.” by Aker 
+
+**(6) Witherer - Shadow Without a Horizon**
+
+You knew the funeral dissoshit would be here. This thing is the most innovative thing in the genre all year, a shambling and disintegrating mass of slow decay and collapse. You could think of this as a particularly haunting cavernous death metal album, or an unprecedentedly doomed black metal album, and it stands right there with (forgive me some namedrops) Abyssal, Thantifaxath, and Ruins of Beverast – all quoted in the blurb itself, and the winners of my annual “Most Accurate Namedrops Award”, because I completely fucking agree.
+
+**(5) Doseone & Steel Tipped Dove - All Portrait, No Chorus**
+
+My most played album of the year. I could not stop listening to three things. First, Steel Tipped Dove’s beats are top notch, inventive, and compelling all on their own. Second, Doseone’s bars and technicality is entrancing, just trying to keep your head up above the syllables is frantic enough, much less the allusions, wordplay, and intents. And most of all, third: what a wonderful voice this man has. He sounds like four different people at least, each with different mannerisms, affectations, and styles, all of them sick as fuck, and the best one, affectionately refferred to as the “juggalo voice”, makes melodies out of throat strain and voice cracks as if the album was recorded inside the esophagus. I listened to “No Cops”, “Ta Da”, and perhaps my song of the year “Dial Up” dozens if not a hundred times this year.
+
+**(4) Yowie - Taking Umbrage**
+
+Yowie is a perfect storm of some of my dearest music loves. They are: clear and articulate precise attack (this one many of us can relate to), then contrasted and juxtaposed against one another in increasingly complex ways (this one a good few of us relate to), and then played with technical aplomb and arrogant flagrancy (anyone still with me?) and topped off with absurd hyperdensity of minimal repetition and nearly nonsensical non sequitur structures (He is alone. Even the wind is gone.) This is not quite the achievement that Synchromysticism was, and it’s still one of the best albums of the year.
+
+**(3) Mossback - Black Canyon City**
+
+It’s trap. It’s grunge. It’s outlaw country. It’s stoner rock. It’s southern hip hop. It’s sludge metal. It’s avant-garde rock. Whatever it is, it’s unparalleled in brilliance in genre fusion, because Mossback is harmonious, all these elements work together in ways free of distraction, allowing excellent compositions and beautiful songs to shine through, each one from another world. Look, this one is almost impossible to describe and do it justice. If you haven’t listened to it, you really should, there’s naught else like it and may never be. “Horsethief” is my fourth most played song after the three Doseone tracks.
+
+**(2) YHWH Nailgun - 45 Pounds**
+
+Fluid industry, the flows of liquid alloys, the curves of arcing joints, a cascade in unison of gears in harmony, releasing color and light in timed vibrant explosions. Ostensibly some kind of industrial rock, 45 Pounds is unlike anything else around it, paradoxically ripping dance floor groove out of industrial rigidity, driven by Sam Pickard’s jaw-dropping drumwork, dizzyingly complex but immediately compulsive, simultaneously playing heavy-thudding mechanical punk and island Cuban rhythmic bliss. 
+
+This alone would be worth the price of admission, but it gets better. These unbelievable beats furiously generate power underneath strange, simple melodies, so rudimentary they sound more like a single yawn from a distant siren, or a monolithic squeak from a massive aged pendulum, or the slow back-and-forth swing from a rusted-out childhood. In combination, and perhaps influenced by the album cover, 45 Pounds has a vibe completely original to itself, shadows cast by falling dust on behemoth machinery in the slowly glancing arc of the sun across the blissfully ignored fields of generators. 
+
+The result is a musical optical illusion, where you insist you think you know the dots aren’t moving as they dance all over you, where you know the lines aren’t bending as you feel dizziness set in, and when you know the shapes aren’t moving toward you as you fall into them. This thing is absolutely brilliant, and indescribably fresh. Check it out.
+
+**(1) Lychgate - Precipice**
+
+Words fail me now. I wholeheartedly and truly believe this is an innovation, not just for this year, or even for this decade, but for all 56 years of metal’s history, this is a landmark achievement and a monumental work of art in a new style. It staggers me that Lychgate left behind their doom influences and replaced it with something else entirely, and that this new entity has a serious shot at being better than my oh so beloved Contagion. I have listened to both of the last two in succession, and genuinely think they might be equals, and I cannot explain why. I can barely even grasp the reasons, and can mostly just feverishly insist that Vortigern is one of the greatest composers in the metallic sphere. 
+
+Nonetheless, I will make a fragmented and desperate attempt: notice how no riff on this album sounds like a riff from any other album, and there are so many of them, and they tie together so well, and they are so technical and contrapuntal, and they are so complex, virtuosic even, all creating works in a new genre, only distantly related to its nearest relatives, majestic and ruinous in awesome and bewildering dark glory. And that’s without mentioning the phenomenal Greg Chandler or the sublime Holdsworthian soloing. On this one, I have no case to make. All my albums listened, all my praise inscribed, all my crashouts and all my impassioned defenses were for this moment, in service of this one ask: Trust me on this one.
