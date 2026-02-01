@@ -5,8 +5,6 @@ author: everyone
 categories: community
 description: This wraps 2025 with everyone favorite albums saved here
 ---
-
-
 - - -
 
 ## **Snyde’s list**
@@ -229,6 +227,8 @@ Shearling have perfectly crafted everything I love about music into 62 minutes w
 - - -
 
 ## **Meri’s list**
+
+![](img/posts/chart-4-.png)
 
 **Honourable Mentions**
 
