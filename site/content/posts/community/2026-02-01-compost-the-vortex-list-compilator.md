@@ -1,9 +1,10 @@
 ---
-title: The Vortex List Compilator
+title: The Vortex 2025 Lists Maelstrom
 date: 2026-01-31T21:20:43.988Z
 author: everyone
 categories: community
 description: This wraps 2025 with everyone favorite albums saved here
+image: img/posts/vortex2025.jpg
 ---
 - - -
 
