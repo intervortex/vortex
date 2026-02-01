@@ -717,3 +717,53 @@ The result is a musical optical illusion, where you insist you think you know th
 Words fail me now. I wholeheartedly and truly believe this is an innovation, not just for this year, or even for this decade, but for all 56 years of metal’s history, this is a landmark achievement and a monumental work of art in a new style. It staggers me that Lychgate left behind their doom influences and replaced it with something else entirely, and that this new entity has a serious shot at being better than my oh so beloved Contagion. I have listened to both of the last two in succession, and genuinely think they might be equals, and I cannot explain why. I can barely even grasp the reasons, and can mostly just feverishly insist that Vortigern is one of the greatest composers in the metallic sphere. 
 
 Nonetheless, I will make a fragmented and desperate attempt: notice how no riff on this album sounds like a riff from any other album, and there are so many of them, and they tie together so well, and they are so technical and contrapuntal, and they are so complex, virtuosic even, all creating works in a new genre, only distantly related to its nearest relatives, majestic and ruinous in awesome and bewildering dark glory. And that’s without mentioning the phenomenal Greg Chandler or the sublime Holdsworthian soloing. On this one, I have no case to make. All my albums listened, all my praise inscribed, all my crashouts and all my impassioned defenses were for this moment, in service of this one ask: Trust me on this one.
+
+
+
+- - -
+
+## **Verinen’s list**
+
+![](img/posts/chart-11-.png)
+
+**(10) Species - Changelings**
+
+Changelings is a worthy recent entry into modern tech thrash. While it falls short of living up to Vektor, it still scratches that itch, which is more than can be said for many competing bands.
+
+**(9) Floating - Hesitating Lights**
+
+Floating plays a blend of post punk and death metal that immediately made me think of Fluisteraars. That’s a solid reference, and Hesitating Lights succeed where few venture.
+
+**(8) Uulliata Digir - Uulliata Digir**
+
+Another early contender that made it to the year's end list! Trumpets, female vox and deep growls are well mixed together and flow nicely. A very impressive debut!
+
+**(7) Veilburner - Longing for Triumph, Reeking of Tragedy**
+
+For many years Veilburner sounded like something I should like, and yet didn't really. 2024’s The Duality of Decapitation was where it started to pick up for me, but didn't make it to the year's end list. Finally, in 2025, they managed to produce something truly good. Longing for Triumph incorporates ethereal vox with very sharp, quasi militaristic rhythms. The experimentation works very well and makes me enthusiastic for the future of the band.
+
+**(6) Volahn - Popol Vuh**
+
+A mix of Black metal and flutes, quite reminiscent of Faunalia -probably explaining Snyde’s 8- Volahn presents an unrelenting album that keeps pummeling away at you. Brutal, uncompromising, and adept at seamlessly integrating the folks elements, Popol Vuh is well deserving of a spot here.
+
+**(5) Exterior Planet - Haragma II**
+
+An early year contender that made it to the end list, well done! I kept coming back to Haragma throughout the year and enjoyed it every time. Haragma 2 is dense and I didn't fully wrap my head around it until a few listens - I'm not sure I've fully done that to be honest. Doing that while remaining a compelling listen is not easy, and makes the album all the more rewarding to listen to.
+
+**(4) Fleshvessel - Obstinacy: Sisyphean Dreams Unfolded**
+
+After a promising but poorly executed EP in 2020 and a forgettable album in 2023, Fleshvessel doubles down on the silliness with Obstinacy. It is packed full of over the top vocals, jazzy moments and overall weirdness. The execution is not always perfect, but it’s such a fun listen that it’s easily forgivable for me.
+
+**(3) The Great Old Ones - Kadath**
+
+I had completely given up on TGOO. While I’m a great fan of their earlier production, from Al Azif to EOD, going through the astounding Tekeli-Li, their more recent stuff has brought me nothing but disappointment. I’m thus very pleasantly surprised that they managed to come back into my good graces in 2025. If Kadath doesn’t shine by its originality, it throws me back to the Lovecraftian eeriness that TGOO knows all too well.
+
+**(2) Imperial Triumphant - Goldstar**
+
+For me, Imperial Triumphant is the complete opposite of Deafheaven. It's a band I've enjoyed very consistently, 8ing all their releases since Vile Luxury. Goldstar is, as advertised, more accessible than their usual albums. It's the one that I've taken in the most rapidly, without finding more to love with each listen. And frankly, that’s a bit disappointing. Yet, their sheer competency and unique style punched through. I’ve found myself coming back to Goldstar time and time again. I don’t know if it’s the direction I would have favored for Imperial Triumphant, but they nailed it.
+
+**(1) Deafheaven - Lonely People With Power**
+
+I'm neither a fan of post black, nor a fan of Deafheaven. I'm not familiar with the rest of their discography and they never struck me as a band I would enjoy. Yet, I've been very impressed with Lonely People With Power. The blend of evocative, dreamy moments interspersed with Angst is nothing short of amazing.
+
+<!--EndFragment-->
