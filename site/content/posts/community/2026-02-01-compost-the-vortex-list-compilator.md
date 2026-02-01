@@ -285,6 +285,8 @@ A phenomenal achievement by a band at the top of their game. The quintessential 
 
 ## **ScoopMeister’s list**
 
+![](img/posts/chart-5-.png)
+
 **Honourable Mentions**
 
 * Imperial Triumphant - Goldstar
@@ -340,6 +342,8 @@ Qrixkuor's work has never really stuck with me before, but they hit on something
 - - -
 
 ## **Aker’s list**
+
+![](img/posts/chart-6-.png)
 
 **Honourable Mentions**
 
@@ -398,6 +402,8 @@ The Spiritual Sound is split down the middle. Two modes, two songwriters. First,
 
 ## **Planex’s list**
 
+![](img/posts/chart-7-.png)
+
 **Honorable Mentions**
 
 * Lychgate - Precipice
@@ -405,11 +411,15 @@ The Spiritual Sound is split down the middle. Two modes, two songwriters. First,
 
 **(10) Curta'n Wall - georgie and the dragon**
 
-Abysmal Specter seems to have taken a step back in 2025. Long gone is the release schedule of 2020 where he released a 20 minute raw black metal demo under a different name every few weeks, but interestingly, gone also are the higher effort full-lengths. This 23 minute RAW Curta'n Wall release from April and the Old Nick - The "Where Poison Apples Grow" EP from January are the only solo Abysmal Specter releases all year. I wouldn't put either of these in the GSR hall of fame, but both are enjoyable if not slightly unsatisfying releases. "georgie and the dragon" snuck into the bottom of my list more as a result of not having any other better choices rather than highest praise. Still, it fits a very specific niche for me of being the exact length of my commute and being simple enjoyable music that's easy to hit play on. "YR GWYDDBWYLL", the previous Curta'n Wall release was a big miss for me. It lacked the riffy black metal edge that made "Siege Ubsessed!" so compelling and we were left with nothing but rotten peasant drunken tavern warbling power metal. I was shocked and delighted to see a total 180 on "georgie and the dragon" which is much more in-line with the pre-Ubsessed! demos like "Crocodile Moat!!!!!!!" or "Terr'ble Death". It's RAW, Abysmal Specter's vocal performance is as great as ever, it has dungeon synth breakdowns, all of the right ingredients are here. Now we just have to wait for beautiful songs like 'triple flail' to get redone on a high effort full-length. Until then, "georgie and the dragon" remains mostly a success of circumstance in my listening this year.
+Abysmal Specter seems to have taken a step back in 2025. Long gone is the release schedule of 2020 where he released a 20 minute raw black metal demo under a different name every few weeks, but interestingly, gone also are the higher effort full-lengths. This 23 minute RAW Curta'n Wall release from April and the Old Nick - The "Where Poison Apples Grow" EP from January are the only solo Abysmal Specter releases all year. I wouldn't put either of these in the GSR hall of fame, but both are enjoyable if not slightly unsatisfying releases. "georgie and the dragon" snuck into the bottom of my list more as a result of not having any other better choices rather than highest praise. 
+
+Still, it fits a very specific niche for me of being the exact length of my commute and being simple enjoyable music that's easy to hit play on. "YR GWYDDBWYLL", the previous Curta'n Wall release was a big miss for me. It lacked the riffy black metal edge that made "Siege Ubsessed!" so compelling and we were left with nothing but rotten peasant drunken tavern warbling power metal. I was shocked and delighted to see a total 180 on "georgie and the dragon" which is much more in-line with the pre-Ubsessed! demos like "Crocodile Moat!!!!!!!" or "Terr'ble Death". It's RAW, Abysmal Specter's vocal performance is as great as ever, it has dungeon synth breakdowns, all of the right ingredients are here. Now we just have to wait for beautiful songs like 'triple flail' to get redone on a high effort full-length. Until then, "georgie and the dragon" remains mostly a success of circumstance in my listening this year.
 
 **(9) Ancient Death - Ego Dissolution**
 
-I like this album more than I respect it. "Ego Dissolution" is OSDM. Everything you like about <insert progressive-leaning OSDM and OSDM revival bands> is here. It's written efficiently, hitting every moment you would want from this album without any meandering down overly strange and offputting paths. It's agonizingly mature for a debut album. Where's the charming experimentation? The production is too perfect! Where do you go from here? These musicians are obviously very talented and they've made a good death metal album. I didn't know it until recently, but I saw frontman Jerry Witunsky of Ancient Death rip through Atheist's classics on stage with Kelly Schaefer at Shredfest 2025 where he nailed all the leads from Unquestionable Presence with a huge smile on his face. That set was my favorite show all year, and I too love Atheist, but Atheist took risks 30 years ago to achieve their legendary status. There's no risks here, just a freakishly strong foundation. I hope Ancient Death can find ways to challenge themselves in the future.
+I like this album more than I respect it. "Ego Dissolution" is OSDM. Everything you like about <insert progressive-leaning OSDM and OSDM revival bands> is here. It's written efficiently, hitting every moment you would want from this album without any meandering down overly strange and offputting paths. It's agonizingly mature for a debut album. Where's the charming experimentation? The production is too perfect! Where do you go from here? These musicians are obviously very talented and they've made a good death metal album. 
+
+I didn't know it until recently, but I saw frontman Jerry Witunsky of Ancient Death rip through Atheist's classics on stage with Kelly Schaefer at Shredfest 2025 where he nailed all the leads from Unquestionable Presence with a huge smile on his face. That set was my favorite show all year, and I too love Atheist, but Atheist took risks 30 years ago to achieve their legendary status. There's no risks here, just a freakishly strong foundation. I hope Ancient Death can find ways to challenge themselves in the future.
 
 **(8) Martröð - Draumsýnir Eldsins**
 
@@ -425,7 +435,9 @@ THEY CONTINUE TO BE FUCKING ICE. FREEZING COLD. YOUR SKIN IS TURNING BLUE. Perfe
 
 **(5) Imperial Triumphant - Goldstar**
 
-Imperial Triumphant are the smartest guys in extreme metal. Achieving their current level of mainstream notoriety with songs like 'Hotel Sphinx' is unheard of. People get drawn in by the Slipknot masks, art deco visuals, and the novel allure of mixing jazz with blackened death metal. If you just wanted attention, maybe you'd do the same thing. Imperial Triumphant is more than these gimmicks. These aspects are Imperial Triumphant, not stylish accessories to dress their intentions. A dumber, more cynical band would never include an interpretation of Handel's "Sarabande" as the main riff of "Hotel Sphinx". A lesser group of artists wouldn't have the capacity for a video interview where they tour the Chrysler building professing their love for its magnificence, down to small details of the materials of interior walls. "Goldstar" is astonishingly approachable from a band who've declared Portal's "Ion" to be their holy scripture, and has managed the near-impossible feat of making twisted extremity catchy and memorable. This still doesn't surpass "Alphaville", but it's a total success and a very deserving last ever album to be recorded in the legendary Menegroth, the Thousand Caves (RIP). Imperial Triumphant deserve everything and more.
+Imperial Triumphant are the smartest guys in extreme metal. Achieving their current level of mainstream notoriety with songs like 'Hotel Sphinx' is unheard of. People get drawn in by the Slipknot masks, art deco visuals, and the novel allure of mixing jazz with blackened death metal. If you just wanted attention, maybe you'd do the same thing. Imperial Triumphant is more than these gimmicks. These aspects are Imperial Triumphant, not stylish accessories to dress their intentions. A dumber, more cynical band would never include an interpretation of Handel's "Sarabande" as the main riff of "Hotel Sphinx".
+
+A lesser group of artists wouldn't have the capacity for a video interview where they tour the Chrysler building professing their love for its magnificence, down to small details of the materials of interior walls. "Goldstar" is astonishingly approachable from a band who've declared Portal's "Ion" to be their holy scripture, and has managed the near-impossible feat of making twisted extremity catchy and memorable. This still doesn't surpass "Alphaville", but it's a total success and a very deserving last ever album to be recorded in the legendary Menegroth, the Thousand Caves (RIP). Imperial Triumphant deserve everything and more.
 
 **(4) Species - Changelings**
 
@@ -433,7 +445,9 @@ Put simply, this is the best tech thrash album in almost a decade. Species are f
 
 **(3) DIM - Dark Age Decadence**
 
-Since being mystified and gripped by his 2022 album "Steeped Sky, Stained Light", I've been wanting to live in the world painted by DIM. Perhaps the only transcendent dungeon synth artist, his arrangements are unique and thoughtful in a way I can't say about any other. He's shifted styles from genre-defining classic dungeon synth to energetic evolutions, to contemplative ambient, to experimental electronic, all while maintaining an unmistakable signature style. If you've listened to his others, it's very obvious that "Dark Age Decadence" is different. Or is it? Clearly something is different because this is the introduction of raw, evil, trem picked, 2nd wave black metal ferocity. Yet, it feels like this was always just beneath the surface, bubbling up from below. Having listened to every DIM album multiple times now, there's this undercurrent of darkness at the edges that was being restrained. On my first listen of "Dark Age Decadence", on the wonderful 'The Weeping', the idiosyncratic lush arrangement gives way to the darkness. "Finally" I thought, as though I always knew this was going to happen. "Dark Age Decadence" is a beautiful and intense purge of black bile as penance to return to holiness.
+Since being mystified and gripped by his 2022 album "Steeped Sky, Stained Light", I've been wanting to live in the world painted by DIM. Perhaps the only transcendent dungeon synth artist, his arrangements are unique and thoughtful in a way I can't say about any other. He's shifted styles from genre-defining classic dungeon synth to energetic evolutions, to contemplative ambient, to experimental electronic, all while maintaining an unmistakable signature style. If you've listened to his others, it's very obvious that "Dark Age Decadence" is different. 
+
+Or is it? Clearly something is different because this is the introduction of raw, evil, trem picked, 2nd wave black metal ferocity. Yet, it feels like this was always just beneath the surface, bubbling up from below. Having listened to every DIM album multiple times now, there's this undercurrent of darkness at the edges that was being restrained. On my first listen of "Dark Age Decadence", on the wonderful 'The Weeping', the idiosyncratic lush arrangement gives way to the darkness. "Finally" I thought, as though I always knew this was going to happen. "Dark Age Decadence" is a beautiful and intense purge of black bile as penance to return to holiness.
 
 **(2) Suffering Hour - Impelling Rebirth**
 
@@ -446,6 +460,8 @@ I didn't expect to like this album. Not from trve-kvlt elitism, which I'm not op
 - - -
 
 ## **strawberrydeluxe’s list**
+
+![](img/posts/chart-8-.png)
 
 **Honorable Mentions**
 
@@ -505,6 +521,8 @@ I’d been hotly anticipating a new Trauma Bond album ever since hearing their s
 - - -
 
 ## **Tarbeaux’s list**
+
+![](img/posts/chart-9-.png)
 
 **(10) Species – Changelings**
 
