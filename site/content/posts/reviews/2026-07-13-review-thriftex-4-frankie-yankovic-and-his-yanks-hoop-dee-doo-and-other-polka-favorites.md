@@ -16,6 +16,10 @@ I was chatting with a friend recently about family histories. As these conversat
 
 ![](img/posts/polkanex.jpg)
 
+[https://www.youtube.](https://www.youtube.com/watch?v=4s-TT35NdkU)[com/watch?v=4s-TT35NdkU](https://www.youtube.com/watch?v=4s-TT35NdkU)
+
+*\[Note: This vinyl rip played side B before side A and the timestamps in the description are wrong. Start at 12:06 to listen to side A first if you feel that’s important.]*
+
 Frankie Yankovic and His Yanks don’t play the big tuba OOM PAH style that was more popular further north. I don’t claim to be an expert in regional polka styles, but Frankie employs a jazzier, poppier sound in his Slovenian / Cleveland style polka compared to the degenerate bass-boosted brainrot German / Dutchman polka that I’m more familiar with. You’ll hear all sorts of instrumentation across Hoop-Dee-Doo, with plenty of accordion shred, and quite a lot of electric jazz guitar. Some of the layered melodies between the lead accordion and the clarinet(?) are impressively complex. 
 
 Polka doesn’t always feature vocals, but Frankie and his Yanks have everything you’d want to sing along to after 12-19 beers at the polka tavern. Whether you want to sing along to the fun polka songs about how much fun polka is:
