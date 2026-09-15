@@ -30,6 +30,12 @@ Next up, an oddity. Somehow, a CD full of MP3 rips of albums by Russian singer S
 
 Finally, I have a bona fide treasure, a copy of *Vamos Cantar* ("Let's Sing"), Brazilian Christian worship music by strapping young lad Carlos Albert. It's even signed by the man himself ("with love"). Not only is this album absolutely nowhere to be found online, there's no copyright date anywhere on the CD, so I don't know when it was released, and I can find very little about Carlos himself on the internet. I did find one of his later albums on a YouTube channel devoted to uploading Christian CDs from Brazil, and the lyrics to this later album are on the Brazilian lyrics website letras.mus.br, but that's about it. Searching his name only brings me to a bunch of criminal reports of people with the same name (or... could it be?...). As you'd expect from Brazilian gospel music, it's full of cheerful and energetic, but endlessly repetitive, hymns to Christ and his almighty daddy. The album even comes with 4 bonus tracks with alternate takes of previous songs. What a steal! So get your crosses out, get on your knees, and start worshipping. HE'S WATCHING!
 
+A﻿lbum stream here:[](https://archive.org/details/carlos-albert-vamos-cantar)
+
+<https://archive.org/details/carlos-albert-vamos-cantar>
+
+
+
 ![](img/posts/carlos-albert.png)
 
 <
